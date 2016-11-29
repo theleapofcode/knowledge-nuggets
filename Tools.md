@@ -14,3 +14,4 @@ Proximi | Location tracking and abstraction API | geolocation, beacons, gps, tra
 Seriously.js | A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL | webgl, html5, video-editing, media | https://github.com/brianchirls/Seriously.js
 Localtunnel | Proxy for exposing localhost to internet | proxy, dev-tool | https://github.com/localtunnel/localtunnel
 Ngrok | Proxy for exposing localhost to internet | proxy, dev-tool | https://ngrok.com/
+Reveal.js | HTML5 presentation framework | presentation, HTML5, productivity-tool | https://github.com/hakimel/reveal.js
