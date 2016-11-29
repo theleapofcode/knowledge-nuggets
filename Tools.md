@@ -15,3 +15,7 @@ Seriously.js | A real-time, node-based video effects compositor for the web buil
 Localtunnel | Proxy for exposing localhost to internet | proxy, dev-tool | https://github.com/localtunnel/localtunnel
 Ngrok | Proxy for exposing localhost to internet | proxy, dev-tool | https://ngrok.com/
 Reveal.js | HTML5 presentation framework | presentation, HTML5, productivity-tool | https://github.com/hakimel/reveal.js
+HTML5maker | HTML5 animation making tool | animation, HTML5, online-tool | http://html5maker.com/
+Audio Effects | HTML5 audio effects tool | HTML5, web-audio, online-tool | https://github.com/cwilso/Audio-Input-Effects
+Web Audio Playground | Web audio playground | HTML5, web-audio, online-tool | http://webaudioplayground.appspot.com/
+
