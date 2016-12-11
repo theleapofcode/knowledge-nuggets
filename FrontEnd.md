@@ -41,5 +41,5 @@ GDoc | Google docs as CMS | cms | https://github.com/jadeallencook/gDoc.js
 WebGazer | Eye tracking library | eye-tracking | https://github.com/brownhci/WebGazer
 PushJS | Web notification API library | push-api , notification-api | https://github.com/Nickersoft/push.js
 Bootstrap-wysiwig | Bootstrap rich text editor | ui-lib | https://github.com/mindmup/bootstrap-wysiwyg
-
+DopplerJS | Motion detection using doppler | physics, motion-detection | https://github.com/DanielRapp/doppler
 
