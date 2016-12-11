@@ -19,4 +19,4 @@ HTML5maker | HTML5 animation making tool | animation, HTML5, online-tool | http:
 Audio Effects | HTML5 audio effects tool | HTML5, web-audio, online-tool | https://github.com/cwilso/Audio-Input-Effects
 Web Audio Playground | Web audio playground | HTML5, web-audio, online-tool | http://webaudioplayground.appspot.com/
 Doclets | JSDoc generator | API-documentation | https://github.com/lipp/doclets
-
+node-notes | NOTE, FIXME, TODO lister tool | node, dev-tool | https://github.com/stephenb/node-notes
