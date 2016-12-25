@@ -23,4 +23,5 @@ Load balancing web sockets | web-socket | https://deepstream.io/blog/load-balanc
 Github pages | github, static-site | https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3
 Debugging ES6 in VSCode | vscode, dev, es6 | https://gist.github.com/dchowitz/83bdd807b5fa016775f98065b381ca4e
 WebRTC screen sharing | webrtc, screen-share | https://medium.com/@chris_82106/implementing-webrtc-screen-sharing-in-a-web-app-late-2016-51c1a2642e4#.gneagpasl
+Webpack for NodeJS | webpack, node | http://jlongster.com/Backend-Apps-with-Webpack--Part-I
 
