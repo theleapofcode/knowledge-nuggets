@@ -14,4 +14,5 @@ Flare | Cisco location services | cisco, location | https://github.com/CiscoDevN
 Jibo | Social robot | robot, ml | https://www.jibo.com/
 IFTTT | Connecting services | services | https://ifttt.com/
 DopplerJS | Motion sensing with doppler effect | gesture | https://danielrapp.github.io/doppler/
+NeuroJS | Visualization for OpenBCI | js, bci | https://github.com/NeuroJS
 
