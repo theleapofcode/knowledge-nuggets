@@ -23,4 +23,8 @@ npm-check | npm packages check | util, npm | https://github.com/dylang/npm-check
 mock-node | Mock server | server, mock | https://github.com/ianunay/mock-node
 aopromise | Node AOP framework | aop | https://github.com/manokovacs/aopromise
 pino | Node JSON logger | log | https://github.com/pinojs/pino
+NodeAdmin| Node, express, mysql admin tool | admin | https://github.com/nodeadmin/nodeadmin
+Nodal | Node API microservices | api, microservice | https://github.com/keithwhor/nodal
+NodeSoap | Node SOAP client | soap | https://github.com/vpulim/node-soap
+TraceGL | Node tracing | trace, debugging, log | https://github.com/traceglMPL/tracegl
 
