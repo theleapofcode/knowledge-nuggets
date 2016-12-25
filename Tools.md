@@ -20,3 +20,4 @@ Audio Effects | HTML5 audio effects tool | HTML5, web-audio, online-tool | https
 Web Audio Playground | Web audio playground | HTML5, web-audio, online-tool | http://webaudioplayground.appspot.com/
 Doclets | JSDoc generator | API-documentation | https://github.com/lipp/doclets
 node-notes | NOTE, FIXME, TODO lister tool | node, dev-tool | https://github.com/stephenb/node-notes
+gitignore | Gitignore file generator | online-tool, git | https://www.gitignore.io/
