@@ -16,3 +16,4 @@ OTalk | WebRTC framework | js | http://otalk.org/
 Jitsi | WebRTC framework | js, gateway | https://jitsi.org/
 Temasys | WebRTC framework | js | https://temasys.github.io/
 WebRTC Samples | Samples | js | https://github.com/webrtc/samples
+SignalFire | Signalling server | js | https://github.com/MichielvdVelde/signal-fire
