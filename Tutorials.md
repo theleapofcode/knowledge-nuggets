@@ -20,4 +20,7 @@ HA MQTT cluster | mqtt | https://medium.com/@lelylan/how-to-build-an-high-availa
 Mac remote control using arduino | mac, arduino, iot | https://www.sitepoint.com/remote-control-mac-node-js-arduino/
 Traffic monitoring using Spark streaming and kafka, spark, kafka | https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming
 Load balancing web sockets | web-socket | https://deepstream.io/blog/load-balancing-websocket-connections/
+Github pages | github, static-site | https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3
+Debugging ES6 in VSCode | vscode, dev, es6 | https://gist.github.com/dchowitz/83bdd807b5fa016775f98065b381ca4e
+WebRTC screen sharing | webrtc, screen-share | https://medium.com/@chris_82106/implementing-webrtc-screen-sharing-in-a-web-app-late-2016-51c1a2642e4#.gneagpasl
 
