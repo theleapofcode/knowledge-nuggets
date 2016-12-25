@@ -21,3 +21,4 @@ Web Audio Playground | Web audio playground | HTML5, web-audio, online-tool | ht
 Doclets | JSDoc generator | API-documentation | https://github.com/lipp/doclets
 node-notes | NOTE, FIXME, TODO lister tool | node, dev-tool | https://github.com/stephenb/node-notes
 gitignore | Gitignore file generator | online-tool, git | https://www.gitignore.io/
+Jupyter | Notebook for data science | notebook, share | http://jupyter.org/
