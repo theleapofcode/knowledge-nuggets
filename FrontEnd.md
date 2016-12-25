@@ -42,4 +42,7 @@ WebGazer | Eye tracking library | eye-tracking | https://github.com/brownhci/Web
 PushJS | Web notification API library | push-api , notification-api | https://github.com/Nickersoft/push.js
 Bootstrap-wysiwig | Bootstrap rich text editor | ui-lib | https://github.com/mindmup/bootstrap-wysiwyg
 DopplerJS | Motion detection using doppler | physics, motion-detection | https://github.com/DanielRapp/doppler
+Fetch | Fetch polyfill | ui-lib, http-client | https://github.com/github/fetch
+VocaJS | JS string manipulation lib | js-lib, string | https://github.com/panzerdp/voca/
+Flow | Static type checker for JS | type-checker | https://flowtype.org/
 
