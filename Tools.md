@@ -23,3 +23,8 @@ node-notes | NOTE, FIXME, TODO lister tool | node, dev-tool | https://github.com
 gitignore | Gitignore file generator | online-tool, git | https://www.gitignore.io/
 Jupyter | Notebook for data science | notebook, share | http://jupyter.org/
 Coveralls | Cloud test coverage tracker | test | https://coveralls.io/
+BrowserStack | Browser testing on VMs | test | https://www.browserstack.com/
+Surge | Static site publishing | static-site | http://surge.sh/
+Sentry | CLoud error tracking and reporting | error | https://sentry.io/welcome/
+Errbit | Error catcher and reporting | error | https://github.com/errbit/errbit
+BrowserSync | Synchronized browser testing | test | https://www.browsersync.io/
