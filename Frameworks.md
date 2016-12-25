@@ -2,3 +2,27 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
+Hoodie | Complete backend framework | complete-stack | http://hood.ie/
+OwnCloud | Private Cloud backend | cloud | https://owncloud.org/
+Blocky | Visual programming | visual-programming | https://github.com/google/blockly
+Electron | Native app development using JS | js | http://electron.atom.io/
+OpenCart | PHP based e-commerce stack | ecommerce | https://github.com/opencart/opencart
+FeathersJS | API development framework for Node | node, api | http://feathersjs.com/
+QBit | Java microservice framework | java, microservice | http://advantageous.github.io/qbit/
+DeepStream | Realtime server | realtime | https://deepstream.io/
+Tyk | API management | api-manager | https://tyk.io/
+Electrode | Node + React framework | node, react | http://www.electrode.io/
+Seneca | Microservice framework for node | node, microservice | http://senecajs.org/
+Apostrophe | Node based CMS | cms, node | http://apostrophecms.org/
+Proximi | Location abstraction service | location | https://proximi.io/
+SWAPI | Star wars API | api | https://github.com/phalt/swapi
+Traccar | GPS tracking platform | gps | https://www.traccar.org/
+Kotlin | Statically type programming language for JVM | language | https://kotlinlang.org/
+UserGrid | BaaS for apps | baas | https://usergrid.apache.org/
+Odoo | ERP and CRM platform | erp, crm | https://www.odoo.com/
+Reaction | e-commerce platform on Node | node, ecommerce | https://github.com/reactioncommerce/reaction
+Hackathon starter | Boilerplate code for Node | node, mean | https://github.com/sahat/hackathon-starter
+TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
+OpenTracing | Distributed tracing framework | tracing | http://opentracing.io/
+Serverless | Framework for building backend using AWS, Azure, Google etc. | cloud | https://github.com/serverless/serverless
+KeystoneJS | Node CMS | cms, node | http://keystonejs.com/
