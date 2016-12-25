@@ -27,4 +27,5 @@ NodeAdmin| Node, express, mysql admin tool | admin | https://github.com/nodeadmi
 Nodal | Node API microservices | api, microservice | https://github.com/keithwhor/nodal
 NodeSoap | Node SOAP client | soap | https://github.com/vpulim/node-soap
 TraceGL | Node tracing | trace, debugging, log | https://github.com/traceglMPL/tracegl
+SuperTest | Node HTTP testing lib | test, http | https://github.com/visionmedia/supertest
 
