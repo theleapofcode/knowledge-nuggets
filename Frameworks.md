@@ -26,3 +26,11 @@ TestCafe | Automated browser testing using Node | node, selenium-like | https://
 OpenTracing | Distributed tracing framework | tracing | http://opentracing.io/
 Serverless | Framework for building backend using AWS, Azure, Google etc. | cloud | https://github.com/serverless/serverless
 KeystoneJS | Node CMS | cms, node | http://keystonejs.com/
+JSONata | JSON query and transformation framwework | json | https://github.com/jsonata-js
+Dataloader | Data fetching layer add consitency, cacheing etc. | facebook, data-layer | https://github.com/facebook/dataloader
+dstore | Client-side data framework | client-side, data-model | http://dstorejs.io/
+datdata | Data sharing framework | data-sharing | https://datproject.org/
+Messagepack | JSON alternative data format | data-format | http://msgpack.org/
+Restreamer | Video streaming fremework | node, video | https://datarhei.github.io/restreamer/
+Streama | Self hosted netflix | video | https://github.com/dularion/streama
+Mediadrop | Media management platform | video | http://mediadrop.video/
