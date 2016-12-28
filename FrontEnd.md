@@ -46,4 +46,5 @@ Fetch | Fetch polyfill | ui-lib, http-client | https://github.com/github/fetch
 VocaJS | JS string manipulation lib | js-lib, string | https://github.com/panzerdp/voca/
 Flow | Static type checker for JS | type-checker | https://flowtype.org/
 ZoneJS | ThreadLocal like for JS | js | https://github.com/angular/zone.js/
+Polyfill | Single JS lib to polyfill anything for browser | js, polyfill | https://qa.polyfill.io/v2/docs/
 
