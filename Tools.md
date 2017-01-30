@@ -28,3 +28,5 @@ Surge | Static site publishing | static-site | http://surge.sh/
 Sentry | CLoud error tracking and reporting | error | https://sentry.io/welcome/
 Errbit | Error catcher and reporting | error | https://github.com/errbit/errbit
 BrowserSync | Synchronized browser testing | test | https://www.browsersync.io/
+Graylog | Log management | log management | https://www.graylog.org/
+Portainer | Management UI for docker | docker, management | https://github.com/portainer/portainer
