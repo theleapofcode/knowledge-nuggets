@@ -48,4 +48,5 @@ Flow | Static type checker for JS | type-checker | https://flowtype.org/
 ZoneJS | ThreadLocal like for JS | js | https://github.com/angular/zone.js/
 Polyfill | Single JS lib to polyfill anything for browser | js, polyfill | https://qa.polyfill.io/v2/docs/
 Nock | HTTP mocking | js, node, mock, test | https://github.com/node-nock/nock
-
+Cycle.js | Javascript reactive framework | js, node, rx | https://cycle.js.org/
+Rx Marbles | Visualization of Rx Obsevables | js, node, rx | http://rxmarbles.com/
