@@ -28,4 +28,7 @@ Nodal | Node API microservices | api, microservice | https://github.com/keithwho
 NodeSoap | Node SOAP client | soap | https://github.com/vpulim/node-soap
 TraceGL | Node tracing | trace, debugging, log | https://github.com/traceglMPL/tracegl
 SuperTest | Node HTTP testing lib | test, http | https://github.com/visionmedia/supertest
-
+Nearly | Node string parser toolkit | parser | https://github.com/Hardmath123/nearley
+Cassandrom | ODM for cassandra like mongoose | cassandra, ODM | https://github.com/kiril-me/cassandrom
+Hydra | Node microservice framework like netflix oss | microservice | https://github.com/flywheelsports/fwsp-hydra
+NaturalNode | NLP for Node | NLP | https://github.com/NaturalNode/natural
