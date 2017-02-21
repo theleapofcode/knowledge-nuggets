@@ -32,3 +32,4 @@ Nearly | Node string parser toolkit | parser | https://github.com/Hardmath123/ne
 Cassandrom | ODM for cassandra like mongoose | cassandra, ODM | https://github.com/kiril-me/cassandrom
 Hydra | Node microservice framework like netflix oss | microservice | https://github.com/flywheelsports/fwsp-hydra
 NaturalNode | NLP for Node | NLP | https://github.com/NaturalNode/natural
+Jimp | JS Image processing | Image-processing | https://github.com/oliver-moran/jimp
