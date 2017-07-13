@@ -10,3 +10,5 @@ Rancher | Container management | docker | http://rancher.com/
 Sonarcube | Code quality tool | java, code-quality | https://www.sonarqube.org/
 SelfHosted | List of softwares that can be self hosted | list | https://github.com/Kickball/awesome-selfhosted
 Mantl | Microservice stack by cisco | cisco, microservice | https://github.com/mantl/mantl
+Orbiter | Docker swarm auto-scaler | auto-scaling | https://github.com/gianarb/orbiter
+Vamp | Autoscaling microservice orchestrator | microservice, orchestration | http://vamp.io/
