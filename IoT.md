@@ -17,3 +17,5 @@ DopplerJS | Motion sensing with doppler effect | gesture | https://danielrapp.gi
 NeuroJS | Visualization for OpenBCI | js, bci | https://github.com/NeuroJS
 WebGazer.js | JS Eye tracking | js, eye-tracking | https://github.com/brownhci/WebGazer
 DiffyJS | Motion detection | js, motion-detection | https://github.com/maniart/diffyjs
+Flogo | IoT integration framework | framework, go | http://www.flogo.io/
+Kura | IoT framework | Java, framework | http://www.eclipse.org/kura/
