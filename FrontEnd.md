@@ -50,3 +50,5 @@ Polyfill | Single JS lib to polyfill anything for browser | js, polyfill | https
 Nock | HTTP mocking | js, node, mock, test | https://github.com/node-nock/nock
 Cycle.js | Javascript reactive framework | js, node, rx | https://cycle.js.org/
 Rx Marbles | Visualization of Rx Obsevables | js, node, rx | http://rxmarbles.com/
+WorkBox | Collection of libs for progressive WebApps | progressive apps lib | https://github.com/GoogleChrome/workbox
+AR.js | Augmented reality for web | AR, JS | https://github.com/jeromeetienne/AR.js
