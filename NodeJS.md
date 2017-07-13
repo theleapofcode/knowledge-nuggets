@@ -34,3 +34,5 @@ Hydra | Node microservice framework like netflix oss | microservice | https://gi
 NaturalNode | NLP for Node | NLP | https://github.com/NaturalNode/natural
 Jimp | JS Image processing | Image-processing | https://github.com/oliver-moran/jimp
 RxJS v4 to v5 shim | RxJS lib to bridge v4 and v5 | RxJS | https://github.com/jayphelps/rxjs-compatibility
+Cote | Microservice framework | microservice, framework | https://github.com/dashersw/cote
+Pkg | NodeJS packing into executable | packaging | https://github.com/zeit/pkg
