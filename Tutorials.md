@@ -26,3 +26,4 @@ WebRTC screen sharing | webrtc, screen-share | https://medium.com/@chris_82106/i
 Webpack for NodeJS | webpack, node | http://jlongster.com/Backend-Apps-with-Webpack--Part-I
 Parsing anything using Earlet algorithm | parsing, nearly | https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e
 Running express in HTTP/2 | express, node, HTTP2 | http://ivanjov.com/running-express-koa-and-hapi-on-http-2/
+Updating fork with same branches and tags as the original repo | git | https://stackoverflow.com/questions/15779740/how-to-update-my-fork-to-have-the-same-branches-and-tags-as-the-original-reposit
