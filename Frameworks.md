@@ -34,3 +34,7 @@ Messagepack | JSON alternative data format | data-format | http://msgpack.org/
 Restreamer | Video streaming fremework | node, video | https://datarhei.github.io/restreamer/
 Streama | Self hosted netflix | video | https://github.com/dularion/streama
 Mediadrop | Media management platform | video | http://mediadrop.video/
+VulcanJS | Full stack framework with React, GraphQL, meteor | https://github.com/VulcanJS/Vulcan
+Cell | Self driving Wep app framwork | web | https://github.com/intercellular/cell
+Superscript | Dialog based Chatbot framework | chatbot, JS | https://github.com/superscriptjs/superscript
+RxDB | reactive database in JS | JS, database | https://github.com/pubkey/rxdb
