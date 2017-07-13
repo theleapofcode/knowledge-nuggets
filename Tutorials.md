@@ -27,3 +27,11 @@ Webpack for NodeJS | webpack, node | http://jlongster.com/Backend-Apps-with-Webp
 Parsing anything using Earlet algorithm | parsing, nearly | https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e
 Running express in HTTP/2 | express, node, HTTP2 | http://ivanjov.com/running-express-koa-and-hapi-on-http-2/
 Updating fork with same branches and tags as the original repo | git | https://stackoverflow.com/questions/15779740/how-to-update-my-fork-to-have-the-same-branches-and-tags-as-the-original-reposit
+Science based games | science | https://github.com/stared/science-based-games-list
+Microservice chess | microservice | https://github.com/JeffML/ms-chess
+Seneca microservice tutorial | seneca, nodejs, chess | https://medium.freecodecamp.org/follow-the-rules-with-seneca-b3cf3d08fe5d
+Best websites for programmers | websites | https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+Docker swarm auto-scaling | docker, auto-scaling | https://scene-si.org/2017/05/02/auto-scaling-a-docker-swarm/
+Node debugging | nodejs, debugging | https://www.sitepoint.com/debugging-javascript-node-debugger/
+StackShare | techonolgy stacks at companies | https://stackshare.io/
+
