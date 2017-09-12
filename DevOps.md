@@ -12,3 +12,5 @@ SelfHosted | List of softwares that can be self hosted | list | https://github.c
 Mantl | Microservice stack by cisco | cisco, microservice | https://github.com/mantl/mantl
 Orbiter | Docker swarm auto-scaler | auto-scaling | https://github.com/gianarb/orbiter
 Vamp | Autoscaling microservice orchestrator | microservice, orchestration | http://vamp.io/
+Docker swarm visualizer | UI for docker swarm | docker, swarm, ui | https://github.com/dockersamples/docker-swarm-visualizer
+Docker logging best practices | Docker logging | docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
