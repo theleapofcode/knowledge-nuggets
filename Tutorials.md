@@ -31,7 +31,10 @@ Science based games | science | https://github.com/stared/science-based-games-li
 Microservice chess | microservice | https://github.com/JeffML/ms-chess
 Seneca microservice tutorial | seneca, nodejs, chess | https://medium.freecodecamp.org/follow-the-rules-with-seneca-b3cf3d08fe5d
 Best websites for programmers | websites | https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-Docker swarm auto-scaling | docker, auto-scaling | https://scene-si.org/2017/05/02/auto-scaling-a-docker-swarm/
+Docker swarm auto-scaling | docker, auto-scaling | https://scene-si.org/2017/05/02/auto-scaling-a-docker-swarm/ , https://technologyconversations.com/2017/08/24/auto-scaling-docker-swarm-services-using-instrumented-metrics/
 Node debugging | nodejs, debugging | https://www.sitepoint.com/debugging-javascript-node-debugger/
 StackShare | techonolgy stacks at companies | https://stackshare.io/
 Mac VPN setup | Setting up VPN on OS X | http://www.wikihow.com/Set-Up-VNC-on-Mac-OS-X
+Awesome Lists | Awesome lists of all | lists | https://github.com/sindresorhus/awesome
+NodeJS production best practices | Node best practices | node | http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
+Doppio | JVM in browser JS | jvm, js | https://github.com/plasma-umass/doppio
