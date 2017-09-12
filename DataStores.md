@@ -9,3 +9,4 @@ orchestrate | Cloud DaaS | cloud, daas | https://orchestrate.io/
 ArangoDB | Multi model store - Graph, Document, key-value | graph, document, key-value | https://www.arangodb.com/
 VoltDB | Stream processing in-memory data store | stream-processing | https://www.voltdb.com/
 DGraph | Distributed Graph store | graph | https://dgraph.io/
+CrateDB | SQL DB for IoT | sql, iot | https://crate.io/
