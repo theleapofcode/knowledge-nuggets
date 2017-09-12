@@ -36,3 +36,7 @@ Jimp | JS Image processing | Image-processing | https://github.com/oliver-moran/
 RxJS v4 to v5 shim | RxJS lib to bridge v4 and v5 | RxJS | https://github.com/jayphelps/rxjs-compatibility
 Cote | Microservice framework | microservice, framework | https://github.com/dashersw/cote
 Pkg | NodeJS packing into executable | packaging | https://github.com/zeit/pkg
+r2 | NodeJS REST client | rest client | https://github.com/mikeal/r2
+PushJS | Desktop notification lib | desktop notification, lib | https://github.com/Nickersoft/push.js
+NumJS | Numpy like JS lib | numerical | https://github.com/nicolaspanel/numjs
+Apollo | GraphQL server for Express | graphql | https://github.com/apollographql/apollo-server
