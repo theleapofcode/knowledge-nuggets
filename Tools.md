@@ -31,3 +31,6 @@ BrowserSync | Synchronized browser testing | test | https://www.browsersync.io/
 Graylog | Log management | log management | https://www.graylog.org/
 Portainer | Management UI for docker | docker, management | https://github.com/portainer/portainer
 pritunl | VPN server | vpn | https://github.com/pritunl/pritunl
+Mathcha | Online math editor | editor | https://www.mathcha.io/
+ExpressGateway | Microservice API gateway built on express | gateway | http://www.express-gateway.io/
+ICNDB | API for chuck norris jokes | json, rest | http://www.icndb.com/api/
