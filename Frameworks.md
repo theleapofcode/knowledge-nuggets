@@ -41,4 +41,4 @@ RxDB | reactive database in JS | JS, database | https://github.com/pubkey/rxdb
 TakeOff | Prototyping ful stack framwork with Hapi, React, Postgres | full stack | https://tanepiper.github.io/takeoff/
 OpenICE | Integrated clinical environment | healthcare | https://www.openice.info/
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
-FaaS | Serverless functions with docker and kubernetes | funtions, docker | https://github.com/alexellis/faas
+OpenFaaS | Serverless functions for Docker and Kubernetes | functions, docker | https://github.com/alexellis/faas
