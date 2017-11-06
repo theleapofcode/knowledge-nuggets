@@ -40,3 +40,7 @@ r2 | NodeJS REST client | rest client | https://github.com/mikeal/r2
 PushJS | Desktop notification lib | desktop notification, lib | https://github.com/Nickersoft/push.js
 NumJS | Numpy like JS lib | numerical | https://github.com/nicolaspanel/numjs
 Apollo | GraphQL server for Express | graphql | https://github.com/apollographql/apollo-server
+NapaJS | Multi-threaded JS runtime by Microsoft | multi-threaded, runtime | https://github.com/Microsoft/napajs
+Strapi | NodeJS API platform | api | https://strapi.io/
+WikiJS | NodeJS wiki platform | wiki | https://wiki.js.org/
+ServerJS | NodeJS API platform | api | https://serverjs.io/
