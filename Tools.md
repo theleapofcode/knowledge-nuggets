@@ -34,3 +34,7 @@ pritunl | VPN server | vpn | https://github.com/pritunl/pritunl
 Mathcha | Online math editor | editor | https://www.mathcha.io/
 ExpressGateway | Microservice API gateway built on express | gateway | http://www.express-gateway.io/
 ICNDB | API for chuck norris jokes | json, rest | http://www.icndb.com/api/
+Zammad | Ticketing solution | ticketing | https://zammad.org/
+PopSQL | SQL editor | sql, editor | https://popsql.io/
+JSONResume | JSON format resume | json, resume | https://jsonresume.org/
+
