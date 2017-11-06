@@ -30,3 +30,13 @@ Speech recognition | Tensorflow based speech recognition | tensorflow, speech re
 OnepSLR | Speech datasets | datasets, speech | http://www.openslr.org/12/
 UCI Datasets | UCI ML datasets | datasets | https://archive.ics.uci.edu/ml/index.php
 Deep learning datasets | deep learning datasets | datasets | http://deeplearning.net/datasets/
+Game Theory Course | Stanford game theory course | game-theory | https://theory.stanford.edu/~tim/f13/f13.html
+Quandl | Financial datasets | datasets, financial | https://www.quandl.com/
+DeepGram | transcription AI platform | transcription, speech | https://www.deepgram.com/
+Michelangelo | Uber's AI platform | uber, platform | https://eng.uber.com/michelangelo/
+MXNet | Apache deep learning lib | dl, apache | https://mxnet.incubator.apache.org/
+Gluon | API for DL from AWS | dl, lib | https://github.com/gluon-api/gluon-api/
+Ava | Video dataset from Google | video, datasets | https://research.google.com/ava/index.html
+Datmo | Tool for collaborative ML | tool, ml | https://datmo.com/
+AWS datasets | AWS datasets | datasets | https://aws.amazon.com/fr/datasets/
+
