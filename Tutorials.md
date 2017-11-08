@@ -38,3 +38,4 @@ Mac VPN setup | Setting up VPN on OS X | http://www.wikihow.com/Set-Up-VNC-on-Ma
 Awesome Lists | Awesome lists of all | lists | https://github.com/sindresorhus/awesome
 NodeJS production best practices | Node best practices | node | http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
 Doppio | JVM in browser JS | jvm, js | https://github.com/plasma-umass/doppio
+Multiple java versions on same mac | Multiple java versions | java | https://javastreets.com/blog/2017/9/using_multiple_java_sdk_versions.html
