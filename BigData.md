@@ -10,3 +10,4 @@ Drill | SQL engine for NoSQL | sql | https://drill.apache.org/
 Flink| Realtime and batch processing framework | stream-processing, batch-processing | https://flink.apache.org/
 Kafka UI | UI for kafka management | kafka, UI | https://github.com/Landoop/kafka-topics-ui
 Apache NiFi | Data pipelining framework | data pipeline | https://nifi.apache.org/
+Beam | Apache stream and batch processing abstraction | stream, batch | https://beam.apache.org/
