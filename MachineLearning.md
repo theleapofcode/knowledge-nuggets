@@ -39,4 +39,11 @@ Gluon | API for DL from AWS | dl, lib | https://github.com/gluon-api/gluon-api/
 Ava | Video dataset from Google | video, datasets | https://research.google.com/ava/index.html
 Datmo | Tool for collaborative ML | tool, ml | https://datmo.com/
 AWS datasets | AWS datasets | datasets | https://aws.amazon.com/fr/datasets/
-
+Tensorflow + Docker | Tensorflow and docker production depoyment | tensorflow, docker | https://medium.com/botsupply/tensorflow-docker-production-ready-ai-product-ae30435ad8e9
+ML guides | ML guides and demos | guides | http://ml4a.github.io/guides/
+Objectifier spatial programming | Spatial programming | spatial | https://experiments.withgoogle.com/ai/objectifier-spatial-programming
+Tensorflow playground | browser based playground for tensorflow | tensorflow, playground | http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.27689&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+DeepLearnJS | Browser based DL lib | dl, lib, browser | https://deeplearnjs.org/
+Teachable Machine | DL browser based demo | demo, dl | https://github.com/googlecreativelab/teachable-machine
+KDNuggets | Data science news | news, ml | https://www.kdnuggets.com/
+DevOps for ML | Devops best practises for Ml projects | devops | https://www.datasciencecentral.com/profiles/blogs/devops-pipeline-for-a-machine-learning-project
