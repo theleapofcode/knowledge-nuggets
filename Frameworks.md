@@ -42,3 +42,4 @@ TakeOff | Prototyping ful stack framwork with Hapi, React, Postgres | full stack
 OpenICE | Integrated clinical environment | healthcare | https://www.openice.info/
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 FaaS | Serverless functions with docker and kubernetes | funtions, docker | https://github.com/alexellis/faas
+MERN | Mongo-Express-React-Node | mern, full-stack, js | http://mern.io/
