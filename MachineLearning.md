@@ -50,3 +50,8 @@ DevOps for ML | Devops best practises for Ml projects | devops | https://www.dat
 Real-time ML with kafka, tensorflow, memsql | Real-time ML | rela-time, kafka, tensorflow | https://www.infoworld.com/article/3237166/machine-learning/real-time-machine-learning-with-tensorflow-kafka-and-memsql.html
 Real-time DL with kafka, tensorflow, h2o.ai | Real-time DL | real-time, kafka, tensorflow, h2o.ai | https://dzone.com/articles/deep-learning-in-real-time-with-tensorflow-h2oai-a
 Tensorflow sound classification | Sound classification with tensorflow | tensorflow, sound | https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications/
+Pyro | Uber probabilistic DL lib | uber, dl, lib | http://pyro.ai/
+Nervana | Intel deep learning frameworks | intel, dl, lib | https://github.com/NervanaSystems
+protege | Ontology editor | ontology | https://protege.stanford.edu/
+Diffblue | AI for code analysis | code, ai | http://www.diffblue.com/
+Rubik's cube convnet | Solving Rubik's cube using conv NN | convnet, rubik's-cube | https://github.com/jerpint/rubiks_cube_convnet
