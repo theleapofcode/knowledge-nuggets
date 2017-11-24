@@ -47,3 +47,6 @@ DeepLearnJS | Browser based DL lib | dl, lib, browser | https://deeplearnjs.org/
 Teachable Machine | DL browser based demo | demo, dl | https://github.com/googlecreativelab/teachable-machine
 KDNuggets | Data science news | news, ml | https://www.kdnuggets.com/
 DevOps for ML | Devops best practises for Ml projects | devops | https://www.datasciencecentral.com/profiles/blogs/devops-pipeline-for-a-machine-learning-project
+Real-time ML with kafka, tensorflow, memsql | Real-time ML | rela-time, kafka, tensorflow | https://www.infoworld.com/article/3237166/machine-learning/real-time-machine-learning-with-tensorflow-kafka-and-memsql.html
+Real-time DL with kafka, tensorflow, h2o.ai | Real-time DL | real-time, kafka, tensorflow, h2o.ai | https://dzone.com/articles/deep-learning-in-real-time-with-tensorflow-h2oai-a
+Tensorflow sound classification | Sound classification with tensorflow | tensorflow, sound | https://www.iotforall.com/tensorflow-sound-classification-machine-learning-applications/
