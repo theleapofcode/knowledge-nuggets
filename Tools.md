@@ -38,3 +38,4 @@ Zammad | Ticketing solution | ticketing | https://zammad.org/
 PopSQL | SQL editor | sql, editor | https://popsql.io/
 JSONResume | JSON format resume | json, resume | https://jsonresume.org/
 WebSequence Diagrams | Online sequence diagrams tool | tool, sequence-diagram | https://www.websequencediagrams.com/
+OpenTracing | Distributed tracing tool | tracing, tool | http://opentracing.io/
