@@ -14,3 +14,4 @@ Orbiter | Docker swarm auto-scaler | auto-scaling | https://github.com/gianarb/o
 Vamp | Autoscaling microservice orchestrator | microservice, orchestration | http://vamp.io/
 Docker swarm visualizer | UI for docker swarm | docker, swarm, ui | https://github.com/dockersamples/docker-swarm-visualizer
 Docker logging best practices | Docker logging | docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
+Portainer | Docker management UI | docker, ui | https://portainer.io/index.html
