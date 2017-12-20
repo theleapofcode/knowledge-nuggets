@@ -55,3 +55,10 @@ Nervana | Intel deep learning frameworks | intel, dl, lib | https://github.com/N
 protege | Ontology editor | ontology | https://protege.stanford.edu/
 Diffblue | AI for code analysis | code, ai | http://www.diffblue.com/
 Rubik's cube convnet | Solving Rubik's cube using conv NN | convnet, rubik's-cube | https://github.com/jerpint/rubiks_cube_convnet
+WebRTC + Tensorflow | Object detection with webrtc an tensorflow | object-detection, tensorflow | https://webrtchacks.com/webrtc-cv-tensorflow/
+Top AI startups | Top 100 startups in AI | startups, AI | https://www.cbinsights.com/research/artificial-intelligence-top-startups/
+Kubeflow | ML toolkit for kubernetes | kubernetes | https://github.com/google/kubeflow
+Tensorflow object detection | Tensorflow + docker | docker, tensorflow | https://medium.com/@evheniybystrov/tensorflow-object-detection-with-docker-from-scratch-5e015b639b0b
+Sound classification tensorflow | Tensorflow sound classification | sound, tensorflow | https://medium.com/iotforall/sound-classification-with-tensorflow-8209bdb03dfb
+Tensorflow + Node | Node tensorflow object detection | nodejs, tensorflow | https://medium.com/@muehler.v/node-js-meets-opencvs-deep-neural-networks-fun-with-tensorflow-and-caffe-ff8d52a0f072
+Google Vision Kit | AI camera from google | camera, vision | https://aiyprojects.withgoogle.com/vision
