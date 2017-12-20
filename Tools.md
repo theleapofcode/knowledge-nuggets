@@ -39,3 +39,10 @@ PopSQL | SQL editor | sql, editor | https://popsql.io/
 JSONResume | JSON format resume | json, resume | https://jsonresume.org/
 WebSequence Diagrams | Online sequence diagrams tool | tool, sequence-diagram | https://www.websequencediagrams.com/
 OpenTracing | Distributed tracing tool | tracing, tool | http://opentracing.io/
+Packtpub-crawler | Tool to download packtpub free ebooks | ebook | https://github.com/niqdev/packtpub-crawler
+Lebab | es5 to es6 converter | es6, online-tool | https://uniibu.github.io/lebab-ce/
+ParcelJS | Webapp bundler | bundler | https://parceljs.org/
+Katalon | UI automation tool like selenium | automation | https://www.katalon.com/
+Orthanc | DICOM server | dicom | https://www.orthanc-server.com/
+ASCII banner generator | ASCII banner | banner, ascii | http://asciiset.com/figletserver.html
+Awesome lists | Awesome lists | lists | https://github.com/sindresorhus/awesome
