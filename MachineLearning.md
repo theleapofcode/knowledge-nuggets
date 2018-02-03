@@ -62,3 +62,20 @@ Tensorflow object detection | Tensorflow + docker | docker, tensorflow | https:/
 Sound classification tensorflow | Tensorflow sound classification | sound, tensorflow | https://medium.com/iotforall/sound-classification-with-tensorflow-8209bdb03dfb
 Tensorflow + Node | Node tensorflow object detection | nodejs, tensorflow | https://medium.com/@muehler.v/node-js-meets-opencvs-deep-neural-networks-fun-with-tensorflow-and-caffe-ff8d52a0f072
 Google Vision Kit | AI camera from google | camera, vision | https://aiyprojects.withgoogle.com/vision
+DataStream.io | Realtime anamoly detection framework | python, ES | https://github.com/MentatInnovations/datastream.io
+Object recognition on live stream | Live stream object recognition | object-recognition, stream, tensorflow | https://medium.com/iotforall/tutorial-implement-object-recognition-on-live-stream-cc384f8556cc
+Anamoly detection | Anamoly detection with apache MXNet | mxnet, anomoly | https://www.oreilly.com/ideas/anomaly-detection-with-apache-mxnet
+PaperPrograms | Running code from paper | cv, ocr | https://paperprograms.org/
+Detectron | Facebook object detection framework | facebook, object-recognition | https://github.com/facebookresearch/Detectron
+IBM DSX | IBM data science experience tool | ibm, ide | https://www.ibm.com/support/knowledgecenter/en/SSBS6K_2.1.0/featured_applications/dsx.html
+Tensorflow playground | Browser based NN playground | tensorflow, browser | http://playground.tensorflow.org/
+FastText | Text analysis from facebook | text, facebook | https://github.com/facebookresearch/fastText
+Fast style transfer | Image style transfer using ML | image, style-transfer, ml | https://github.com/lengstrom/fast-style-transfer
+Facets | ML model visualization framework | visualization | https://github.com/PAIR-code/facets
+Faiss | Lib for similarity search from facebook | facebook, similarity | https://github.com/facebookresearch/faiss
+ParlAI | Frameowrk for training and evaluating AI models | traning, evaluating | https://github.com/facebookresearch/ParlAI
+Speech to text wavenet | speech to text using deepmind wavenet | speech-to-text | https://github.com/buriburisuri/speech-to-text-wavenet
+Deep learning video analytics | Video analytics via deep learning | video, dl | https://github.com/AKSHAYUBHAT/DeepVideoAnalytics/
+Horovid | distributed training framework for tensorflow by Uber | uber, tensorflow, distributed | https://github.com/uber/horovod
+AIBlocks | WYSIWYG for AI models | wysiwig, modelling | https://github.com/MrNothing/AI-Blocks
+Voice style transfer | Voice style changer | voice, style | https://github.com/andabi/deep-voice-conversion
