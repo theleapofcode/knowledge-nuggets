@@ -53,3 +53,4 @@ Rx Marbles | Visualization of Rx Obsevables | js, node, rx | http://rxmarbles.co
 WorkBox | Collection of libs for progressive WebApps | progressive apps lib | https://github.com/GoogleChrome/workbox
 AR.js | Augmented reality for web | AR, JS | https://github.com/jeromeetienne/AR.js
 WTFJS | Funny JS examples | timepass | https://github.com/denysdovhan/wtfjs
+jarvis | Webpack dashboard UI | dashboard | https://github.com/zouhir/jarvis
