@@ -46,3 +46,4 @@ Katalon | UI automation tool like selenium | automation | https://www.katalon.co
 Orthanc | DICOM server | dicom | https://www.orthanc-server.com/
 ASCII banner generator | ASCII banner | banner, ascii | http://asciiset.com/figletserver.html
 Awesome lists | Awesome lists | lists | https://github.com/sindresorhus/awesome
+piknik | Copy paste tool over network | copy-paste, tool | https://github.com/jedisct1/piknik
