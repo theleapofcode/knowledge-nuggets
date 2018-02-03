@@ -19,3 +19,9 @@ WebGazer.js | JS Eye tracking | js, eye-tracking | https://github.com/brownhci/W
 DiffyJS | Motion detection | js, motion-detection | https://github.com/maniart/diffyjs
 Flogo | IoT integration framework | framework, go | http://www.flogo.io/
 Kura | IoT framework | Java, framework | http://www.eclipse.org/kura/
+Arduino auto reset | Avoiding auto reset on serial connection in arduino | arduino, tutorial | https://playground.arduino.cc/Main/DisablingAutoResetOnSerialConnection
+Web based voice command | voice command recognition browser based | voice-recognition, browser | http://smus.com/web-voice-command-recognition/
+Web bluetooth | Web bluetooth | bluetooth | https://googlechrome.github.io/samples/web-bluetooth/device-info.html?allDevices=true
+Open-paperless | Paper scanning ocr and indexing | ocr | https://github.com/zhoubear/open-paperless
+Face recognition | fastest face recognition api for python | python, face-recognition | https://github.com/ageitgey/face_recognition
+Face classification | face emotion detection | face, emotion | https://github.com/oarriaga/face_classification
