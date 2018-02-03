@@ -40,3 +40,4 @@ NodeJS production best practices | Node best practices | node | http://goldbergy
 Doppio | JVM in browser JS | jvm, js | https://github.com/plasma-umass/doppio
 Multiple java versions on same mac | Multiple java versions | java | https://javastreets.com/blog/2017/9/using_multiple_java_sdk_versions.html
 Pwd resets with JWT | Safe pwd reset | pwd-reset, jwt | https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/
+Hacking wifi to inject cryptocurrency miner | wifi hacking | wifi, crytocurrency | http://arnaucode.com/blog/coffeeminer-hacking-wifi-cryptocurrency-miner.html
