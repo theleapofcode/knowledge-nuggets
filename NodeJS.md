@@ -44,3 +44,5 @@ NapaJS | Multi-threaded JS runtime by Microsoft | multi-threaded, runtime | http
 Strapi | NodeJS API platform | api | https://strapi.io/
 WikiJS | NodeJS wiki platform | wiki | https://wiki.js.org/
 ServerJS | NodeJS API platform | api | https://serverjs.io/
+NodeClinic | NodeJS performance profiling tool | performance, tool | https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
+Best practices | JS best practices | best-practices | https://github.com/wearehive/project-guidelines
