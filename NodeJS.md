@@ -46,3 +46,8 @@ WikiJS | NodeJS wiki platform | wiki | https://wiki.js.org/
 ServerJS | NodeJS API platform | api | https://serverjs.io/
 NodeClinic | NodeJS performance profiling tool | performance, tool | https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
 Best practices | JS best practices | best-practices | https://github.com/wearehive/project-guidelines
+Automerge | Merge JSONs | json | https://github.com/automerge/automerge
+Hygen | Code generator | code-gen | http://www.hygen.io/
+Electrolyte | Node DI framework | DI | https://github.com/jaredhanson/electrolyte
+Inversify | JS DI | DI | http://inversify.io/
+PandoraJS | Node app manager | app-manager | http://www.midwayjs.org/pandora/en/
