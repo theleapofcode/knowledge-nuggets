@@ -79,3 +79,8 @@ Deep learning video analytics | Video analytics via deep learning | video, dl | 
 Horovid | distributed training framework for tensorflow by Uber | uber, tensorflow, distributed | https://github.com/uber/horovod
 AIBlocks | WYSIWYG for AI models | wysiwig, modelling | https://github.com/MrNothing/AI-Blocks
 Voice style transfer | Voice style changer | voice, style | https://github.com/andabi/deep-voice-conversion
+DeepPavlov | Framework for conversation chatbots | conversation | https://github.com/deepmipt/DeepPavlov
+Capsule networks | Intro to capsule networks | dl, capsule | https://www.oreilly.com/ideas/introducing-capsule-networks
+DeepVariant | Google's DNA sequencing framework | google, dna, dl | https://github.com/google/deepvariant
+JsPsych | A JavaScript library for creating and running behavioral experiments in a web browser | js | https://github.com/jspsych/jsPsych
+PropelML | Numpy for JS | js, numpy | http://propelml.org/
