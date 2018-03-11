@@ -54,3 +54,4 @@ WorkBox | Collection of libs for progressive WebApps | progressive apps lib | ht
 AR.js | Augmented reality for web | AR, JS | https://github.com/jeromeetienne/AR.js
 WTFJS | Funny JS examples | timepass | https://github.com/denysdovhan/wtfjs
 jarvis | Webpack dashboard UI | dashboard | https://github.com/zouhir/jarvis
+Proton | JS particle engine | ui-lib | http://a-jie.github.io/Proton/
