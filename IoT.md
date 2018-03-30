@@ -25,3 +25,7 @@ Web bluetooth | Web bluetooth | bluetooth | https://googlechrome.github.io/sampl
 Open-paperless | Paper scanning ocr and indexing | ocr | https://github.com/zhoubear/open-paperless
 Face recognition | fastest face recognition api for python | python, face-recognition | https://github.com/ageitgey/face_recognition
 Face classification | face emotion detection | face, emotion | https://github.com/oarriaga/face_classification
+Kaa | IoT framework | framework | https://github.com/kaaproject/kaa/
+ThingsBoard | IoT framework | framework | https://github.com/thingsboard/thingsboard/
+Kuzzle | IoT framework | framework | https://kuzzle.io/
+OpenRemote | IoT framework | framework | http://www.openremote.com/
