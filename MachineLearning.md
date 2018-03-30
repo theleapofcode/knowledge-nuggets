@@ -84,3 +84,5 @@ Capsule networks | Intro to capsule networks | dl, capsule | https://www.oreilly
 DeepVariant | Google's DNA sequencing framework | google, dna, dl | https://github.com/google/deepvariant
 JsPsych | A JavaScript library for creating and running behavioral experiments in a web browser | js | https://github.com/jspsych/jsPsych
 PropelML | Numpy for JS | js, numpy | http://propelml.org/
+QuestoAI | Create quiz by a snap of photo of book | cv | https://questo.ai/
+BrainJS | JS NN Lib | NN, JS | https://brain.js.org/
