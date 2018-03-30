@@ -86,3 +86,4 @@ JsPsych | A JavaScript library for creating and running behavioral experiments i
 PropelML | Numpy for JS | js, numpy | http://propelml.org/
 QuestoAI | Create quiz by a snap of photo of book | cv | https://questo.ai/
 BrainJS | JS NN Lib | NN, JS | https://brain.js.org/
+Open datasets | Open datasets for NN | datasets | https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
