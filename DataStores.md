@@ -10,3 +10,4 @@ ArangoDB | Multi model store - Graph, Document, key-value | graph, document, key
 VoltDB | Stream processing in-memory data store | stream-processing | https://www.voltdb.com/
 DGraph | Distributed Graph store | graph | https://dgraph.io/
 CrateDB | SQL DB for IoT | sql, iot | https://crate.io/
+DejaVu | UI for ES | ES, ui | https://github.com/appbaseio/dejavu
