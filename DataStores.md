@@ -11,3 +11,4 @@ VoltDB | Stream processing in-memory data store | stream-processing | https://ww
 DGraph | Distributed Graph store | graph | https://dgraph.io/
 CrateDB | SQL DB for IoT | sql, iot | https://crate.io/
 DejaVu | UI for ES | ES, ui | https://github.com/appbaseio/dejavu
+TextQL | Run SQL against CSV | sql, csv | https://github.com/dinedal/textql
