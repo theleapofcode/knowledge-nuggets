@@ -51,3 +51,5 @@ Hygen | Code generator | code-gen | http://www.hygen.io/
 Electrolyte | Node DI framework | DI | https://github.com/jaredhanson/electrolyte
 Inversify | JS DI | DI | http://inversify.io/
 PandoraJS | Node app manager | app-manager | http://www.midwayjs.org/pandora/en/
+Nod | Yo generator for node project with latest libs | node, sample, generator | https://github.com/diegohaz/nod
+PKI.js | Crypto lib for Node | crypto | https://github.com/PeculiarVentures/PKI.js
