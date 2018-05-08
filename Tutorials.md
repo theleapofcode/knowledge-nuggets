@@ -43,3 +43,5 @@ Pwd resets with JWT | Safe pwd reset | pwd-reset, jwt | https://www.smashingmaga
 Hacking wifi to inject cryptocurrency miner | wifi hacking | wifi, crytocurrency | http://arnaucode.com/blog/coffeeminer-hacking-wifi-cryptocurrency-miner.html
 Awesome cheatsheet | Cheatsheets | awesome-list | https://github.com/LeCoupa/awesome-cheatsheets
 Graph Theory Viz | Learn graph theory using D3 Viz | graph-theory, d3 | https://mrpandey.github.io/d3graphTheory/index.html
+VirtualEnvWrapper update project path | Update project path of a venv | venv, ml, python | https://stackoverflow.com/questions/38536162/virtualenvwrapper-how-to-update-project-path
+VirtualEnv python upgrade | Fix venv symlinks upon python upgrade | venv, python | https://gist.github.com/porterjamesj/36051aea629be28bbd6f9f071007b35c
