@@ -16,3 +16,6 @@ Docker swarm visualizer | UI for docker swarm | docker, swarm, ui | https://gith
 Docker logging best practices | Docker logging | docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
 Portainer | Docker management UI | docker, ui | https://portainer.io/index.html
 CaptainDuckDuck | App deployment framework | deployment | https://github.com/githubsaturn/captainduckduck
+Whistle | HHP, websocket debugging proxy | proxy | https://github.com/avwo/whistle
+JSONStore | Store json data in cloud | json | https://github.com/bluzi/jsonstore
+Clair | Container vulnerability analysis | container, security, testing | https://github.com/coreos/clair
