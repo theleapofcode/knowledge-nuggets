@@ -87,3 +87,6 @@ PropelML | Numpy for JS | js, numpy | http://propelml.org/
 QuestoAI | Create quiz by a snap of photo of book | cv | https://questo.ai/
 BrainJS | JS NN Lib | NN, JS | https://brain.js.org/
 Open datasets | Open datasets for NN | datasets | https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+Netflix ideo quality analysis | ML for video analytics | article | https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f
+Keras resources | Awesome links for keras | keras, links | https://github.com/fchollet/keras-resources
+Lobe.ai | UI driven AI made simple | platform | https://lobe.ai/
