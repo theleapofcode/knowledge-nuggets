@@ -92,3 +92,4 @@ nGraph | DL model compiler from Intel | intel, compiler | https://ai.intel.com/n
 FloydHub | Heroku for DL | cloud | https://www.floydhub.com/
 ChemGAN | Drug discovery using GAN | GAN, healthcare | https://github.com/mostafachatillon/ChemGAN-challenge
 Fast.ai | DL course | course, DL | http://course.fast.ai/lessons/lesson1.html
+Gesture based control using tensorflow | Tensorflow gesture control | tensorflow, gesture | https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907
