@@ -53,3 +53,5 @@ Inversify | JS DI | DI | http://inversify.io/
 PandoraJS | Node app manager | app-manager | http://www.midwayjs.org/pandora/en/
 Nod | Yo generator for node project with latest libs | node, sample, generator | https://github.com/diegohaz/nod
 PKI.js | Crypto lib for Node | crypto | https://github.com/PeculiarVentures/PKI.js
+Quokka | Live JS prototyping | tool, js | https://quokkajs.com/
+ClusterWS | WebSocket cluster lib | ws | https://github.com/ClusterWS/ClusterWS
