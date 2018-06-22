@@ -93,3 +93,9 @@ FloydHub | Heroku for DL | cloud | https://www.floydhub.com/
 ChemGAN | Drug discovery using GAN | GAN, healthcare | https://github.com/mostafachatillon/ChemGAN-challenge
 Fast.ai | DL course | course, DL | http://course.fast.ai/lessons/lesson1.html
 Gesture based control using tensorflow | Tensorflow gesture control | tensorflow, gesture | https://towardsdatascience.com/how-to-build-a-gesture-controlled-web-based-game-using-tensorflow-object-detection-api-587fb7e0f907
+Datasets | 50 best free datasets | datasets | https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
+Model zoo | Dataset repository | datasets | https://modelzoo.co/
+Webimoji | Realtime face dection and expression prediction | face-tracking, expression | https://github.com/jeeliz/jeelizWeboji
+ML5JS | Wrapper on top of TFJS | tfjs | https://ml5js.org/
+MLFlow | Lifecycle management of ML projects | ml, lifecycle | https://mlflow.org/
+ANN-Visualizer | Visualization of NN | NN, visualization | https://github.com/Prodicode/ann-visualizer
