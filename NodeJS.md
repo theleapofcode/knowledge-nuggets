@@ -55,3 +55,6 @@ Nod | Yo generator for node project with latest libs | node, sample, generator |
 PKI.js | Crypto lib for Node | crypto | https://github.com/PeculiarVentures/PKI.js
 Quokka | Live JS prototyping | tool, js | https://quokkajs.com/
 ClusterWS | WebSocket cluster lib | ws | https://github.com/ClusterWS/ClusterWS
+REST | REST API generator for Node, Express, Mongo | rest, men | https://github.com/diegohaz/rest
+Nightwatch | Node based web automation framework | automation | http://nightwatchjs.org/
+Deno | New V8 runtime from Ryan Dahl | deno | https://github.com/ry/deno
