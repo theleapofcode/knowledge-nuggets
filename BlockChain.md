@@ -8,3 +8,4 @@ OpenBazaar | Distributed e-commerce platform | e-commerce | https://www.openbaza
 BlockChain demo | Demo of blockchain | demo | https://anders.com/blockchain/
 Hedera Hashgraph | Hashgraph | haspgraph | https://www.hederahashgraph.com/
 HashGraph intro | Hanshgraph intro | hashgraph | http://www.thehindu.com/sci-tech/technology/can-hashgraph-succeed-blockchain-as-the-technology-of-choice-for-cryptocurrencies/article23348176.ece
+BAT | Basic attention token | advertizing | https://basicattentiontoken.org/
