@@ -14,3 +14,4 @@ DejaVu | UI for ES | ES, ui | https://github.com/appbaseio/dejavu
 TextQL | Run SQL against CSV | sql, csv | https://github.com/dinedal/textql
 XmySQL | Genrate REST APIs from MySQL DB | sql, rest | https://github.com/o1lab/xmysql
 GridDB | Distributed IoT DB | iot, distributed | https://griddb.net/en/
+ActorDB | Distributed SQL DB | sql, distributed | https://github.com/biokoda/actordb
