@@ -99,3 +99,12 @@ Webimoji | Realtime face dection and expression prediction | face-tracking, expr
 ML5JS | Wrapper on top of TFJS | tfjs | https://ml5js.org/
 MLFlow | Lifecycle management of ML projects | ml, lifecycle | https://mlflow.org/
 ANN-Visualizer | Visualization of NN | NN, visualization | https://github.com/Prodicode/ann-visualizer
+JupyterLab | Successor of Jupyter notebook | notebook, python | https://github.com/jupyterlab/jupyterlab
+KerasJS | keras in browser using WebGL | keras, JS | https://github.com/transcranial/keras-js
+DeepDive | Self driving dataset from Berkeley | dataset, self-drive | http://bdd-data.berkeley.edu/
+DensePose | Facebook pose detection | facebook, pose | https://github.com/facebookresearch/DensePose
+NLP-Progress | NLP examples and lists | NLP | https://github.com/sebastianruder/NLP-progress
+Reinforcement examples | Reinforcement examples | examples, reinforcements | https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
+Imageaug | Image augmentation for ML | image | https://github.com/aleju/imgaug
+Sketch-code | Keras model to generate HTML from hand drawn wireframes | keras, cnn | https://github.com/ashnkumar/sketch-code
+DTLK | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK
