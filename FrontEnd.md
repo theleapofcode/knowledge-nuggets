@@ -57,3 +57,4 @@ jarvis | Webpack dashboard UI | dashboard | https://github.com/zouhir/jarvis
 Proton | JS particle engine | ui-lib | http://a-jie.github.io/Proton/
 Vue Native | VueJS based Native app dev lib | vue, native | https://vue-native.io/
 MathJS | Math lib for JS | math | http://mathjs.org/
+Rete | Flow based programming for JS | js | https://github.com/retejs/rete
