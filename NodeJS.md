@@ -58,3 +58,4 @@ ClusterWS | WebSocket cluster lib | ws | https://github.com/ClusterWS/ClusterWS
 REST | REST API generator for Node, Express, Mongo | rest, men | https://github.com/diegohaz/rest
 Nightwatch | Node based web automation framework | automation | http://nightwatchjs.org/
 Deno | New V8 runtime from Ryan Dahl | deno | https://github.com/ry/deno
+SinonJS | JS testing with Mocks, stubs etc | testing, JS | http://sinonjs.org/
