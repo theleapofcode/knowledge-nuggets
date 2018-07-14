@@ -43,3 +43,5 @@ OpenICE | Integrated clinical environment | healthcare | https://www.openice.inf
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 FaaS | Serverless functions with docker and kubernetes | funtions, docker | https://github.com/alexellis/faas
 MERN | Mongo-Express-React-Node | mern, full-stack, js | http://mern.io/
+SimpleKeyboard | On screen keyboard | js, keyboard | https://github.com/hodgef/simple-keyboard
+TUI Image Editor | Browser based image editor | js, image-editor | https://github.com/nhnent/tui.image-editor
