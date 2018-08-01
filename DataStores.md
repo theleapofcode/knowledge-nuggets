@@ -15,3 +15,4 @@ TextQL | Run SQL against CSV | sql, csv | https://github.com/dinedal/textql
 XmySQL | Genrate REST APIs from MySQL DB | sql, rest | https://github.com/o1lab/xmysql
 GridDB | Distributed IoT DB | iot, distributed | https://griddb.net/en/
 ActorDB | Distributed SQL DB | sql, distributed | https://github.com/biokoda/actordb
+MapDB | Java Collections store in-memory and file | java, key-value | http://www.mapdb.org/
