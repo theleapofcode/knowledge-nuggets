@@ -110,4 +110,4 @@ Sketch-code | Keras model to generate HTML from hand drawn wireframes | keras, c
 DTLK | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK
 Seedbank | Interactive ML algos by google | google, examples | http://tools.google.com/seedbank/
 SnarkLab | GPU powered cloud service | cloud, gpu | https://lab.snark.ai/
-
+BigDL | DL library on Spark | Intel, Spark, library | https://github.com/intel-analytics/BigDL
