@@ -50,3 +50,7 @@ piknik | Copy paste tool over network | copy-paste, tool | https://github.com/je
 Asciinema | Terminal recording and playback tool | termminal, record | https://asciinema.org/
 PollyJS | HTTP recording and playback lib from Netflix | http, lib | https://netflix.github.io/pollyjs/#/
 PionsTURN | Go based TURN server | turn, go | https://github.com/pions/turn
+Zotero | Tool to find and share research | research | https://www.zotero.org
+Terminalizer | Tool to record terminal | recorder, terminal | https://github.com/faressoft/terminalizer
+GLB | Github's load balancer | github, load-balancer | https://githubengineering.com/glb-director-open-source-load-balancer
+WebHint | Website performace and security profiler | performance, profiling | https://webhint.io/
