@@ -111,3 +111,8 @@ DTLK | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK
 Seedbank | Interactive ML algos by google | google, examples | http://tools.google.com/seedbank/
 SnarkLab | GPU powered cloud service | cloud, gpu | https://lab.snark.ai/
 BigDL | DL library on Spark | Intel, Spark, library | https://github.com/intel-analytics/BigDL
+DVC | Data science version control | scm | https://github.com/iterative/dvc
+Kubernetes ML testbed | Kubernetes ML testbed | gpu, kubernetes | https://thenewstack.io/build-a-machine-learning-testbed-based-on-kubernetes-and-nvidia-gpu/
+WikipediaToVec | Wikipedia dataset for NLP | dataset, NLP | https://wikipedia2vec.github.io/wikipedia2vec/
+Markov chains | Markov chains explained visually | visualisation | http://setosa.io/blog/2014/07/26/markov-chains/index.html
+
