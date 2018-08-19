@@ -58,3 +58,7 @@ Proton | JS particle engine | ui-lib | http://a-jie.github.io/Proton/
 Vue Native | VueJS based Native app dev lib | vue, native | https://vue-native.io/
 MathJS | Math lib for JS | math | http://mathjs.org/
 Rete | Flow based programming for JS | js | https://github.com/retejs/rete
+PWA Manifest | Manifest for PWAs | pwa | https://developers.google.com/web/updates/2018/07/pwacompat
+Prepack | JS prepacker and optimizer | facebook, prepack, optimizer | https://github.com/facebook/prepack
+JSQR | JS QR code reader | qr | https://github.com/cozmo/jsQR
+Vuestic-admin | Vue admin dashboard | vue, admin | https://github.com/epicmaxco/vuestic-admin
