@@ -22,3 +22,6 @@ WebRTC-SIP | WebRTC and SIP interop demo | sip | https://webrtc.ventures/2018/03
 TestRTC | WebRTC testing with stats | test, stats | https://github.com/webrtc/testrtc
 OpenVidu | Webrtc platform based on kurento | platform, kurento | https://openvidu.io/
 JSSip | JS SIP lib | SIP, lib | http://jssip.net/
+VialerJS | JS WebRTC SIP platform | webrtc, SIP | https://github.com/vialer/vialer-js
+Trickle ICE | Tool to test STUN and TURN servers | ice | https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
+AppRTC-Kurento | Kurento based apprtc | kurento | https://github.com/inspiraluna/AppRTC-Kurento
