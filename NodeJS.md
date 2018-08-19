@@ -59,3 +59,9 @@ REST | REST API generator for Node, Express, Mongo | rest, men | https://github.
 Nightwatch | Node based web automation framework | automation | http://nightwatchjs.org/
 Deno | New V8 runtime from Ryan Dahl | deno | https://github.com/ry/deno
 SinonJS | JS testing with Mocks, stubs etc | testing, JS | http://sinonjs.org/
+NDB | Node debugger from Chrome devtools | debugging | https://github.com/GoogleChromeLabs/ndb
+Serverless APIs | Tutorial for Node, Express and Mongo serverless APIs | serverless | https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe
+JSInspect | Detecting copy pasted code | static-analysis | https://github.com/danielstjules/jsinspect
+Uphash | Node lib for password hashing | security | https://github.com/simonepri/upash
+Security best practices | Node security best practices | security, best-practices | https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
+ClinicJS | Node performance and profiling tool | performace, profiling | https://clinicjs.org/
