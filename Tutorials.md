@@ -45,3 +45,4 @@ Awesome cheatsheet | Cheatsheets | awesome-list | https://github.com/LeCoupa/awe
 Graph Theory Viz | Learn graph theory using D3 Viz | graph-theory, d3 | https://mrpandey.github.io/d3graphTheory/index.html
 VirtualEnvWrapper update project path | Update project path of a venv | venv, ml, python | https://stackoverflow.com/questions/38536162/virtualenvwrapper-how-to-update-project-path
 VirtualEnv python upgrade | Fix venv symlinks upon python upgrade | venv, python | https://gist.github.com/porterjamesj/36051aea629be28bbd6f9f071007b35c
+JS async handling options | Async handling options in JS | callbacks, promises, async/await | https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
