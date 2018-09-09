@@ -66,4 +66,4 @@ Uphash | Node lib for password hashing | security | https://github.com/simonepri
 Security best practices | Node security best practices | security, best-practices | https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 ClinicJS | Node performance and profiling tool | performace, profiling | https://clinicjs.org/
 MathJS | JS lib for math | math | http://mathjs.org/
-
+Sequlize | Hibernate like ORM for Node.JS | orm | http://docs.sequelizejs.com/
