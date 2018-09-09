@@ -19,3 +19,5 @@ CaptainDuckDuck | App deployment framework | deployment | https://github.com/git
 Whistle | HHP, websocket debugging proxy | proxy | https://github.com/avwo/whistle
 JSONStore | Store json data in cloud | json | https://github.com/bluzi/jsonstore
 Clair | Container vulnerability analysis | container, security, testing | https://github.com/coreos/clair
+Gilab CI/CD | CI/CD using gitlab | gitlab | https://medium.com/@jimmyadaro/build-a-ci-cd-pipeline-with-docker-and-gitlab-f351585a5c83
+Kubernetes tools | Tools around kubernetes | kubernetes | http://techgenix.com/open-source-kubernetes/
