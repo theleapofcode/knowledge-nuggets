@@ -25,3 +25,4 @@ JSSip | JS SIP lib | SIP, lib | http://jssip.net/
 VialerJS | JS WebRTC SIP platform | webrtc, SIP | https://github.com/vialer/vialer-js
 Trickle ICE | Tool to test STUN and TURN servers | ice | https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
 AppRTC-Kurento | Kurento based apprtc | kurento | https://github.com/inspiraluna/AppRTC-Kurento
+WebRTC VR video call | VR video call | vr | https://webrtchacks.com/webrtc-meets-webvr/?__s=rnrbgnvbpeq6pkasdb3u
