@@ -67,3 +67,5 @@ Security best practices | Node security best practices | security, best-practice
 ClinicJS | Node performance and profiling tool | performace, profiling | https://clinicjs.org/
 MathJS | JS lib for math | math | http://mathjs.org/
 Sequlize | Hibernate like ORM for Node.JS | orm | http://docs.sequelizejs.com/
+Express-ES2017-Boilerplate | Starter project for express REST APIs in es2017 | es2017, express, REST, boilerplate | https://github.com/danielfsousa/express-rest-es2017-boilerplate
+LowJS | Node port for embedded devices | runtime, embedded | http://www.lowjs.org/
