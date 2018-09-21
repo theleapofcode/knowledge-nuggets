@@ -58,3 +58,4 @@ Ghost | Blogging platform in node.js | blog, nodejs | https://ghost.org/
 Puppeteer-recorder | Recorder for puppeteer | puppeteer, automation | https://github.com/checkly/puppeteer-recorder
 git-bug | Git based bug tracker | git, bug | https://github.com/MichaelMure/git-bug
 KeyCloak | Open source identity management | idp | https://www.keycloak.org/
+NodeBook | Multi language REPL with Web UI | REPL, UI | https://github.com/netgusto/nodebook
