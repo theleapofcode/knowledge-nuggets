@@ -62,3 +62,5 @@ PWA Manifest | Manifest for PWAs | pwa | https://developers.google.com/web/updat
 Prepack | JS prepacker and optimizer | facebook, prepack, optimizer | https://github.com/facebook/prepack
 JSQR | JS QR code reader | qr | https://github.com/cozmo/jsQR
 Vuestic-admin | Vue admin dashboard | vue, admin | https://github.com/epicmaxco/vuestic-admin
+ky | Wrapper on fetch API for REST client | client, fetch | https://github.com/sindresorhus/ky
+Lyo | Node to browser tool similar to Browserify | bundler | https://github.com/bokub/lyo
