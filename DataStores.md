@@ -16,3 +16,4 @@ XmySQL | Genrate REST APIs from MySQL DB | sql, rest | https://github.com/o1lab/
 GridDB | Distributed IoT DB | iot, distributed | https://griddb.net/en/
 ActorDB | Distributed SQL DB | sql, distributed | https://github.com/biokoda/actordb
 MapDB | Java Collections store in-memory and file | java, key-value | http://www.mapdb.org/
+Mongo-clone | Clone Mongo DB across machines | mongo, tool | https://github.com/fr1sk/mongo-clone
