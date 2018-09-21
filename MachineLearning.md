@@ -115,4 +115,17 @@ DVC | Data science version control | scm | https://github.com/iterative/dvc
 Kubernetes ML testbed | Kubernetes ML testbed | gpu, kubernetes | https://thenewstack.io/build-a-machine-learning-testbed-based-on-kubernetes-and-nvidia-gpu/
 WikipediaToVec | Wikipedia dataset for NLP | dataset, NLP | https://wikipedia2vec.github.io/wikipedia2vec/
 Markov chains | Markov chains explained visually | visualisation | http://setosa.io/blog/2014/07/26/markov-chains/index.html
-
+NLP sentiment analysis | Trump tweet analysis using NLP | nlp | http://varianceexplained.org/r/op-ed-text-analysis/
+Deep Reinforcement learning course| Deep Reinforcement learning syllabus in 60 days | RL, course | https://github.com/andri27-ts/60_Days_RL_Challenge
+Google dataset search | Dataset search | google, datasets | https://toolbox.google.com/datasetsearch
+AutoKeras | Auto ML for Keras | AutoML, keras | https://autokeras.com/
+Dopamine | Google Reinforcement learning framework | google, RL | https://github.com/google/dopamine
+Vid2vid | Video to video transformation using pytorch | video, pytorch | https://github.com/NVIDIA/vid2vid
+OutPainting | Painting outside the box using keras | keras, image | https://github.com/bendangnuksung/Image-OutPainting
+Text classification tensorflow | Implementation of text classification algos using tensorflow | tensorflow, text-classification | https://github.com/dongjun-Lee/text-classification-models-tf
+Ganimation | Automatic facial animation with single image using GAN | GAN | https://github.com/albertpumarola/GANimation
+OpenVino | CV toolkit from Intel | Intel, CV | https://software.intel.com/en-us/openvino-toolkit
+NLPJS | NLP JS lib | NLP, JS | https://github.com/axa-group/nlp.js
+What-If | ML model inspection tool | model, tool | https://pair-code.github.io/what-if-tool/ 
+TonY | tensorflow on YARN/Hadoop | linkedin, tensorflow, hadoop | https://github.com/linkedin/TonY
+Tensorflow datasets | ready to use datasets for tensorflow | tensorflow, datasets | https://github.com/tensorflow/datasets
