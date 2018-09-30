@@ -129,3 +129,5 @@ NLPJS | NLP JS lib | NLP, JS | https://github.com/axa-group/nlp.js
 What-If | ML model inspection tool | model, tool | https://pair-code.github.io/what-if-tool/ 
 TonY | tensorflow on YARN/Hadoop | linkedin, tensorflow, hadoop | https://github.com/linkedin/TonY
 Tensorflow datasets | ready to use datasets for tensorflow | tensorflow, datasets | https://github.com/tensorflow/datasets
+MLCourse | Free ML courses | course | https://mlcourse.ai/
+Single image super resolution | Improving resilution of single image using GAN | image, GAN | http://igl.ethz.ch/projects/prosr/
