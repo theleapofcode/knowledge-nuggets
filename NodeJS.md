@@ -69,3 +69,6 @@ MathJS | JS lib for math | math | http://mathjs.org/
 Sequlize | Hibernate like ORM for Node.JS | orm | http://docs.sequelizejs.com/
 Express-ES2017-Boilerplate | Starter project for express REST APIs in es2017 | es2017, express, REST, boilerplate | https://github.com/danielfsousa/express-rest-es2017-boilerplate
 LowJS | Node port for embedded devices | runtime, embedded | http://www.lowjs.org/
+30-second-interviews | Interview questions on JS and Node | interview | https://github.com/30-seconds/30-seconds-of-interviews
+30-second-js | Useful JS code snippets | code-snippets | https://github.com/30-seconds/30-seconds-of-code
+NodeJS Native extensions | Native extensions for Node | native | https://medium.com/the-node-js-collection/native-extensions-for-node-js-767e221b3d26
