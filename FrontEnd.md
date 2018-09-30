@@ -64,3 +64,4 @@ JSQR | JS QR code reader | qr | https://github.com/cozmo/jsQR
 Vuestic-admin | Vue admin dashboard | vue, admin | https://github.com/epicmaxco/vuestic-admin
 ky | Wrapper on fetch API for REST client | client, fetch | https://github.com/sindresorhus/ky
 Lyo | Node to browser tool similar to Browserify | bundler | https://github.com/bokub/lyo
+30-second-css | useful CSS code snippets | css, code-snippets | https://30-seconds.github.io/30-seconds-of-css/
