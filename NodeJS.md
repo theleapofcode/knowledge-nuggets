@@ -72,3 +72,4 @@ LowJS | Node port for embedded devices | runtime, embedded | http://www.lowjs.or
 30-second-interviews | Interview questions on JS and Node | interview | https://github.com/30-seconds/30-seconds-of-interviews
 30-second-js | Useful JS code snippets | code-snippets | https://github.com/30-seconds/30-seconds-of-code
 NodeJS Native extensions | Native extensions for Node | native | https://medium.com/the-node-js-collection/native-extensions-for-node-js-767e221b3d26
+Axios | Promise based REST client | rest-client | https://github.com/axios/axios
