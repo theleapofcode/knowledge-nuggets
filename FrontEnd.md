@@ -65,3 +65,4 @@ Vuestic-admin | Vue admin dashboard | vue, admin | https://github.com/epicmaxco/
 ky | Wrapper on fetch API for REST client | client, fetch | https://github.com/sindresorhus/ky
 Lyo | Node to browser tool similar to Browserify | bundler | https://github.com/bokub/lyo
 30-second-css | useful CSS code snippets | css, code-snippets | https://30-seconds.github.io/30-seconds-of-css/
+Rete | JS based visual flow programming | js, visual-programming | https://github.com/retejs/rete
