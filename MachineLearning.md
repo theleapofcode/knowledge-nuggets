@@ -131,3 +131,8 @@ TonY | tensorflow on YARN/Hadoop | linkedin, tensorflow, hadoop | https://github
 Tensorflow datasets | ready to use datasets for tensorflow | tensorflow, datasets | https://github.com/tensorflow/datasets
 MLCourse | Free ML courses | course | https://mlcourse.ai/
 Single image super resolution | Improving resilution of single image using GAN | image, GAN | http://igl.ethz.ch/projects/prosr/
+DL lip reading | Lip reading through deep learning | lip-reading | https://github.com/astorfi/lip-reading-deeplearning
+Face API | Face detection using tensorflow JS | js, face-detection | https://github.com/justadudewhohacks/face-api.js
+Medical Torch | PyTorch based medical imaging analysis | medical, pytorch | https://medium.com/dair-ai/medical-imaging-analysis-mri-cnn-pytorch-4877e64e7303, https://github.com/perone/medicaltorch
+Tensorflow on Kubernetes | Tensorflow on kubernetes | tensorflow, kubernetes | https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
+
