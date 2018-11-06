@@ -73,3 +73,5 @@ LowJS | Node port for embedded devices | runtime, embedded | http://www.lowjs.or
 30-second-js | Useful JS code snippets | code-snippets | https://github.com/30-seconds/30-seconds-of-code
 NodeJS Native extensions | Native extensions for Node | native | https://medium.com/the-node-js-collection/native-extensions-for-node-js-767e221b3d26
 Axios | Promise based REST client | rest-client | https://github.com/axios/axios
+Wilbur | GUI based app for generating express APIs | express, code-generator | https://medium.com/generate-powerful-nodejs-apps-written-in-typesscri/getting-started-with-wilbur-7b1e607818fa
+Carlo | Web rendering for Node applications using chrome puppeteer | puppeteer | https://github.com/GoogleChromeLabs/carlo
