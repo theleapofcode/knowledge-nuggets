@@ -62,3 +62,4 @@ NodeBook | Multi language REPL with Web UI | REPL, UI | https://github.com/netgu
 Mole | SSH tunnels for firewall traversal | ssh, firewall-traversal | https://davrodpin.github.io/mole
 HiProxy | Lightweight proxy based on nodejs with nginx like config | proxy, nodejs | https://github.com/hiproxy/hiproxy
 SourceGraph | Code search, navigation and analysis tool | code | https://github.com/sourcegraph/sourcegraph
+Monica | Personal CRM | crm | https://github.com/monicahq/monica
