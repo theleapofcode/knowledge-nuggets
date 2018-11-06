@@ -135,4 +135,9 @@ DL lip reading | Lip reading through deep learning | lip-reading | https://githu
 Face API | Face detection using tensorflow JS | js, face-detection | https://github.com/justadudewhohacks/face-api.js
 Medical Torch | PyTorch based medical imaging analysis | medical, pytorch | https://medium.com/dair-ai/medical-imaging-analysis-mri-cnn-pytorch-4877e64e7303, https://github.com/perone/medicaltorch
 Tensorflow on Kubernetes | Tensorflow on kubernetes | tensorflow, kubernetes | https://medium.com/analytics-vidhya/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker-575dc07d9e76
-
+Open Images Dataset | Open images dataset from Google | dataset, images | https://storage.googleapis.com/openimages/web/index.html
+AlphaZero using Keras | AlphaZero using Keras | keras, reinforcement-learning | https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+Space Invderz | Space inveders game with genetic algorithm | genetic-learning | https://github.com/victorqribeiro/invaderz
+Machine learning pipeline | Step by step tutorial of a end to end machine learning pipeline | pipeline | https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html
+Deep learning Book | DL book | book | https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/
+Generating faces using GAN | GAN based face generation | GAN | https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255, https://github.com/SummitKwan/transparent_latent_gan
