@@ -66,3 +66,6 @@ ky | Wrapper on fetch API for REST client | client, fetch | https://github.com/s
 Lyo | Node to browser tool similar to Browserify | bundler | https://github.com/bokub/lyo
 30-second-css | useful CSS code snippets | css, code-snippets | https://30-seconds.github.io/30-seconds-of-css/
 Rete | JS based visual flow programming | js, visual-programming | https://github.com/retejs/rete
+HowlerJS | Audio processing in JS | js, lib, audio-processing | https://howlerjs.com/
+Simple Keyboard | JS keyboard | js, keyboard | https://github.com/hodgef/simple-keyboard
+StoryBoard | Interactive WYSIWYG based UI components editor for Angular, React, Vue | UI-editor, Vue | https://github.com/storybooks/storybook
