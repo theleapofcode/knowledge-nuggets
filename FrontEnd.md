@@ -69,3 +69,6 @@ Rete | JS based visual flow programming | js, visual-programming | https://githu
 HowlerJS | Audio processing in JS | js, lib, audio-processing | https://howlerjs.com/
 Simple Keyboard | JS keyboard | js, keyboard | https://github.com/hodgef/simple-keyboard
 StoryBoard | Interactive WYSIWYG based UI components editor for Angular, React, Vue | UI-editor, Vue | https://github.com/storybooks/storybook
+Webpack to Parcel | Switching from Webpack to Parcel | tips, parcel | https://logrocket.com/blog/switching-to-parcel-from-webpack/
+FrontEnd check list | Check list for developing websites | check-list | https://frontendchecklist.io/
+Interactive iconographic with Vue | Interactive iconographic with Vue | iconographic, vue | https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/
