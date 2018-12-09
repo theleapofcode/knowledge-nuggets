@@ -141,3 +141,8 @@ Space Invderz | Space inveders game with genetic algorithm | genetic-learning | 
 Machine learning pipeline | Step by step tutorial of a end to end machine learning pipeline | pipeline | https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html
 Deep learning Book | DL book | book | https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/
 Generating faces using GAN | GAN based face generation | GAN | https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255, https://github.com/SummitKwan/transparent_latent_gan
+FfDL | DL frameworks on Kubernates | tensorflow, kubernetes | https://github.com/IBM/FfDL
+TensorSpace | NN 3D visualization | visualization | https://github.com/tensorspace-team/tensorspace
+Horizon | Facebook's Reinforcement learning platform | reinforcement-learning, facebook | https://github.com/facebookresearch/Horizon
+Machine Learning algorithms | 10 Ml algorithms | algos | https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+Cirq | Python lib for quantum  computing | quantum-computing | https://github.com/quantumlib/Cirq
