@@ -75,3 +75,5 @@ NodeJS Native extensions | Native extensions for Node | native | https://medium.
 Axios | Promise based REST client | rest-client | https://github.com/axios/axios
 Wilbur | GUI based app for generating express APIs | express, code-generator | https://medium.com/generate-powerful-nodejs-apps-written-in-typesscri/getting-started-with-wilbur-7b1e607818fa
 Carlo | Web rendering for Node applications using chrome puppeteer | puppeteer | https://github.com/GoogleChromeLabs/carlo
+JS Error Handling | JS error handling tips | js, error-handling | https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
+ENV file | NodeJS .env file | env | https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
