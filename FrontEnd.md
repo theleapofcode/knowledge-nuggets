@@ -72,3 +72,10 @@ StoryBoard | Interactive WYSIWYG based UI components editor for Angular, React, 
 Webpack to Parcel | Switching from Webpack to Parcel | tips, parcel | https://logrocket.com/blog/switching-to-parcel-from-webpack/
 FrontEnd check list | Check list for developing websites | check-list | https://frontendchecklist.io/
 Interactive iconographic with Vue | Interactive iconographic with Vue | iconographic, vue | https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/
+QuillJS | WYSWYG editor | editor, JS | https://github.com/quilljs/quill
+RRWeb | Web session record and replay | record, web, library | https://www.rrweb.io/?
+Front end performance checklist | Checklist for website performance | performance, checklist | https://github.com/thedaviddias/Front-End-Performance-Checklist
+ToastUI | UI components for Charting, Calendar, Image editor, Grid etc. | charts, calendar, library | http://ui.toast.com/
+WebHint | Website prifiling tool | performance, profiling | https://webhint.io/
+Uncaptcha2 | ReCaptcha cracker | captcha, crack | https://github.com/ecthros/uncaptcha2
+FBT | Internationalization framework from Facebook | facebook, i18n | https://facebookincubator.github.io/fbt/
