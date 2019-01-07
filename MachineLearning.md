@@ -146,3 +146,17 @@ TensorSpace | NN 3D visualization | visualization | https://github.com/tensorspa
 Horizon | Facebook's Reinforcement learning platform | reinforcement-learning, facebook | https://github.com/facebookresearch/Horizon
 Machine Learning algorithms | 10 Ml algorithms | algos | https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
 Cirq | Python lib for quantum  computing | quantum-computing | https://github.com/quantumlib/Cirq
+Practical ML | ML tutorials using notebooks | notebooks, tutorials | https://github.com/GokuMohandas/practicalAI
+Home made ML | ML tutirials using notebooks with math explained | notebooks, tutorials | https://github.com/trekhleb/homemade-machine-learning
+BrainJS | NN JS library | library | https://github.com/BrainJS/brain.js
+BrainJS tutorials | Video tutorials for BrainJS | brainjs, tutorials | https://scrimba.com/g/gneuralnetworks
+Scorch | Scikit-learn compatible NN lib using PyTorch | pytorch | https://github.com/dnouri/skorch
+DeepFaceLab | Swap faces in photos and videos | face | https://github.com/iperov/DeepFaceLab
+Dask | Scaling Numpy, Pandas and Scikit-learn by parallelism | pandas, skikit-learn | https://dask.org/
+Google data studio | Tutorial for G data studio | studio, google | https://datascience-school.com/blog/google-data-studio-in-10-minutes-step-by-step-guide/
+Flair | Simple NLP library more accurate than others | NLP, python | https://github.com/zalandoresearch/flair
+BERT | NLP using bidirection encoders by Google | NLP, google | https://github.com/google-research/bert
+TRFL | Reinforcement library using tensorflow | tensorflow, reinforcement-learning | https://github.com/deepmind/trfl
+Deoldify | Coloring and restoring old photos using DL | images | https://github.com/jantic/DeOldify
+PocketFlow | Automatic model compression for ML | compression | https://github.com/Tencent/PocketFlow
+MaskRCNN | Object detection using Mask RCNN on PyTorch | object-detection, pytorch | https://github.com/facebookresearch/maskrcnn-benchmark
