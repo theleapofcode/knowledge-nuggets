@@ -64,3 +64,6 @@ HiProxy | Lightweight proxy based on nodejs with nginx like config | proxy, node
 SourceGraph | Code search, navigation and analysis tool | code | https://github.com/sourcegraph/sourcegraph
 Monica | Personal CRM | crm | https://github.com/monicahq/monica
 Froala Desgin Blocks | Design tool for building websites | design, vuejs | https://www.froala.com/design-blocks
+TXQR | Transfer data using QR code | data-transfer, QR | https://github.com/divan/txqr
+Stratch | Program interactive stories | story, viz | https://scratch.mit.edu/
+RunJS | Scratchpad for JS | scratchpad, JS | https://projects.lukehaas.me/runjs/
