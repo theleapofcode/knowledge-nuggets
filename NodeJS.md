@@ -77,3 +77,8 @@ Wilbur | GUI based app for generating express APIs | express, code-generator | h
 Carlo | Web rendering for Node applications using chrome puppeteer | puppeteer | https://github.com/GoogleChromeLabs/carlo
 JS Error Handling | JS error handling tips | js, error-handling | https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
 ENV file | NodeJS .env file | env | https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+Strapi | Node API generation framework | zero-code, api | https://strapi.io/
+Mali | Node gRPC framework | grpc | https://auth0.com/blog/creating-a-node-grpc-service-using-mali/
+Boom | HTTP friendly error objects | error-handling | https://github.com/hapijs/boom
+Catbox | Node cache framework with support for multiple datastores | cache | https://github.com/hapijs/catbox
+
