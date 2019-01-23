@@ -160,3 +160,10 @@ TRFL | Reinforcement library using tensorflow | tensorflow, reinforcement-learni
 Deoldify | Coloring and restoring old photos using DL | images | https://github.com/jantic/DeOldify
 PocketFlow | Automatic model compression for ML | compression | https://github.com/Tencent/PocketFlow
 MaskRCNN | Object detection using Mask RCNN on PyTorch | object-detection, pytorch | https://github.com/facebookresearch/maskrcnn-benchmark
+PapersWithCode | Tech papers with code | papers | https://github.com/zziz/pwc
+NN differential equation | NN with differential equation paper and code | NN, paper | https://github.com/JSeam2/Neural-Ordinary-Differential-Equations
+FastText | Facebook text analysis and classification | text, facebook | https://github.com/facebookresearch/fastText
+Chatterbot | AI bot framework | bot | https://github.com/gunthercox/ChatterBot
+Kubeflow | ML toolkit for Kubernetes | kubernetes | https://github.com/kubeflow/kubeflow
+Seeing Theory | Visual guide of probability and statistics | probability, visualization | https://seeing-theory.brown.edu/
+Fourier Transform Visualization | Visualization FT | fourier, visualization | http://www.jezzamon.com/fourier/index.html
