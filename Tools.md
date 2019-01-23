@@ -67,3 +67,7 @@ Froala Desgin Blocks | Design tool for building websites | design, vuejs | https
 TXQR | Transfer data using QR code | data-transfer, QR | https://github.com/divan/txqr
 Stratch | Program interactive stories | story, viz | https://scratch.mit.edu/
 RunJS | Scratchpad for JS | scratchpad, JS | https://projects.lukehaas.me/runjs/
+Mkcert | Tool to generate certs that work on localhost | SSL, certs | https://github.com/FiloSottile/mkcert
+Toshi | ElasticSearch equivalent in Rust | search-engine | https://github.com/toshi-search/Toshi
+PostMake | A directory of the best tools and resources for your projects | tools, project | https://postmake.io/
+Code to Graph | Code to flowchart generation | code-analysis | https://github.com/crubier/code-to-graph
