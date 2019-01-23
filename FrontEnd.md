@@ -79,3 +79,9 @@ ToastUI | UI components for Charting, Calendar, Image editor, Grid etc. | charts
 WebHint | Website prifiling tool | performance, profiling | https://webhint.io/
 Uncaptcha2 | ReCaptcha cracker | captcha, crack | https://github.com/ecthros/uncaptcha2
 FBT | Internationalization framework from Facebook | facebook, i18n | https://facebookincubator.github.io/fbt/
+PeerPouch | PouchDB with peer connection using webrtc | pouchdb, webrtc | https://github.com/natevw/PeerPouch
+AnimeJS | JS lib for animation | animation, lib | https://animejs.com/
+Elasticlunr | ElasticSearch equivalent browser in JS | js, search | http://elasticlunr.com/
+SurveyJS | JS survey and form building library | form-builder | https://github.com/surveyjs/surveyjs
+MermaidJS | Text to Flowchart, Gantt chart, Graph etc. | chart, graph | https://mermaidjs.github.io/
+
