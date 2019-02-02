@@ -167,3 +167,5 @@ Chatterbot | AI bot framework | bot | https://github.com/gunthercox/ChatterBot
 Kubeflow | ML toolkit for Kubernetes | kubernetes | https://github.com/kubeflow/kubeflow
 Seeing Theory | Visual guide of probability and statistics | probability, visualization | https://seeing-theory.brown.edu/
 Fourier Transform Visualization | Visualization FT | fourier, visualization | http://www.jezzamon.com/fourier/index.html
+WinkJS | JS NLP lib | js, nlp | https://winkjs.org/
+AIFiddle | JS fiddle for DL pipeline | fiddle, DL, JS | https://beta.aifiddle.io/
