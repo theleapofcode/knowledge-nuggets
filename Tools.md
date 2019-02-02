@@ -71,3 +71,4 @@ Mkcert | Tool to generate certs that work on localhost | SSL, certs | https://gi
 Toshi | ElasticSearch equivalent in Rust | search-engine | https://github.com/toshi-search/Toshi
 PostMake | A directory of the best tools and resources for your projects | tools, project | https://postmake.io/
 Code to Graph | Code to flowchart generation | code-analysis | https://github.com/crubier/code-to-graph
+Release It | Tool to automate git release tasks | git, npm, release | https://github.com/webpro/release-it
