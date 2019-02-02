@@ -84,4 +84,8 @@ AnimeJS | JS lib for animation | animation, lib | https://animejs.com/
 Elasticlunr | ElasticSearch equivalent browser in JS | js, search | http://elasticlunr.com/
 SurveyJS | JS survey and form building library | form-builder | https://github.com/surveyjs/surveyjs
 MermaidJS | Text to Flowchart, Gantt chart, Graph etc. | chart, graph | https://mermaidjs.github.io/
-
+ReDom | Tiny JS lib for creating UI | UI, lib | https://redom.js.org/
+X-spreadsheet | JS canvas lib for spreadsheets | js, spreadsheet, lib | https://github.com/myliang/x-spreadsheet
+Websocketd | Websocket lib | websocket, js | http://websocketd.com/
+Readability | JS lib for creating readable parsing of DOM | parser, js | https://github.com/mozilla/readability
+FlexSearch | Full text search JS lib for browser and node | full-text, js | https://github.com/nextapps-de/flexsearch
