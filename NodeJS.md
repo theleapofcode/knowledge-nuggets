@@ -81,4 +81,5 @@ Strapi | Node API generation framework | zero-code, api | https://strapi.io/
 Mali | Node gRPC framework | grpc | https://auth0.com/blog/creating-a-node-grpc-service-using-mali/
 Boom | HTTP friendly error objects | error-handling | https://github.com/hapijs/boom
 Catbox | Node cache framework with support for multiple datastores | cache | https://github.com/hapijs/catbox
-
+Apprise | Push notifications for any platform | push, notification | https://github.com/caronc/apprise
+FinanceJS | JS lib for finance related ops | finance, js | http://financejs.org/
