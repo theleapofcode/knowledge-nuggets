@@ -12,3 +12,4 @@ Kafka UI | UI for kafka management | kafka, UI | https://github.com/Landoop/kafk
 Apache NiFi | Data pipelining framework | data pipeline | https://nifi.apache.org/
 Beam | Apache stream and batch processing abstraction | stream, batch | https://beam.apache.org/
 Kepler | Geospatial data analysis from Uber | geo | https://uber.github.io/kepler.gl/#/
+Blazer | Analtics BI tool like Redash | BI, analytics | https://github.com/ankane/blazer
