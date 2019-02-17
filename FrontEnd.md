@@ -89,3 +89,10 @@ X-spreadsheet | JS canvas lib for spreadsheets | js, spreadsheet, lib | https://
 Websocketd | Websocket lib | websocket, js | http://websocketd.com/
 Readability | JS lib for creating readable parsing of DOM | parser, js | https://github.com/mozilla/readability
 FlexSearch | Full text search JS lib for browser and node | full-text, js | https://github.com/nextapps-de/flexsearch
+Plotly.js | JS charting lib | charts, js | https://github.com/plotly/plotly.js
+JAMStack | JS, API, Markdown stack | stack | https://jamstack.org/
+Mercury parser | crawler for the web | crawler, parser | https://github.com/postlight/mercury-parser
+Dumper | JS object logging lib | log, JS | https://github.com/ziishaned/dumper.js
+Uppy | File uploader lib for JS | JS, file-upload | https://github.com/transloadit/uppy
+instant.page | Speedup website by preloading | website, speed | https://instant.page/
+FuseJS | Lightweight fuzzy search for JS | JS, search | https://fusejs.io/
