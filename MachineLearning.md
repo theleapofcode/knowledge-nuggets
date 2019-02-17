@@ -169,3 +169,6 @@ Seeing Theory | Visual guide of probability and statistics | probability, visual
 Fourier Transform Visualization | Visualization FT | fourier, visualization | http://www.jezzamon.com/fourier/index.html
 WinkJS | JS NLP lib | js, nlp | https://winkjs.org/
 AIFiddle | JS fiddle for DL pipeline | fiddle, DL, JS | https://beta.aifiddle.io/
+AI-chatbot-framework | Python framework for chatbot | chatbot, python | https://github.com/alfredfrancis/ai-chatbot-framework/
+DeepPavlov | AI chatbot framework | chatbot, python, tensorflow | https://deeppavlov.ai/
+Sytora | Symptoms search engine | symptoms-search, healthcare | https://github.com/leanderme/sytora
