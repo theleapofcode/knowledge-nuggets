@@ -96,3 +96,9 @@ Dumper | JS object logging lib | log, JS | https://github.com/ziishaned/dumper.j
 Uppy | File uploader lib for JS | JS, file-upload | https://github.com/transloadit/uppy
 instant.page | Speedup website by preloading | website, speed | https://instant.page/
 FuseJS | Lightweight fuzzy search for JS | JS, search | https://fusejs.io/
+FrenchKiss | JS i18n framework | i18n | https://github.com/koala-interactive/frenchkiss.js
+Object-explorer | JS Object method suggestion | js, object | https://github.com/sdras/object-explorer
+V8n | Versatile validation lib for JS | validation | https://github.com/imbrn/v8n
+G6 | Graph visualization lib | graph, visualization | https://github.com/antvis/g6
+Driver.js | JS lib to drive user's focus on elements of a webpage | user-focus | https://github.com/kamranahmedse/driver.js
+Flipclock.js | Countdown clock JS lib | clock | http://flipclockjs.com/
