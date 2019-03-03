@@ -83,3 +83,12 @@ Boom | HTTP friendly error objects | error-handling | https://github.com/hapijs/
 Catbox | Node cache framework with support for multiple datastores | cache | https://github.com/hapijs/catbox
 Apprise | Push notifications for any platform | push, notification | https://github.com/caronc/apprise
 FinanceJS | JS lib for finance related ops | finance, js | http://financejs.org/
+Molecular | Microservices framwork for Node | microservices | https://github.com/moleculerjs/moleculer
+ncc | Compile node projects to single file like gcc | compile | https://github.com/zeit/ncc
+Node-dashboard | Telemetry dashboard for Node processes in Terminal | terminal, dashboard, monitoring | https://github.com/FormidableLabs/nodejs-dashboard
+Workerize | Web worker framework for Node | web-worker | https://github.com/developit/workerize
+Greenlet | Move async function to separate thread | async, web-worker | https://github.com/developit/greenlet
+ExpressCart | Node shopping cart app with stripe and paypal integration | shappoint-cart | https://github.com/mrvautin/expressCart
+Wiki.js | Wiki app | wiki | https://github.com/Requarks/wiki
+Chancejs | Random value generator - numbers, names, images etc. | random | https://chancejs.com/
+
