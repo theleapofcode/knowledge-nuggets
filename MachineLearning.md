@@ -172,3 +172,11 @@ AIFiddle | JS fiddle for DL pipeline | fiddle, DL, JS | https://beta.aifiddle.io
 AI-chatbot-framework | Python framework for chatbot | chatbot, python | https://github.com/alfredfrancis/ai-chatbot-framework/
 DeepPavlov | AI chatbot framework | chatbot, python, tensorflow | https://deeppavlov.ai/
 Sytora | Symptoms search engine | symptoms-search, healthcare | https://github.com/leanderme/sytora
+Leon | AI personal assistant | chatbot | https://github.com/leon-ai/leon
+JeelizWeboji | Face and expression detection | expression-detection | https://github.com/jeeliz/jeelizWeboji
+NLP.js | NLP js lib for chatbots | nlp, chatbot | https://github.com/axa-group/nlp.js
+Ludwig | Ludwig is a toolbox that allows to train and test deep learning models without the need to write code | uber, framework | https://uber.github.io/ludwig/
+Stanford CNN course | CNN course by stanford | stanford, course, CNN | http://cs231n.stanford.edu/
+ML project walkthrough | A complete ML project walkthrough in python | walkthrough, best-practises | https://codequs.com/p/BkaLEq8r4/a-complete-machine-learning-project-walk-through-in-python
+Physionet | Datasets for medical usecases | medical, datasets | https://physionet.org/physiobank/database/
+ImmersiveMath | Interactive linear algebra tutorial | linear-algebra, visualize | http://immersivemath.com/ila/index.html
