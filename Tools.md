@@ -72,3 +72,6 @@ Toshi | ElasticSearch equivalent in Rust | search-engine | https://github.com/to
 PostMake | A directory of the best tools and resources for your projects | tools, project | https://postmake.io/
 Code to Graph | Code to flowchart generation | code-analysis | https://github.com/crubier/code-to-graph
 Release It | Tool to automate git release tasks | git, npm, release | https://github.com/webpro/release-it
+SubSync | Tool to synchronize subtitles | subtitles | https://github.com/smacke/subsync
+SSLforFree | Free valid SSL certs | ssl-certs, free | https://www.sslforfree.com/My
+MyBridge | Collection of best tools and articles | github, awesome-lists | https://github.com/Mybridge
