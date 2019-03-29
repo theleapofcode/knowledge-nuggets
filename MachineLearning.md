@@ -180,3 +180,8 @@ Stanford CNN course | CNN course by stanford | stanford, course, CNN | http://cs
 ML project walkthrough | A complete ML project walkthrough in python | walkthrough, best-practises | https://codequs.com/p/BkaLEq8r4/a-complete-machine-learning-project-walk-through-in-python
 Physionet | Datasets for medical usecases | medical, datasets | https://physionet.org/physiobank/database/
 ImmersiveMath | Interactive linear algebra tutorial | linear-algebra, visualize | http://immersivemath.com/ila/index.html
+d2l.ai | Interactive book for learning DL | dl, book | http://d2l.ai/
+Awesome-public-datasets | Awesome list of public datasets | datasets, awesome-list | https://github.com/awesomedata/awesome-public-datasets
+HandTracking | Lib to track hand | hand-tracking | https://github.com/victordibia/handtracking
+NiftyNet | Medical image CNN lib | medical, CNN, images | http://www.niftynet.io/
+DICOM CNN | Lib for CNN using DICOM images | DICOM, CNN | https://github.com/ben-heil/DICOM-CNN
