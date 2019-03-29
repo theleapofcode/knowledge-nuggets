@@ -9,3 +9,4 @@ BlockChain demo | Demo of blockchain | demo | https://anders.com/blockchain/
 Hedera Hashgraph | Hashgraph | haspgraph | https://www.hederahashgraph.com/
 HashGraph intro | Hanshgraph intro | hashgraph | http://www.thehindu.com/sci-tech/technology/can-hashgraph-succeed-blockchain-as-the-technology-of-choice-for-cryptocurrencies/article23348176.ece
 BAT | Basic attention token | advertizing | https://basicattentiontoken.org/
+MedicalChain | BlockChain for storing medical data | medical, EMR | https://medicalchain.com/en/
