@@ -75,3 +75,6 @@ Release It | Tool to automate git release tasks | git, npm, release | https://gi
 SubSync | Tool to synchronize subtitles | subtitles | https://github.com/smacke/subsync
 SSLforFree | Free valid SSL certs | ssl-certs, free | https://www.sslforfree.com/My
 MyBridge | Collection of best tools and articles | github, awesome-lists | https://github.com/Mybridge
+Remove background | Online tool to remove Background of an image | image | https://www.remove.bg/
+KdenLive | Video editing tool | video-editing | https://kdenlive.org
+Gotify | Simple server for sending and receiving messages | messaging | https://gotify.net/
