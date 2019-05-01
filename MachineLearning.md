@@ -186,3 +186,6 @@ HandTracking | Lib to track hand | hand-tracking | https://github.com/victordibi
 NiftyNet | Medical image CNN lib | medical, CNN, images | http://www.niftynet.io/
 DICOM CNN | Lib for CNN using DICOM images | DICOM, CNN | https://github.com/ben-heil/DICOM-CNN
 Lunar lander in OpenAI gym | Training lunar lander in openAI gym | openaigym, reinforcement-learning | https://towardsdatascience.com/solving-lunar-lander-openaigym-reinforcement-learning-785675066197
+Optimus | PySpark based tool for preprocessing datasets | pre-processing, pyspark | https://github.com/ironmussa/Optimus
+pix2pix GAN | pix2pix GAN using tensorflow 2.0 | gan, tensorflow-2.0 | https://towardsdatascience.com/pix2pix-gan-in-tensorflow-2-0-fe0ab475c713
+Timeseries modelling using tensorflow probability | Timeseries modelling using tensorflow probability | tensorflow-probability, time-series | https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083
