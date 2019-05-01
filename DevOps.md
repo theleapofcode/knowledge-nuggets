@@ -24,3 +24,5 @@ Kubernetes tools | Tools around kubernetes | kubernetes | http://techgenix.com/o
 Microservices orchestration with Kubernetes | Microservices orchestration with Kubernetes | kubernetes | https://medium.com/@asad_5112/microservices-orchestration-with-kubernetes-1cbb737cfa46
 Node to Kube | Deploy Nodejs to Kubernetes with one command | kubernetes, nodejs | https://github.com/kubesail/deploy-to-kube
 Cadence | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. | orchestration | https://github.com/uber/cadence
+Docker compose UI | UI for docker compose | compose, ui | https://github.com/francescou/docker-compose-ui
+dive | Tool to explore layers in a docker container | docker, explore | https://github.com/wagoodman/dive
