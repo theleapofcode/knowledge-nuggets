@@ -80,3 +80,4 @@ KdenLive | Video editing tool | video-editing | https://kdenlive.org
 Gotify | Simple server for sending and receiving messages | messaging | https://gotify.net/
 Mockit | Tool with UI to mock REST APIs | mock, apis | https://mockit.netlify.com
 Dino | Tool for distributed notifications using websockets | notification, websocket | https://github.com/thenetcircle/dino/
+Jsonnet | Json based data templating tool | templating, json | https://github.com/ironmussa/Optimus
