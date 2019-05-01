@@ -185,3 +185,4 @@ Awesome-public-datasets | Awesome list of public datasets | datasets, awesome-li
 HandTracking | Lib to track hand | hand-tracking | https://github.com/victordibia/handtracking
 NiftyNet | Medical image CNN lib | medical, CNN, images | http://www.niftynet.io/
 DICOM CNN | Lib for CNN using DICOM images | DICOM, CNN | https://github.com/ben-heil/DICOM-CNN
+Lunar lander in OpenAI gym | Training lunar lander in openAI gym | openaigym, reinforcement-learning | https://towardsdatascience.com/solving-lunar-lander-openaigym-reinforcement-learning-785675066197
