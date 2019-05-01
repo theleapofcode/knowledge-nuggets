@@ -23,3 +23,4 @@ Gilab CI/CD | CI/CD using gitlab | gitlab | https://medium.com/@jimmyadaro/build
 Kubernetes tools | Tools around kubernetes | kubernetes | http://techgenix.com/open-source-kubernetes/
 Microservices orchestration with Kubernetes | Microservices orchestration with Kubernetes | kubernetes | https://medium.com/@asad_5112/microservices-orchestration-with-kubernetes-1cbb737cfa46
 Node to Kube | Deploy Nodejs to Kubernetes with one command | kubernetes, nodejs | https://github.com/kubesail/deploy-to-kube
+Cadence | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. | orchestration | https://github.com/uber/cadence
