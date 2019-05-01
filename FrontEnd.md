@@ -104,3 +104,7 @@ Driver.js | JS lib to drive user's focus on elements of a webpage | user-focus |
 Flipclock.js | Countdown clock JS lib | clock | http://flipclockjs.com/
 CrumbJS | lib for session and cookie storage | cookies, session, lib | https://github.com/nirtz89/crumbsjs
 Shepherd | Tool to create guide of websites | tour, lib, navigation | https://github.com/shipshapecode/shepherd
+iodide | Literate scientific computing and communication for the web | python, web, ecmascripten | https://github.com/iodide-project/iodide, https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/
+FullCalendar | JS calendar | calendar, js | https://fullcalendar.io/
+Prevue | Prototyping tool for Vue | design, prototyping, vue | https://prevue.io/
+Talisman | Phonetic library in JS | phonetics, js | http://yomguithereal.github.io/talisman/phonetics/
