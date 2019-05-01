@@ -103,3 +103,4 @@ G6 | Graph visualization lib | graph, visualization | https://github.com/antvis/
 Driver.js | JS lib to drive user's focus on elements of a webpage | user-focus | https://github.com/kamranahmedse/driver.js
 Flipclock.js | Countdown clock JS lib | clock | http://flipclockjs.com/
 CrumbJS | lib for session and cookie storage | cookies, session, lib | https://github.com/nirtz89/crumbsjs
+Shepherd | Tool to create guide of websites | tour, lib, navigation | https://github.com/shipshapecode/shepherd
