@@ -35,3 +35,4 @@ Chirp | Sending data through sound | audio-qr | https://chirp.io/
 BCI in JS | BCI in JS | bci, js | https://medium.com/@devdevcharlie/experimenting-with-brain-computer-interfaces-in-javascript-8d6cb891fda8
 Snips.ai | Voice based assistance for M2M | voice-assistant | https://snips.ai/
 BCI.js | BCI JS lib | bci, js | https://towardsdatascience.com/eeg-motor-imagery-classification-in-node-js-with-bci-js-d21f29cf165
+Mozilla IoT | Mozilla IoT platform | iot, platform, mozilla | https://iot.mozilla.org/
