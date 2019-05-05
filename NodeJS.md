@@ -94,3 +94,4 @@ Chancejs | Random value generator - numbers, names, images etc. | random | https
 FromFrom | Tool to transform data from one form to another | data, transform | https://github.com/tomi/fromfrom
 ES6 features | All ES6 features | es6 | https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
 FaaastJS | Serverless framework for NodeJS | serverless, qws, gcp | https://faastjs.org/
+NodeJS best practices | Collection of NodeJS best practices | best-practices | https://github.com/i0natan/nodebestpractices
