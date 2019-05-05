@@ -189,3 +189,4 @@ Lunar lander in OpenAI gym | Training lunar lander in openAI gym | openaigym, re
 Optimus | PySpark based tool for preprocessing datasets | pre-processing, pyspark | https://github.com/ironmussa/Optimus
 pix2pix GAN | pix2pix GAN using tensorflow 2.0 | gan, tensorflow-2.0 | https://towardsdatascience.com/pix2pix-gan-in-tensorflow-2-0-fe0ab475c713
 Timeseries modelling using tensorflow probability | Timeseries modelling using tensorflow probability | tensorflow-probability, time-series | https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083
+Image reproduction | Image reproduction using genetic algorithm | image-processing | https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84
