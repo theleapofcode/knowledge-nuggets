@@ -110,3 +110,5 @@ Prevue | Prototyping tool for Vue | design, prototyping, vue | https://prevue.io
 Talisman | Phonetic library in JS | phonetics, js | http://yomguithereal.github.io/talisman/phonetics/
 MatterJS | 2D physics engine for JS | physics | http://brm.io/matter-js/
 P5JS | Processing JS | processing, js | https://p5js.org/
+BabylonJS | 3D graphics engine using webgl | webgl, graphics | https://www.babylonjs.com/
+EditorJS | Rich text editor | editor, lib | https://editorjs.io/
