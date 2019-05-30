@@ -190,3 +190,6 @@ Optimus | PySpark based tool for preprocessing datasets | pre-processing, pyspar
 pix2pix GAN | pix2pix GAN using tensorflow 2.0 | gan, tensorflow-2.0 | https://towardsdatascience.com/pix2pix-gan-in-tensorflow-2-0-fe0ab475c713
 Timeseries modelling using tensorflow probability | Timeseries modelling using tensorflow probability | tensorflow-probability, time-series | https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083
 Image reproduction | Image reproduction using genetic algorithm | image-processing | https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84
+Overfitting prevention | Tricks to prevent over fitting | over-fitting, article | https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
+Tensorflow hub | Model zoo for tensorflow | models, tensorflow | https://tfhub.dev/
+
