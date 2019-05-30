@@ -112,3 +112,22 @@ MatterJS | 2D physics engine for JS | physics | http://brm.io/matter-js/
 P5JS | Processing JS | processing, js | https://p5js.org/
 BabylonJS | 3D graphics engine using webgl | webgl, graphics | https://www.babylonjs.com/
 EditorJS | Rich text editor | editor, lib | https://editorjs.io/
+Blob-util | Lib for working with blob in browser | blob, lib | https://github.com/nolanlawson/blob-util
+Samples for AI | Getting started samples for AI using different frameworks from Microsoft | samples, microsoft | https://github.com/Microsoft/samples-for-ai
+MindMeld | Rasa like framework for chatbot | chatbot | https://www.mindmeld.com/docs/index.html
+Tensorflow Graphics | Tensorflow + graphics for CV | tensorflow, cv, graphics | https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668
+Fast SCNN | Fast SCNN using TF 2.0 | tensorflow, scnn, article | https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e
+Chexpert | Chest Xray dataset | chest-x-ray, dataset | https://stanfordmlgroup.github.io/competitions/chexpert/
+LASER | Language agnostic NLP framework by facebook | nlp, facebook | https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/
+Snorkel | Traning data creation tool | data-creation, training | https://hazyresearch.github.io/snorkel/
+Recipe for training NN | Training recipe by Andrey Karpathy | training, karpathy, article | http://karpathy.github.io/2019/04/25/recipe/
+Aroma | Tool for code recommendation using ML by facebook | code-recommendation, facebook | https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
+Creme-ml | Online ML lib | increwmental-learning, online-learning, tensorflow, scikit-learn | https://github.com/creme-ml/creme
+tensor2robot | Distributed platform for Reinforcement learning | tensorflow, reinforcement-learning | https://github.com/google-research/tensor2robot
+Open pilot | Open source driving agent | driverless, reinforcement-learning | https://github.com/commaai/openpilot
+ML course | ML course | course | https://github.com/machinelearningmindset/machine-learning-course
+MIMIC | Dataset of 40000 demographics, vital signs, laboratory tests, medications, and more | medical, dataset | https://mimic.physionet.org/
+SparkNLP | NLP on spark | spark, NLP | https://nlp.johnsnowlabs.com/
+ML step-by-step | Step-by-step guide for ML project | guide, article | https://www.geeksforgeeks.org/how-to-approach-a-machine-learning-project-a-step-wise-guidance/
+Pythia | Vision and language ML framework by facebook | facebook, vision, nlp | https://github.com/facebookresearch/pythia
+NLP guide | NLP basics to LSTM | nlp, rnn, lstm, article | https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
