@@ -47,3 +47,5 @@ VirtualEnvWrapper update project path | Update project path of a venv | venv, ml
 VirtualEnv python upgrade | Fix venv symlinks upon python upgrade | venv, python | https://gist.github.com/porterjamesj/36051aea629be28bbd6f9f071007b35c
 JS async handling options | Async handling options in JS | callbacks, promises, async/await | https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
 CS curriculum | Self learning modern CS syllabus | cs, syllabus | https://functionalcs.github.io/curriculum/
+Physics curriculum | Self learning Physics curriculum | physics, syllabus | https://github.com/llSourcell/Learn_Physics_in_2_Months
+Feynman lectures | Feynman lectures | feynman, lectures | http://www.feynmanlectures.caltech.edu/
