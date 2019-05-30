@@ -26,3 +26,5 @@ Node to Kube | Deploy Nodejs to Kubernetes with one command | kubernetes, nodejs
 Cadence | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. | orchestration | https://github.com/uber/cadence
 Docker compose UI | UI for docker compose | compose, ui | https://github.com/francescou/docker-compose-ui
 dive | Tool to explore layers in a docker container | docker, explore | https://github.com/wagoodman/dive
+Klusterkit | Toolkit to simplify K8s deployment | kubernetes, toolkit | https://github.com/platform9/klusterkit
+Rio | Container management CLI tool by Rancher | rancher, cli, containers | https://rio.io/
