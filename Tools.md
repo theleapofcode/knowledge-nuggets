@@ -82,3 +82,4 @@ Mockit | Tool with UI to mock REST APIs | mock, apis | https://mockit.netlify.co
 Dino | Tool for distributed notifications using websockets | notification, websocket | https://github.com/thenetcircle/dino/
 Jsonnet | Json based data templating tool | templating, json | https://github.com/ironmussa/Optimus
 1MB | Free static site hosting, domain and SSL | site-hosting | https://1mb.site
+Mathics | Alternative to Mathematica | mathematica, simulation | https://mathics.github.io/
