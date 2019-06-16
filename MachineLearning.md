@@ -192,4 +192,29 @@ Timeseries modelling using tensorflow probability | Timeseries modelling using t
 Image reproduction | Image reproduction using genetic algorithm | image-processing | https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84
 Overfitting prevention | Tricks to prevent over fitting | over-fitting, article | https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42
 Tensorflow hub | Model zoo for tensorflow | models, tensorflow | https://tfhub.dev/
-
+Samples for AI | Getting started samples for AI using different frameworks from Microsoft | samples, microsoft | https://github.com/Microsoft/samples-for-ai
+MindMeld | Rasa like framework for chatbot | chatbot | https://www.mindmeld.com/docs/index.html
+Tensorflow Graphics | Tensorflow + graphics for CV | tensorflow, cv, graphics | https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668
+Fast SCNN | Fast SCNN using TF 2.0 | tensorflow, scnn, article | https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e
+Chexpert | Chest Xray dataset | chest-x-ray, dataset | https://stanfordmlgroup.github.io/competitions/chexpert/
+LASER | Language agnostic NLP framework by facebook | nlp, facebook | https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/
+Snorkel | Traning data creation tool | data-creation, training | https://hazyresearch.github.io/snorkel/
+Recipe for training NN | Training recipe by Andrey Karpathy | training, karpathy, article | http://karpathy.github.io/2019/04/25/recipe/
+Aroma | Tool for code recommendation using ML by facebook | code-recommendation, facebook | https://ai.facebook.com/blog/aroma-ml-for-code-recommendation/
+Creme-ml | Online ML lib | increwmental-learning, online-learning, tensorflow, scikit-learn | https://github.com/creme-ml/creme
+tensor2robot | Distributed platform for Reinforcement learning | tensorflow, reinforcement-learning | https://github.com/google-research/tensor2robot
+Open pilot | Open source driving agent | driverless, reinforcement-learning | https://github.com/commaai/openpilot
+ML course | ML course | course | https://github.com/machinelearningmindset/machine-learning-course
+MIMIC | Dataset of 40000 demographics, vital signs, laboratory tests, medications, and more | medical, dataset | https://mimic.physionet.org/
+SparkNLP | NLP on spark | spark, NLP | https://nlp.johnsnowlabs.com/
+ML step-by-step | Step-by-step guide for ML project | guide, article | https://www.geeksforgeeks.org/how-to-approach-a-machine-learning-project-a-step-wise-guidance/
+Pythia | Vision and language ML framework by facebook | facebook, vision, nlp | https://github.com/facebookresearch/pythia
+NLP guide | NLP basics to LSTM | nlp, rnn, lstm, article | https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
+YOLOv3 in Keras | Object detection with YOLOv3 in Keras | yolov3, keras | https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
+SongKu | Solve sudokus from video in real time with computer vision and neural networks | sudoku, cv, NN | https://github.com/guille0/songoku
+DL models | Collection of DL models and tips | models | https://github.com/rasbt/deeplearning-models
+Tensorwatch | Debugging, monitoring and visualization for Python Machine Learning and Data Science by microsoft | monitoring, debugging, microsoft | https://github.com/microsoft/tensorwatch
+Kedro | A Python library for building robust production-ready data and analytics pipelines | ML-pipeline, python | https://github.com/quantumblacklabs/kedro
+Football | Football RL environment from Google | RL, environment | https://github.com/google-research/football
+AllenNLP | NLP library build on top of pytorch | nlp, pytorch | https://allennlp.org/
+Predicting hospital readmissions | Tutorial on predicting hospitral readmissions using ML | tutorial, medical | https://medium.com/berkeleyischool/how-to-use-machine-learning-to-predict-hospital-readmissions-part-1-bd137cbdba07
