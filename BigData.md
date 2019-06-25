@@ -14,3 +14,4 @@ Beam | Apache stream and batch processing abstraction | stream, batch | https://
 Kepler | Geospatial data analysis from Uber | geo | https://uber.github.io/kepler.gl/#/
 Blazer | Analtics BI tool like Redash | BI, analytics | https://github.com/ankane/blazer
 CubeJS | Analytics framework | analytics, js | https://cube.dev
+Luna | Luna is a data processing and visualization environment | data-processing, visualization | https://www.luna-lang.org/
