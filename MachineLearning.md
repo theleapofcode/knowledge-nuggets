@@ -218,3 +218,6 @@ Kedro | A Python library for building robust production-ready data and analytics
 Football | Football RL environment from Google | RL, environment | https://github.com/google-research/football
 AllenNLP | NLP library build on top of pytorch | nlp, pytorch | https://allennlp.org/
 Predicting hospital readmissions | Tutorial on predicting hospitral readmissions using ML | tutorial, medical | https://medium.com/berkeleyischool/how-to-use-machine-learning-to-predict-hospital-readmissions-part-1-bd137cbdba07
+DL models | DL models and architecture using TF and PyTorch | models, dl, tensorflow, pytorch | https://github.com/rasbt/deeplearning-models
+Mammography dataset | Mammography dataset | mammography, cancer, dataset | http://www.eng.usf.edu/cvprg/Mammography/Database.html
+Skin lesion dataset | Skin lesion dataset | skin, cancer, dataset | https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba
