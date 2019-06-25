@@ -83,3 +83,4 @@ Dino | Tool for distributed notifications using websockets | notification, webso
 Jsonnet | Json based data templating tool | templating, json | https://github.com/ironmussa/Optimus
 1MB | Free static site hosting, domain and SSL | site-hosting | https://1mb.site
 Mathics | Alternative to Mathematica | mathematica, simulation | https://mathics.github.io/
+rga | ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | search, cli | https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/
