@@ -97,3 +97,4 @@ FaaastJS | Serverless framework for NodeJS | serverless, qws, gcp | https://faas
 NodeJS best practices | Collection of NodeJS best practices | best-practices | https://github.com/i0natan/nodebestpractices
 OpenCV4NodeJS | OpenCV port on NodeJS | opencv | https://github.com/justadudewhohacks/opencv4nodejs
 Just | Task runner | task-runner | https://microsoft.github.io/just/
+Grant | Oauth lib with support for 130+ providers | oauth, lib | https://github.com/simov/grant
