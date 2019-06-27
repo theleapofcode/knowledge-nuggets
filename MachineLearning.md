@@ -221,3 +221,4 @@ Predicting hospital readmissions | Tutorial on predicting hospitral readmissions
 DL models | DL models and architecture using TF and PyTorch | models, dl, tensorflow, pytorch | https://github.com/rasbt/deeplearning-models
 Mammography dataset | Mammography dataset | mammography, cancer, dataset | http://www.eng.usf.edu/cvprg/Mammography/Database.html
 Skin lesion dataset | Skin lesion dataset | skin, cancer, dataset | https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba
+PyRobot | Robotics research platform by facebook | robotics, facebook | https://github.com/facebookresearch/pyrobot
