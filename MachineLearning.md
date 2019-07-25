@@ -222,3 +222,23 @@ DL models | DL models and architecture using TF and PyTorch | models, dl, tensor
 Mammography dataset | Mammography dataset | mammography, cancer, dataset | http://www.eng.usf.edu/cvprg/Mammography/Database.html
 Skin lesion dataset | Skin lesion dataset | skin, cancer, dataset | https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba
 PyRobot | Robotics research platform by facebook | robotics, facebook | https://github.com/facebookresearch/pyrobot
+Olivia | AI chatbot framework | chatbot | https://github.com/olivia-ai/olivia
+Preprocessing | Data preprocessing tutorial | guide, article | https://www.kdnuggets.com/2019/06/7-steps-mastering-data-preparation-python.html
+XLNet | Generalized Autoregressive Pretraining for Language Understanding | NLP | https://github.com/zihangdai/xlnet
+Craft | Text detection in images | ocr, text-detetction | https://github.com/clovaai/CRAFT-pytorch
+MMAction | Action detetction in videos | video, action-detection | https://github.com/open-mmlab/mmaction
+DLRM | Deep learning recommendation model from facebook | recommendation-engine, facebook | https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/
+Tensorpack | NN framework on top of tensorflow | tensorflow, framework | https://github.com/tensorpack/tensorpack
+Computer Vision syllabus | CV syllabus | syllabus, cv | https://github.com/llSourcell/Learn_Computer_Vision
+Video Object Removal | Draw bounding box to remove objects from videos | object-removal, video | https://github.com/zllrunning/video-object-removal
+IBM data science exchange | IBM exchange for datasets, models etc. | models, datasets | https://developer.ibm.com/exchanges/data/
+IBM pretrained models | Pretrained models | models | https://developer.ibm.com/exchanges/models/all/
+OMR checker | OMR reader using CNN | omr, cv | https://github.com/Udayraj123/OMRChecker
+Melnet | Generative models for ausio samples | audio, generation | https://audio-samples.github.io/
+E2E NLP | End to end guide for NLP projects | guide, nlp | https://medium.com/fintechexplained/end-to-end-guide-for-nlp-project-55e6765f63b5
+PyOD | Lib for outlier detection in data | outlier-detection | https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/
+Lime | Explaining the predictions of any machine learning classifier | prediction | https://github.com/marcotcr/lime
+Tensorflow custom dataset | Tutorial to build custom dataset for TF | tensorflow, dataset-building, tutorial | https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8
+MLBox | Automatic ML lib | automl | https://github.com/AxeldeRomblay/MLBox
+TPOT | Automatic ML lib | automl | https://epistasislab.github.io/tpot/
+
