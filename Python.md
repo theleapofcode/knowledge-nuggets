@@ -9,3 +9,7 @@ Manim | Animation engine for explanatory math videos | animation, 3b1b | https:/
 OpenCV cheat sheet | Cheat cheet for OpenCV | opencv, cheatsheet | https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433
 DejaVu | Audio printing and recognition in python | shazam, soundhound, audio-processing | https://github.com/worldveil/dejavu
 WhatsApp chat analysis | WhatsApp chat analysis tutorial | analysis | https://towardsdatascience.com/build-your-own-whatsapp-chat-analyzer-9590acca9014
+Librosa | Lib for ausio and music analysis | audio-processing | https://librosa.github.io/librosa/
+PyAdioAnalysis | Audio analisys | audio-processing | https://github.com/tyiannak/pyAudioAnalysis
+SQLAlchemy | Py RDMS lib | rdbms, sql | https://www.sqlalchemy.org/
+Parallel loops | Paralellizing python loops | parallel, loops, joblib | https://scikit-image.org/docs/dev/user_guide/tutorial_parallelization.html
