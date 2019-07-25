@@ -98,3 +98,6 @@ NodeJS best practices | Collection of NodeJS best practices | best-practices | h
 OpenCV4NodeJS | OpenCV port on NodeJS | opencv | https://github.com/justadudewhohacks/opencv4nodejs
 Just | Task runner | task-runner | https://microsoft.github.io/just/
 Grant | Oauth lib with support for 130+ providers | oauth, lib | https://github.com/simov/grant
+QuickJS | Pure JS engine | engine | https://bellard.org/quickjs/
+QuarkJS | Electron app for HTML app creation | app-generation, electron | https://quarkjs.io/
+
