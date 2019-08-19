@@ -122,3 +122,4 @@ D3 charts | Tutorial on interactive charts with D3 | d3, tutorial | https://watt
 Tree with SVG and VueJS | Tutorial on building dynamic tree using SVG and VueJS | tree, tutorial, svg, vuejs | https://medium.com/@krutie/building-a-dynamic-tree-diagram-with-svg-and-vue-js-a5df28e300cd
 PixelMatch | Pixel to pixel image comparision library in JS | image, library | https://github.com/mapbox/pixelmatch
 Javascript SEO tips | Google tips for SEO for JS | seo, tips | https://developers.google.com/search/docs/guides/javascript-seo-basics
+Svelte | Radically different front end framework | framework, ui | https://svelte.dev/
