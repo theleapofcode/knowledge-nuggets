@@ -15,3 +15,4 @@ Kepler | Geospatial data analysis from Uber | geo | https://uber.github.io/keple
 Blazer | Analtics BI tool like Redash | BI, analytics | https://github.com/ankane/blazer
 CubeJS | Analytics framework | analytics, js | https://cube.dev
 Luna | Luna is a data processing and visualization environment | data-processing, visualization | https://www.luna-lang.org/
+PartiQL | SQL-compatible access to relational, semi-structured, and nested data | amazon, sql, query | https://partiql.org/
