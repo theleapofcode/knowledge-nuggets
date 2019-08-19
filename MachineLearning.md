@@ -241,4 +241,14 @@ Lime | Explaining the predictions of any machine learning classifier | predictio
 Tensorflow custom dataset | Tutorial to build custom dataset for TF | tensorflow, dataset-building, tutorial | https://towardsdatascience.com/how-to-build-a-custom-dataset-for-tensorflow-1fe3967544d8
 MLBox | Automatic ML lib | automl | https://github.com/AxeldeRomblay/MLBox
 TPOT | Automatic ML lib | automl | https://epistasislab.github.io/tpot/
-
+DeepSort | Deep Learning to Track Custom Objects in a Video | object-detection | https://nanonets.com/blog/object-tracking-deepsort/
+Tabnine | TabNine uses deep learning to help you write code faster | code-completion | https://tabnine.com/
+Dejavu | Audio fingerprinting and recognition in Python | audio-fingerprinting, shazam | https://github.com/worldveil/dejavu
+TF-Explain | Interpretability Methods for tf.keras models with Tensorflow 2.0 | ann-visualization, callback | https://github.com/sicara/tf-explain
+Pytorch transformers | A library of state-of-the-art pretrained models for NLP | pytorch, nlp, models | https://github.com/huggingface/pytorch-transformers
+NeuralNLP | An Open-source Neural Hierarchical Multi-label Text Classification Toolkit | nlp, toolkit | https://github.com/Tencent/NeuralNLP-NeuralClassifier
+Tfpyth | Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters) | tensorflow, pytorch | https://github.com/BlackHC/tfpyth
+MedicalNet | The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code | medical, models | https://github.com/Tencent/MedicalNet
+ERNIE | An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools) | nlp, models | https://github.com/PaddlePaddle/ERNIE
+EasyModels | Easily find and view pre-trained AI models and deep learning projects through the command line | models | https://github.com/M4cs/EasyModels
+Carla | Open-source simulator for autonomous driving research | reinforcement-learning, self-driving | http://carla.org/
