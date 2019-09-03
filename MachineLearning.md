@@ -252,3 +252,12 @@ MedicalNet | The MedicalNet project provides a series of 3D-ResNet pre-trained m
 ERNIE | An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools) | nlp, models | https://github.com/PaddlePaddle/ERNIE
 EasyModels | Easily find and view pre-trained AI models and deep learning projects through the command line | models | https://github.com/M4cs/EasyModels
 Carla | Open-source simulator for autonomous driving research | reinforcement-learning, self-driving | http://carla.org/
+TF-GAN | TF 2.0 GAN library | gan, tf | https://medium.com/tensorflow/introducing-tf-gan-a-lightweight-gan-library-for-tensorflow-2-0-36d767e1abae
+Hunga-bunga | Brute-Force all sklearn models with all parameters using .fit .predict | sklearn, cross-validation | https://github.com/ypeleg/HungaBunga
+Audio classification CNN | Audio clasification using CNN | audio, spectrogram, cnn | https://medium.com/x8-the-ai-community/audio-classification-using-cnn-coding-example-f9cbd272269e
+DeepConnection | Deep learning model to classify relationship state in romantic couples from images and video | video, image, dnn | https://github.com/Bribak/DeepConnection
+Radam keras | Rectified Adam implementation in Keras | keras, radam, optimizer | https://github.com/titu1994/keras_rectified_adam
+Google Handtracking | Handtracking model from google | google, hand-tracking, model | https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html
+MediaPipe | cross-platform framework for building multimodal applied machine learning pipelines | framework, ml | https://github.com/google/mediapipe/
+Kannada MNIST | Kannada MNIST dataset | kannada, dataset | https://www.analyticsindiamag.com/kannada-makes-it-to-the-machine-learning-world-with-a-full-fledged-mnist-dataset/
+
