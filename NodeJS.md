@@ -100,4 +100,5 @@ Just | Task runner | task-runner | https://microsoft.github.io/just/
 Grant | Oauth lib with support for 130+ providers | oauth, lib | https://github.com/simov/grant
 QuickJS | Pure JS engine | engine | https://bellard.org/quickjs/
 QuarkJS | Electron app for HTML app creation | app-generation, electron | https://quarkjs.io/
+JsFire | Generate CLI from any JS object | cli | https://github.com/hobochild/js-fire
 
