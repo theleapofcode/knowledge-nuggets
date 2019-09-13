@@ -16,3 +16,4 @@ Parallel loops | Paralellizing python loops | parallel, loops, joblib | https://
 Pandas Profiling | pd dataframe details as HTML | pandas, preprocessing | https://github.com/pandas-profiling/pandas-profiling
 Pivottable Jupyter | Interactive Pivottables inside jupyter | jupyter, pivottable | https://github.com/nicolaskruchten/jupyter_pivottablejs
 pydqc | Data quality check tool | pandas, preprocessing | https://github.com/SauceCat/pydqc
+PythonFire | Generate CLI from any python object | cli | https://github.com/google/python-fire
