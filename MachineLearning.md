@@ -260,4 +260,8 @@ Radam keras | Rectified Adam implementation in Keras | keras, radam, optimizer |
 Google Handtracking | Handtracking model from google | google, hand-tracking, model | https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html
 MediaPipe | cross-platform framework for building multimodal applied machine learning pipelines | framework, ml | https://github.com/google/mediapipe/
 Kannada MNIST | Kannada MNIST dataset | kannada, dataset | https://www.analyticsindiamag.com/kannada-makes-it-to-the-machine-learning-world-with-a-full-fledged-mnist-dataset/
-
+AI cheat sheet | Cheat sheet for all ML libraries | cheat-sheet, tf, pytorch, scikit-learn, numpy, pandas | https://aicheatsheets.com/
+FaceSwap | Deepfake faceswap | faceswap, deepfake | https://github.com/deepfakes/faceswap
+Fullstack.ai | Full stack end to end ML pipeline | pipeline, end-to-end | https://github.com/xadrianzetx/fullstack.ai
+DeepFaceLab | Deepfake faceswap | faceswap, deepfake | https://github.com/iperov/DeepFaceLab
+ElasticDL | Elastic, fault tolerant, distributed ML engine based on TF 2.0 and Kubernetes | tf, kubernetes | https://github.com/sql-machine-learning/elasticdl
