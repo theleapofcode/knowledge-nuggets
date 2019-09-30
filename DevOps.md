@@ -28,3 +28,5 @@ Docker compose UI | UI for docker compose | compose, ui | https://github.com/fra
 dive | Tool to explore layers in a docker container | docker, explore | https://github.com/wagoodman/dive
 Klusterkit | Toolkit to simplify K8s deployment | kubernetes, toolkit | https://github.com/platform9/klusterkit
 Rio | Container management CLI tool by Rancher | rancher, cli, containers | https://rio.io/
+Cadvisor | Analyzes resource usage and performance characteristics of running containers | docker, monitoring, google | https://github.com/google/cadvisor
+Prometheus | Monitoring platform | docker, monitoring | https://prometheus.io/
