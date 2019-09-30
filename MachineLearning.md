@@ -265,3 +265,12 @@ FaceSwap | Deepfake faceswap | faceswap, deepfake | https://github.com/deepfakes
 Fullstack.ai | Full stack end to end ML pipeline | pipeline, end-to-end | https://github.com/xadrianzetx/fullstack.ai
 DeepFaceLab | Deepfake faceswap | faceswap, deepfake | https://github.com/iperov/DeepFaceLab
 ElasticDL | Elastic, fault tolerant, distributed ML engine based on TF 2.0 and Kubernetes | tf, kubernetes | https://github.com/sql-machine-learning/elasticdl
+Brain tumor detection | CNN for brain tumor detection | cnn, kaggle, medical | https://github.com/MohamedAliHabib/Brain-Tumor-Detection
+Isolation forest | Unsupervised outlier detection algorithm | linkedin, outlier-detection, unsupervised | https://engineering.linkedin.com/blog/2019/isolation-forest
+SK dist | Distributed sklearn on pyspark | pyspark, sklearn, distributed | https://github.com/Ibotta/sk-dist
+NeMo | Toolkit for conversational AI from NVIDIA | nvidia, chatbot | https://github.com/NVIDIA/NeMo
+DeepPavlov | Framework for conversational AI | chatbot | https://medium.com/tensorflow/deeppavlov-an-open-source-library-for-end-to-end-dialog-systems-and-chatbots-31cf26849e37
+Hyperopt | Distributed automated hyperparameter tuning | hyperparameter-tuning, python | https://www.kdnuggets.com/2019/09/automate-hyperparameter-tuning-models.html
+Expresso | Automatic speech recognition toolkit | asr, speech | https://github.com/freewym/espresso
+Keras-yolov3 | YOLO v3 in keras | keras, yolov3 | https://github.com/experiencor/keras-yolo3
+
