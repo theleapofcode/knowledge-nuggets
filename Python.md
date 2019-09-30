@@ -17,3 +17,6 @@ Pandas Profiling | pd dataframe details as HTML | pandas, preprocessing | https:
 Pivottable Jupyter | Interactive Pivottables inside jupyter | jupyter, pivottable | https://github.com/nicolaskruchten/jupyter_pivottablejs
 pydqc | Data quality check tool | pandas, preprocessing | https://github.com/SauceCat/pydqc
 PythonFire | Generate CLI from any python object | cli | https://github.com/google/python-fire
+Programming interview preparation | Program interview preparation plan in python | python, interview | https://github.com/llSourcell/Programming_Interview_Study_Plan
+Jupyter notebooks automated reporting and versioning | Jupyter notebooks automated reporting and versioning | tutorial, jupyter | https://medium.com/capital-fund-management/automated-reports-with-jupyter-notebooks-using-jupytext-and-papermill-619e60c37330
+nbviewer | Jupyter notebook viewer and share | jupyter | https://nbviewer.jupyter.org/
