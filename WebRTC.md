@@ -27,3 +27,4 @@ Trickle ICE | Tool to test STUN and TURN servers | ice | https://webrtc.github.i
 AppRTC-Kurento | Kurento based apprtc | kurento | https://github.com/inspiraluna/AppRTC-Kurento
 WebRTC VR video call | VR video call | vr | https://webrtchacks.com/webrtc-meets-webvr
 Screen recording | Record screen and desktop audio at same time | screen-record, article | https://paul.kinlan.me/screen-recorderrecording-microphone-and-the-desktop-audio-at-the-same-time/
+Screencat | WebRTC screensharing with controls in Electron | screensharing, electron | https://github.com/maxogden/screencat
