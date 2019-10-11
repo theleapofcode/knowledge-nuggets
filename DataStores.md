@@ -20,3 +20,5 @@ Mongo-clone | Clone Mongo DB across machines | mongo, tool | https://github.com/
 TurtleDB | Frond end offline sync for MongoDB | mongo, offline | https://turtle-db.github.io/about
 AresDB | GPU powered realtime analytics and query engine by Uber | uber, analytics | https://github.com/uber/aresdb
 Mongoku | Web based UI for Mongo | mongo, ui | https://github.com/huggingface/Mongoku
+ElasticBert | Elasticsearch + BERT | nlp, bert, elasticsearch | https://github.com/Hironsan/bertsearch
+
