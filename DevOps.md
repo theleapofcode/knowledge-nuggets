@@ -30,3 +30,6 @@ Klusterkit | Toolkit to simplify K8s deployment | kubernetes, toolkit | https://
 Rio | Container management CLI tool by Rancher | rancher, cli, containers | https://rio.io/
 Cadvisor | Analyzes resource usage and performance characteristics of running containers | docker, monitoring, google | https://github.com/google/cadvisor
 Prometheus | Monitoring platform | docker, monitoring | https://prometheus.io/
+express-k8s | Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user| express, kubernetes | https://github.com/alexellis/expressjs-k8s
+n8n.io | Workflow automation like node-red | automation, workflow | https://n8n.io/
+Kubernetes masterclass | The Complete Kubernetes Collection Tutorials and Tools | kubernetes, tutorial | https://dzone.com/articles/the-complete-kubernetes-collection-tutorials-and-tools
