@@ -245,7 +245,7 @@ DeepSort | Deep Learning to Track Custom Objects in a Video | object-detection |
 Tabnine | TabNine uses deep learning to help you write code faster | code-completion | https://tabnine.com/
 Dejavu | Audio fingerprinting and recognition in Python | audio-fingerprinting, shazam | https://github.com/worldveil/dejavu
 TF-Explain | Interpretability Methods for tf.keras models with Tensorflow 2.0 | ann-visualization, callback | https://github.com/sicara/tf-explain
-Pytorch transformers | A library of state-of-the-art pretrained models for NLP | pytorch, nlp, models | https://github.com/huggingface/pytorch-transformers
+NLP transformers | A library of state-of-the-art pretrained models for NLP | pytorch, tf, nlp, models | https://github.com/huggingface/transformers
 NeuralNLP | An Open-source Neural Hierarchical Multi-label Text Classification Toolkit | nlp, toolkit | https://github.com/Tencent/NeuralNLP-NeuralClassifier
 Tfpyth | Putting TensorFlow back in PyTorch, back in TensorFlow (differentiable TensorFlow PyTorch adapters) | tensorflow, pytorch | https://github.com/BlackHC/tfpyth
 MedicalNet | The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code | medical, models | https://github.com/Tencent/MedicalNet
@@ -273,4 +273,12 @@ DeepPavlov | Framework for conversational AI | chatbot | https://medium.com/tens
 Hyperopt | Distributed automated hyperparameter tuning | hyperparameter-tuning, python | https://www.kdnuggets.com/2019/09/automate-hyperparameter-tuning-models.html
 Expresso | Automatic speech recognition toolkit | asr, speech | https://github.com/freewym/espresso
 Keras-yolov3 | YOLO v3 in keras | keras, yolov3 | https://github.com/experiencor/keras-yolo3
+Keras-tiny-yolov3 | Tiny YOLOv3 in keras | keras, yolov3, tiny | https://github.com/HoracceFeng/keras-yolo3-tiny
+Deep learning OCR | Tutorial of deep learning based OCR | tutorial, ocr | https://nanonets.com/blog/attention-ocr-for-text-recogntion/
+Tensorflow custom object detection | Tutorial on custom object detection with tensorflow | tf, object-detection, tutorial | https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087, https://www.freecodecamp.org/news/tracking-the-millenium-falcon-with-tensorflow-c8c86419225e/
+Cloud annotations | IBM cloud annotation tool for object classification and detection | object-detection, ibm, tf | https://cloud-annotations.github.io/training/object-detection/cli/index.html
+3D bbox estimation | 3D bbox estimation using Keras | tutorial, object-detection, keras, yolov3 | https://github.com/experiencor/image-to-3d-bbox
+BERT explained | Tutorial on BERT NLP model | tutorial, bert, google, nlp | https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
+Streamlit | Easy way to create ML apps | ml-framework, app | https://github.com/streamlit/streamlit
+TFE keras | Encrypted Deep Learning Training and Predictions with TF Encrypted Keras | keras, encrypted | https://medium.com/dropoutlabs/encrypted-deep-learning-training-and-predictions-with-tf-encrypted-keras-557193284f44
 
