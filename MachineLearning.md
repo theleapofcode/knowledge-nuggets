@@ -279,6 +279,10 @@ Tensorflow custom object detection | Tutorial on custom object detection with te
 Cloud annotations | IBM cloud annotation tool for object classification and detection | object-detection, ibm, tf | https://cloud-annotations.github.io/training/object-detection/cli/index.html
 3D bbox estimation | 3D bbox estimation using Keras | tutorial, object-detection, keras, yolov3 | https://github.com/experiencor/image-to-3d-bbox
 BERT explained | Tutorial on BERT NLP model | tutorial, bert, google, nlp | https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
-Streamlit | Easy way to create ML apps | ml-framework, app | https://github.com/streamlit/streamlit
+Streamlit | Easy way to create ML apps | ml-framework, app | https://github.com/streamlit/streamlit, https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
 TFE keras | Encrypted Deep Learning Training and Predictions with TF Encrypted Keras | keras, encrypted | https://medium.com/dropoutlabs/encrypted-deep-learning-training-and-predictions-with-tf-encrypted-keras-557193284f44
-
+NLP transformers tutorial | Tutorial on NLP transformers | nlp, transformers | https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/
+ACE | Towards Automatic Concept-based Explanations | ace, python | https://github.com/amiratag/ACE
+Crypten | Encrypted ML framework based on pytorch | encryption, pytorch, facebook | https://github.com/facebookresearch/CrypTen
+Detectron2 | Object detection based on pytorch | object-detection, pytorch, facebook | https://github.com/facebookresearch/detectron2
+Captum | Model interpretability and understanding for PyTorch | model-understanding, pytorch, facebook | https://github.com/pytorch/captum
