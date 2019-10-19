@@ -1,13 +1,7 @@
-# Frameworks and Platforms
+# Platforms
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
-Blocky | Visual programming | visual-programming | https://github.com/google/blockly
-Electron | Native app development using JS | js | http://electron.atom.io/
-OpenCart | PHP based e-commerce stack | ecommerce | https://github.com/opencart/opencart
-FeathersJS | API development framework for Node | node, api | http://feathersjs.com/
-QBit | Java microservice framework | java, microservice | http://advantageous.github.io/qbit/
-DeepStream | Realtime server | realtime | https://deepstream.io/
 Tyk | API management | api-manager | https://tyk.io/
 Electrode | Node + React framework | node, react | http://www.electrode.io/
 Seneca | Microservice framework for node | node, microservice | http://senecajs.org/
