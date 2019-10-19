@@ -3,6 +3,7 @@
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Free SSL cert | One domain free SSL certificate valid 90 days | ssl | https://www.instantssl.com/free-ssl-certificate.html
+OwnCloud | Opensource self-hosting alternative to dropbox/Gdrive | cloud, self-hosting | https://owncloud.org/
 Panamax | Docker management with UI | docker | http://panamax.io/
 Rancher | Container management | docker | http://rancher.com/
 Sonarcube | Code quality tool | java, code-quality | https://www.sonarqube.org/
