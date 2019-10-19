@@ -3,22 +3,11 @@
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Tyk | API management | api-manager | https://tyk.io/
-Electrode | Node + React framework | node, react | http://www.electrode.io/
-Seneca | Microservice framework for node | node, microservice | http://senecajs.org/
-Apostrophe | Node based CMS | cms, node | http://apostrophecms.org/
-Proximi | Location abstraction service | location | https://proximi.io/
-SWAPI | Star wars API | api | https://github.com/phalt/swapi
-Traccar | GPS tracking platform | gps | https://www.traccar.org/
-Kotlin | Statically type programming language for JVM | language | https://kotlinlang.org/
-UserGrid | BaaS for apps | baas | https://usergrid.apache.org/
+UserGrid | Backend for mobile apps with users, documents, files | baas | https://usergrid.apache.org/
 Odoo | ERP and CRM platform | erp, crm | https://www.odoo.com/
 Reaction | e-commerce platform on Node | node, ecommerce | https://github.com/reactioncommerce/reaction
-Hackathon starter | Boilerplate code for Node | node, mean | https://github.com/sahat/hackathon-starter
-TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
 OpenTracing | Distributed tracing framework | tracing | http://opentracing.io/
 Serverless | Framework for building backend using AWS, Azure, Google etc. | cloud | https://github.com/serverless/serverless
-KeystoneJS | Node CMS | cms, node | http://keystonejs.com/
-JSONata | JSON query and transformation framwework | json | https://github.com/jsonata-js
 Dataloader | Data fetching layer add consitency, cacheing etc. | facebook, data-layer | https://github.com/facebook/dataloader
 dstore | Client-side data framework | client-side, data-model | http://dstorejs.io/
 datdata | Data sharing framework | data-sharing | https://datproject.org/
