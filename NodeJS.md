@@ -2,6 +2,8 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
+Localtunnel | Proxy for exposing localhost to internet | proxy, dev-tool | https://github.com/localtunnel/localtunnel
+Ngrok | Proxy for exposing localhost to internet | proxy, dev-tool | https://ngrok.com/
 TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 Nools | Rules engine | rules-engine | https://github.com/C2FO/nools
