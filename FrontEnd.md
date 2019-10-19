@@ -9,7 +9,6 @@ FiltrES | Javascript query compiler for Elastic Search | ELK, js-lib, query | ht
 QuaggaJS | Javascript barcode scanner | js-lib, barcode | https://github.com/serratus/quaggaJS
 Web starter kit | Google starter kit for HTML5 | starter-kit, js-starter-kit | https://developers.google.com/web/tools/starter-kit/
 Dashboard templates | Bootstrap dashboard templates | starter-kit, bootstrap | https://github.com/keen/dashboards
-ECG D3 library | D3 library to generate ECG charts | medical, ECG, D3, chart | https://github.com/joakimkemeny/jke.d3.ecg
 InverseJS | Javascript IoC container | js-lib, ioc, dependency-injection | https://github.com/mcordingley/Inverse.js
 JuliusJS | A speech recognition library for the web | js-lib, speech-recognition | https://github.com/zzmp/juliusjs
 PathFindingJS | A comprehensive path-finding library for grid based games | js-lib, path-finding, algorithms | https://github.com/qiao/PathFinding.js
@@ -26,7 +25,6 @@ TwoJS | Canvas library for 2D geometries | js-lib, canvas | https://github.com/j
 PeaksJS | Javascript waveform library | js-lib, ui-lib, waveforms | https://github.com/bbc/peaks.js
 AljebraJS | Build, display, and solve algebraic equations | js-lib, math-lib | https://github.com/nicolewhite/algebra.js
 Awesomplete | Javascript auto complete library | js-lib, ui-lib, auto-complete | https://github.com/leaverou/awesomplete
-OverReact | React starter kit generator | react, react-starter-kit | http://www.overreact.io
 ParallelJS | Web worker library | js-lib, web-worker | https://github.com/parallel-js/parallel.js
 JSPDF | Client-side JavaScript PDF generation | js-lib, ui-lib, pdf | https://github.com/MrRio/jsPDF
 ViewerJS | JS Image viewer library | js-lib, ui-lib, image | https://github.com/fengyuanchen/viewerjs
@@ -35,7 +33,7 @@ OrigamiJS | Canvas library | js-lib, ui-lib, canvas | https://github.com/raphamo
 Leaflet | Map library | js-lib, map | https://github.com/Leaflet/Leaflet
 ClipboardJS | JS copy to clipboard | js-lib, ui-lib | https://github.com/zenorocha/clipboard.js
 ImpressJS | JS presentation framework | js-lib, presentation | https://github.com/impress/impress.js
-TessarectJS | JS image text detection library | js-lib, ocr | https://github.com/naptha/tesseract.js
+TessarectJS | JS OCR library | js-lib, ocr | https://github.com/naptha/tesseract.js
 Airbnb JS guide | Airbnb JS style guide | js-guide | https://github.com/airbnb/javascript
 Laverna | Open source evernote | note-taker | https://github.com/Laverna/laverna
 GDoc | Google docs as CMS | cms | https://github.com/jadeallencook/gDoc.js
@@ -57,8 +55,8 @@ WTFJS | Funny JS examples | timepass | https://github.com/denysdovhan/wtfjs
 jarvis | Webpack dashboard UI | dashboard | https://github.com/zouhir/jarvis
 Proton | JS particle engine | ui-lib | http://a-jie.github.io/Proton/
 Vue Native | VueJS based Native app dev lib | vue, native | https://vue-native.io/
-MathJS | Math lib for JS | math | http://mathjs.org/
-Rete | Flow based programming for JS | js | https://github.com/retejs/rete
+MathJS ** | Math lib for JS | math | http://mathjs.org/
+Rete ** | Flow based programming for JS | js | https://github.com/retejs/rete
 SimpleKeyboard | On screen keyboard | js, keyboard | https://github.com/hodgef/simple-keyboard
 TUI Image Editor | Browser based image editor | js, image-editor | https://github.com/nhnent/tui.image-editor
 PWA Manifest | Manifest for PWAs | pwa | https://developers.google.com/web/updates/2018/07/pwacompat
@@ -68,15 +66,13 @@ Vuestic-admin | Vue admin dashboard | vue, admin | https://github.com/epicmaxco/
 ky | Wrapper on fetch API for REST client | client, fetch | https://github.com/sindresorhus/ky
 Lyo | Node to browser tool similar to Browserify | bundler | https://github.com/bokub/lyo
 30-second-css | useful CSS code snippets | css, code-snippets | https://30-seconds.github.io/30-seconds-of-css/
-Rete | JS based visual flow programming | js, visual-programming | https://github.com/retejs/rete
 HowlerJS | Audio processing in JS | js, lib, audio-processing | https://howlerjs.com/
-Simple Keyboard | JS keyboard | js, keyboard | https://github.com/hodgef/simple-keyboard
-StoryBoard | Interactive WYSIWYG based UI components editor for Angular, React, Vue | UI-editor, Vue | https://github.com/storybooks/storybook
-Webpack to Parcel | Switching from Webpack to Parcel | tips, parcel | https://logrocket.com/blog/switching-to-parcel-from-webpack/
+StoryBoard ** | Interactive WYSIWYG based UI components editor for Angular, React, Vue | UI-editor, Vue | https://github.com/storybooks/storybook
+Webpack to Parcel | Switching from Webpack to Parcel | tutorial, parcel | https://logrocket.com/blog/switching-to-parcel-from-webpack/
 FrontEnd check list | Check list for developing websites | check-list | https://frontendchecklist.io/
 Interactive iconographic with Vue | Interactive iconographic with Vue | iconographic, vue | https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/
 QuillJS | WYSWYG editor | editor, JS | https://github.com/quilljs/quill
-RRWeb | Web session record and replay | record, web, library | https://www.rrweb.io/?
+RRWeb | Web session record and replay | record, web, library | https://www.rrweb.io/
 Front end performance checklist | Checklist for website performance | performance, checklist | https://github.com/thedaviddias/Front-End-Performance-Checklist
 ToastUI | UI components for Charting, Calendar, Image editor, Grid etc. | charts, calendar, library | http://ui.toast.com/
 WebHint | Website prifiling tool | performance, profiling | https://webhint.io/
@@ -85,10 +81,10 @@ FBT | Internationalization framework from Facebook | facebook, i18n | https://fa
 PeerPouch | PouchDB with peer connection using webrtc | pouchdb, webrtc | https://github.com/natevw/PeerPouch
 AnimeJS | JS lib for animation | animation, lib | https://animejs.com/
 Elasticlunr | ElasticSearch equivalent browser in JS | js, search | http://elasticlunr.com/
-SurveyJS | JS survey and form building library | form-builder | https://github.com/surveyjs/surveyjs
-MermaidJS | Text to Flowchart, Gantt chart, Graph etc. | chart, graph | https://mermaidjs.github.io/
+SurveyJS ** | JS survey and form building library | form-builder | https://github.com/surveyjs/surveyjs
+MermaidJS ** | Text to Flowchart, Gantt chart, Graph etc. | chart, graph | https://mermaidjs.github.io/
 ReDom | Tiny JS lib for creating UI | UI, lib | https://redom.js.org/
-X-spreadsheet | JS canvas lib for spreadsheets | js, spreadsheet, lib | https://github.com/myliang/x-spreadsheet
+X-spreadsheet ** | JS canvas lib for spreadsheets | js, spreadsheet, lib | https://github.com/myliang/x-spreadsheet
 Websocketd | Websocket lib | websocket, js | http://websocketd.com/
 Readability | JS lib for creating readable parsing of DOM | parser, js | https://github.com/mozilla/readability
 FlexSearch | Full text search JS lib for browser and node | full-text, js | https://github.com/nextapps-de/flexsearch
@@ -101,15 +97,15 @@ instant.page | Speedup website by preloading | website, speed | https://instant.
 FuseJS | Lightweight fuzzy search for JS | JS, search | https://fusejs.io/
 FrenchKiss | JS i18n framework | i18n | https://github.com/koala-interactive/frenchkiss.js
 Object-explorer | JS Object method suggestion | js, object | https://github.com/sdras/object-explorer
-V8n | Versatile validation lib for JS | validation | https://github.com/imbrn/v8n
-G6 | Graph visualization lib | graph, visualization | https://github.com/antvis/g6
+V8n ** | Versatile validation lib for JS | validation | https://github.com/imbrn/v8n
+G6 ** | Graph visualization lib | graph, visualization | https://github.com/antvis/g6
 Driver.js | JS lib to drive user's focus on elements of a webpage | user-focus | https://github.com/kamranahmedse/driver.js
 Flipclock.js | Countdown clock JS lib | clock | http://flipclockjs.com/
 CrumbJS | lib for session and cookie storage | cookies, session, lib | https://github.com/nirtz89/crumbsjs
 Shepherd | Tool to create guide of websites | tour, lib, navigation | https://github.com/shipshapecode/shepherd
 iodide | Literate scientific computing and communication for the web | python, web, ecmascripten | https://github.com/iodide-project/iodide, https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/
 FullCalendar | JS calendar | calendar, js | https://fullcalendar.io/
-Prevue | Prototyping tool for Vue | design, prototyping, vue | https://prevue.io/
+Prevue ** | Prototyping tool for Vue | design, prototyping, vue | https://prevue.io/
 Talisman | Phonetic library in JS | phonetics, js | http://yomguithereal.github.io/talisman/phonetics/
 MatterJS | 2D physics engine for JS | physics | http://brm.io/matter-js/
 P5JS | Processing JS | processing, js | https://p5js.org/
@@ -117,15 +113,15 @@ BabylonJS | 3D graphics engine using webgl | webgl, graphics | https://www.babyl
 EditorJS | Rich text editor | editor, lib | https://editorjs.io/
 Blob-util | Lib for working with blob in browser | blob, lib | https://github.com/nolanlawson/blob-util
 SceneJS | CSS based animation library | animation, css | https://github.com/daybrush/scenejs
-Puppeteer recorder | Chrome extension for recording browser activity to puppeteer code | puppeteer, automation | https://github.com/checkly/puppeteer-recorder
+Puppeteer recorder ** | Chrome extension for recording browser activity to puppeteer code | puppeteer, automation | https://github.com/checkly/puppeteer-recorder
 VuePress | Vue powered static site generator | vuejs, static-site | https://vuepress.vuejs.org/
 KeyFrames | CSS animation creation library | animation, css | https://keyframes.app/
 WebShareAPI | Tutorial on web share api | web-share-api, tutorial | https://css-tricks.com/how-to-use-the-web-share-api/
 D3 charts | Tutorial on interactive charts with D3 | d3, tutorial | https://wattenberger.com/blog/d3-interactive-charts
 Tree with SVG and VueJS | Tutorial on building dynamic tree using SVG and VueJS | tree, tutorial, svg, vuejs | https://medium.com/@krutie/building-a-dynamic-tree-diagram-with-svg-and-vue-js-a5df28e300cd
-PixelMatch | Pixel to pixel image comparision library in JS | image, library | https://github.com/mapbox/pixelmatch
+PixelMatch ** | Pixel to pixel image comparision library in JS | image, library | https://github.com/mapbox/pixelmatch
 Javascript SEO tips | Google tips for SEO for JS | seo, tips | https://developers.google.com/search/docs/guides/javascript-seo-basics
 Svelte | Radically different front end framework | framework, ui | https://svelte.dev/
-Wavesurfer.js | Audio waveform visualization and filtering | webaudio, audio-processing | https://wavesurfer-js.org/
+Wavesurfer.js ** | Audio waveform visualization and filtering | webaudio, audio-processing | https://wavesurfer-js.org/
 Geometric | A JavaScript library for doing geometry | geometry, lib | https://github.com/HarryStevens/geometric
 dstore | Client-side data framework | client-side, data-model | http://dstorejs.io/
