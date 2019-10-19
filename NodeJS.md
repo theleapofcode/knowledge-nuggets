@@ -2,12 +2,10 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
-Async | Async util library | async, util | https://github.com/caolan/async
 TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 Nools | Rules engine | rules-engine | https://github.com/C2FO/nools
 NodeRules | Rules engine | rules-engine | https://github.com/mithunsatheesh/node-rules
-pm2 | Node process manager | process-manager, load-balancer, devops | https://github.com/unitech/pm2
 node-webworker-threads | Web worker for Node | web-worker | https://github.com/audreyt/node-webworker-threads
 Lusca | Application security express middleware | security, express-middleware | https://github.com/krakenjs/lusca
 NodeRed | Node red | node-red | http://nodered.org
@@ -74,7 +72,6 @@ LowJS | Node port for embedded devices | runtime, embedded | http://www.lowjs.or
 30-second-interviews | Interview questions on JS and Node | interview | https://github.com/30-seconds/30-seconds-of-interviews
 30-second-js | Useful JS code snippets | code-snippets | https://github.com/30-seconds/30-seconds-of-code
 NodeJS Native extensions | Native extensions for Node | native | https://medium.com/the-node-js-collection/native-extensions-for-node-js-767e221b3d26
-Axios | Promise based REST client | rest-client | https://github.com/axios/axios
 Wilbur | GUI based app for generating express APIs | express, code-generator | https://medium.com/generate-powerful-nodejs-apps-written-in-typesscri/getting-started-with-wilbur-7b1e607818fa
 Carlo | Web rendering for Node applications using chrome puppeteer | puppeteer | https://github.com/GoogleChromeLabs/carlo
 JS Error Handling | JS error handling tips | js, error-handling | https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
