@@ -3,6 +3,7 @@
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Porthole | JavaScript Library for Secure Cross Domain iFrame Communication | iframe, xss, js-lib | https://github.com/ternarylabs/porthole
+Reveal.js | HTML5 presentation framework | presentation, HTML5, productivity-tool | https://github.com/hakimel/reveal.js
 Blocky | Visual programming | visual-programming | https://github.com/google/blockly
 Istanbul | Javascript code coverage library | js-lib, code-coverage | https://github.com/gotwarlost/istanbul
 FiltrES | Javascript query compiler for Elastic Search | ELK, js-lib, query | https://github.com/abehaskins/FiltrES.js
@@ -125,3 +126,4 @@ Svelte | Radically different front end framework | framework, ui | https://svelt
 Wavesurfer.js ** | Audio waveform visualization and filtering | webaudio, audio-processing | https://wavesurfer-js.org/
 Geometric | A JavaScript library for doing geometry | geometry, lib | https://github.com/HarryStevens/geometric
 dstore | Client-side data framework | client-side, data-model | http://dstorejs.io/
+Doclets | JSDoc generator | API-documentation | https://github.com/lipp/doclets
