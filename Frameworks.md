@@ -2,7 +2,6 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
-OwnCloud | Private Cloud backend | cloud | https://owncloud.org/
 Blocky | Visual programming | visual-programming | https://github.com/google/blockly
 Electron | Native app development using JS | js | http://electron.atom.io/
 OpenCart | PHP based e-commerce stack | ecommerce | https://github.com/opencart/opencart
