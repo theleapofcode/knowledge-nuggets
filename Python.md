@@ -3,6 +3,7 @@
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Bokeh | Python charting lib | python, charts | https://github.com/bokeh/bokeh
+VirtualEnv python upgrade | Fix venv symlinks upon python upgrade | venv, python | https://gist.github.com/porterjamesj/36051aea629be28bbd6f9f071007b35c
 Python cheatsheet | Cheatsheet for python | cheatsheet | https://gto76.github.io/python-cheatsheet/
 Prefect | Workflow management tool | automation, data-science | https://github.com/prefecthq/prefect
 Manim | Animation engine for explanatory math videos | animation, 3b1b | https://github.com/3b1b/manim
