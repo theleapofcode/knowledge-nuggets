@@ -4,6 +4,7 @@ Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Localtunnel | Proxy for exposing localhost to internet | proxy, dev-tool | https://github.com/localtunnel/localtunnel
 Ngrok | Proxy for exposing localhost to internet | proxy, dev-tool | https://ngrok.com/
+node-notes | NOTE, FIXME, TODO lister tool | node, dev-tool | https://github.com/stephenb/node-notes
 TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 Nools | Rules engine | rules-engine | https://github.com/C2FO/nools
@@ -113,3 +114,6 @@ JSONata | JSON query and transformation framwework | json | https://github.com/j
 Dataloader ** | Data fetching layer add consitency, cacheing etc. | graphql, data-layer | https://github.com/graphql/dataloader
 Restreamer | Video streaming fremework | node, video | https://datarhei.github.io/restreamer/
 RxDB | reactive database in JS | JS, database | https://github.com/pubkey/rxdb
+ExpressGateway | Microservice API gateway built on express | gateway | http://www.express-gateway.io/
+ParcelJS | Webapp bundler | bundler | https://parceljs.org/
+Ghost | Blogging platform in node.js | blog, nodejs | https://ghost.org/
