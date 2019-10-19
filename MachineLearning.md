@@ -286,3 +286,4 @@ ACE | Towards Automatic Concept-based Explanations | ace, python | https://githu
 Crypten | Encrypted ML framework based on pytorch | encryption, pytorch, facebook | https://github.com/facebookresearch/CrypTen
 Detectron2 | Object detection based on pytorch | object-detection, pytorch, facebook | https://github.com/facebookresearch/detectron2
 Captum | Model interpretability and understanding for PyTorch | model-understanding, pytorch, facebook | https://github.com/pytorch/captum
+CNN sudoku solver | Sudoku solver using CNN | sudoku, cnn, keras | https://towardsdatascience.com/solving-sudoku-with-convolution-neural-network-keras-655ba4be3b11
