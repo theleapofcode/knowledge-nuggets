@@ -4,17 +4,10 @@ Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Free SSL cert | One domain free SSL certificate valid 90 days | ssl | https://www.instantssl.com/free-ssl-certificate.html
 OwnCloud | Opensource self-hosting alternative to dropbox/Gdrive | cloud, self-hosting | https://owncloud.org/
-Panamax | Docker management with UI | docker | http://panamax.io/
-Rancher | Container management | docker | http://rancher.com/
-Sonarcube | Code quality tool | java, code-quality | https://www.sonarqube.org/
 SelfHosted | List of softwares that can be self hosted | list | https://github.com/Kickball/awesome-selfhosted
-Mantl | Microservice stack by cisco | cisco, microservice | https://github.com/mantl/mantl
-Vamp | Autoscaling microservice orchestrator | microservice, orchestration | http://vamp.io/
-Docker logging best practices | Docker logging | docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
-Portainer | Docker management UI | docker, ui | https://portainer.io/index.html
-CaptainDuckDuck | App deployment framework | deployment | https://github.com/githubsaturn/captainduckduck
+Docker logging best practices | Docker logging | tutorial, docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
+Caprover | App deployment framework | deployment | https://github.com/caprover/caprover
 Whistle | HHP, websocket debugging proxy | proxy | https://github.com/avwo/whistle
-JSONStore | Store json data in cloud | json | https://github.com/bluzi/jsonstore
 Clair | Container vulnerability analysis | container, security, testing | https://github.com/coreos/clair
 Gilab CI/CD | CI/CD using gitlab | gitlab | https://medium.com/@jimmyadaro/build-a-ci-cd-pipeline-with-docker-and-gitlab-f351585a5c83
 Kubernetes tools | Tools around kubernetes | kubernetes | http://techgenix.com/open-source-kubernetes/
@@ -28,5 +21,5 @@ Rio | Container management CLI tool by Rancher | rancher, cli, containers | http
 Cadvisor | Analyzes resource usage and performance characteristics of running containers | docker, monitoring, google | https://github.com/google/cadvisor
 Prometheus | Monitoring platform | docker, monitoring | https://prometheus.io/
 express-k8s | Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user| express, kubernetes | https://github.com/alexellis/expressjs-k8s
-n8n.io | Workflow automation like node-red/IFTTT | automation, workflow | https://n8n.io/
-Kubernetes masterclass | The Complete Kubernetes Collection Tutorials and Tools | kubernetes, tutorial | https://dzone.com/articles/the-complete-kubernetes-collection-tutorials-and-tools
+n8n.io ** | Workflow automation like node-red/IFTTT | automation, workflow | https://n8n.io/
+Kubernetes masterclass ** | The Complete Kubernetes Collection Tutorials and Tools | kubernetes, tutorial | https://dzone.com/articles/the-complete-kubernetes-collection-tutorials-and-tools
