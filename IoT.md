@@ -19,6 +19,7 @@ WebGazer.js | JS Eye tracking | js, eye-tracking | https://github.com/brownhci/W
 DiffyJS | Motion detection | js, motion-detection | https://github.com/maniart/diffyjs
 Flogo | IoT integration framework | framework, go | http://www.flogo.io/
 Kura | IoT framework | Java, framework | http://www.eclipse.org/kura/
+Traffic monitoring using Spark streaming and kafka, spark, kafka | https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming
 Arduino auto reset | Avoiding auto reset on serial connection in arduino | arduino, tutorial | https://playground.arduino.cc/Main/DisablingAutoResetOnSerialConnection
 Web based voice command | voice command recognition browser based | voice-recognition, browser | http://smus.com/web-voice-command-recognition/
 Web bluetooth | Web bluetooth | bluetooth | https://googlechrome.github.io/samples/web-bluetooth/device-info.html?allDevices=true
@@ -39,3 +40,5 @@ Mozilla IoT ** | Mozilla IoT platform | iot, platform, mozilla | https://iot.moz
 TDEngine | An open-source big data platform designed and optimized for IoT | framework, platform | https://github.com/taosdata/TDengine
 Proximi | Location abstraction service | location, commercial | https://proximi.io/
 Traccar ** | GPS tracking platform | gps | https://www.traccar.org/
+Motion detection with JS | Motion detection with JS | tutorial, js, motion-detection | http://codersblock.com/blog/motion-detection-with-javascript/
+Science based games | Science based games | science | https://github.com/stared/science-based-games-list
