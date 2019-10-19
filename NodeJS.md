@@ -3,6 +3,8 @@
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Async | Async util library | async, util | https://github.com/caolan/async
+TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
+TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 Nools | Rules engine | rules-engine | https://github.com/C2FO/nools
 NodeRules | Rules engine | rules-engine | https://github.com/mithunsatheesh/node-rules
 pm2 | Node process manager | process-manager, load-balancer, devops | https://github.com/unitech/pm2
@@ -103,3 +105,12 @@ QuarkJS | Electron app for HTML app creation | app-generation, electron | https:
 JsFire | Generate CLI from any JS object | cli | https://github.com/hobochild/js-fire
 Dapr | Microservice framwork from microsoft | microservices, framework, microsoft | https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/
 Hoodie | Offline first framework based on node.js and couchdb | framework, couchdb | http://hood.ie/
+FeathersJS | API and relatime app development framework for Node | node, api, realtime | http://feathersjs.com/
+DeepStream ** | fast and secure data-sync realtime server for mobile, web & iot | realtime, iot | https://deepstream.io/
+Seneca | Microservice framework for node | node, microservice | http://senecajs.org/
+Apostrophe ** | Node based CMS with website content ediotor UI | cms, node, website-builder | http://apostrophecms.org/
+KeystoneJS | Node CMS | cms, node | http://keystonejs.com/
+JSONata | JSON query and transformation framwework | json | https://github.com/jsonata-js
+Dataloader ** | Data fetching layer add consitency, cacheing etc. | graphql, data-layer | https://github.com/graphql/dataloader
+Restreamer | Video streaming fremework | node, video | https://datarhei.github.io/restreamer/
+RxDB | reactive database in JS | JS, database | https://github.com/pubkey/rxdb
