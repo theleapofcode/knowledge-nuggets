@@ -102,3 +102,4 @@ QuickJS | Pure JS engine | engine | https://bellard.org/quickjs/
 QuarkJS | Electron app for HTML app creation | app-generation, electron | https://quarkjs.io/
 JsFire | Generate CLI from any JS object | cli | https://github.com/hobochild/js-fire
 Dapr | Microservice framwork from microsoft | microservices, framework, microsoft | https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/
+Hoodie | Offline first framework based on node.js and couchdb | framework, couchdb | http://hood.ie/
