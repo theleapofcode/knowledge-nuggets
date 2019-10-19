@@ -23,3 +23,8 @@ Prometheus | Monitoring platform | docker, monitoring | https://prometheus.io/
 express-k8s | Express.js microservice with a Dockerfile, Kubernetes YAMLs and a non-root user| express, kubernetes | https://github.com/alexellis/expressjs-k8s
 n8n.io ** | Workflow automation like node-red/IFTTT | automation, workflow | https://n8n.io/
 Kubernetes masterclass ** | The Complete Kubernetes Collection Tutorials and Tools | kubernetes, tutorial | https://dzone.com/articles/the-complete-kubernetes-collection-tutorials-and-tools
+Working with multiple github accounts ** | Working with multiple github accounts | tutorial, github, ssl, dev | https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
+Creating ssl keys | Tutorial on creating SSL keys | ssl, keytool | http://ruchirawageesha.blogspot.in/2010/07/how-to-create-clientserver-keystores.html
+Updating fork with same branches and tags as the original repo | git | https://stackoverflow.com/questions/15779740/how-to-update-my-fork-to-have-the-same-branches-and-tags-as-the-original-reposit
+Multiple java versions on same mac | Multiple java versions | java | https://javastreets.com/blog/2017/9/using_multiple_java_sdk_versions.html
+Pwd resets with JWT | Safe pwd reset | pwd-reset, jwt | https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/
