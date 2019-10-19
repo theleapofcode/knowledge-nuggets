@@ -37,3 +37,5 @@ Snips.ai | Voice based assistance for M2M | voice-assistant | https://snips.ai/
 BCI.js | BCI JS lib | bci, js | https://towardsdatascience.com/eeg-motor-imagery-classification-in-node-js-with-bci-js-d21f29cf165
 Mozilla IoT | Mozilla IoT platform | iot, platform, mozilla | https://iot.mozilla.org/
 TDEngine | An open-source big data platform designed and optimized for IoT | framework, platform | https://github.com/taosdata/TDengine
+Proximi | Location abstraction service | location, commercial | https://proximi.io/
+Traccar ** | GPS tracking platform | gps | https://www.traccar.org/
