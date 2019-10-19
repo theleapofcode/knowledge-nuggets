@@ -85,3 +85,8 @@ Jsonnet | Json based data templating tool | templating, json | https://github.co
 Mathics | Alternative to Mathematica | mathematica, simulation | https://mathics.github.io/
 rga | ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | search, cli | https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/
 Cypress ** | Selenium killer | ui-automation, selenium | https://blog.logrocket.com/cypress-io-the-selenium-killer/
+StackShare | techonolgy stacks at companies | https://stackshare.io/
+CS curriculum | Self learning modern CS syllabus | cs, syllabus | https://functionalcs.github.io/curriculum/
+Physics curriculum | Self learning Physics curriculum | physics, syllabus | https://github.com/llSourcell/Learn_Physics_in_2_Months
+Feynman lectures | Feynman lectures | feynman, lectures | http://www.feynmanlectures.caltech.edu/
+Self taught computer science curriculum | Path to a free self-taught education in Computer Science | curriculum, cs | https://github.com/ossu/computer-science
