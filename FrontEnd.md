@@ -3,6 +3,7 @@
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
 Porthole | JavaScript Library for Secure Cross Domain iFrame Communication | iframe, xss, js-lib | https://github.com/ternarylabs/porthole
+Blocky | Visual programming | visual-programming | https://github.com/google/blockly
 Istanbul | Javascript code coverage library | js-lib, code-coverage | https://github.com/gotwarlost/istanbul
 FiltrES | Javascript query compiler for Elastic Search | ELK, js-lib, query | https://github.com/abehaskins/FiltrES.js
 QuaggaJS | Javascript barcode scanner | js-lib, barcode | https://github.com/serratus/quaggaJS
@@ -58,6 +59,8 @@ Proton | JS particle engine | ui-lib | http://a-jie.github.io/Proton/
 Vue Native | VueJS based Native app dev lib | vue, native | https://vue-native.io/
 MathJS | Math lib for JS | math | http://mathjs.org/
 Rete | Flow based programming for JS | js | https://github.com/retejs/rete
+SimpleKeyboard | On screen keyboard | js, keyboard | https://github.com/hodgef/simple-keyboard
+TUI Image Editor | Browser based image editor | js, image-editor | https://github.com/nhnent/tui.image-editor
 PWA Manifest | Manifest for PWAs | pwa | https://developers.google.com/web/updates/2018/07/pwacompat
 Prepack | JS prepacker and optimizer | facebook, prepack, optimizer | https://github.com/facebook/prepack
 JSQR | JS QR code reader | qr | https://github.com/cozmo/jsQR
@@ -125,3 +128,4 @@ Javascript SEO tips | Google tips for SEO for JS | seo, tips | https://developer
 Svelte | Radically different front end framework | framework, ui | https://svelte.dev/
 Wavesurfer.js | Audio waveform visualization and filtering | webaudio, audio-processing | https://wavesurfer-js.org/
 Geometric | A JavaScript library for doing geometry | geometry, lib | https://github.com/HarryStevens/geometric
+dstore | Client-side data framework | client-side, data-model | http://dstorejs.io/
