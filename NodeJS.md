@@ -8,6 +8,9 @@ node-notes | NOTE, FIXME, TODO lister tool | node, dev-tool | https://github.com
 TestCafe | Automated browser testing using Node | node, selenium-like | https://github.com/DevExpress/testcafe
 TotalJS | Node JS framework with builtin apps like helpdesk | nodejs, ticketing | https://www.totaljs.com/
 Nools | Rules engine | rules-engine | https://github.com/C2FO/nools
+Knwl.js | Intelligent Text parsing | nlp | https://github.com/loadfive/Knwl.js/
+JsonLogic | JSON based rules | rules, json | http://jsonlogic.com/
+PropelML | Numpy for JS | js, numpy | http://propelml.org/
 NodeRules | Rules engine | rules-engine | https://github.com/mithunsatheesh/node-rules
 node-webworker-threads | Web worker for Node | web-worker | https://github.com/audreyt/node-webworker-threads
 Lusca | Application security express middleware | security, express-middleware | https://github.com/krakenjs/lusca
