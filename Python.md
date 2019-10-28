@@ -24,3 +24,4 @@ nbviewer ** | Jupyter notebook viewer and share | jupyter | https://nbviewer.jup
 Google image download ** | Python Script to download hundreds of images from 'Google Images' | dataset, google-images |  https://github.com/hardikvasa/google-images-download
 Image-Video conversion | Tutorial to convert images to video and video to images | opencv, images, video | https://medium.com/@iKhushPatel/convert-video-to-images-images-to-video-using-opencv-python-db27a128a481
 Linear Algebra with Numpy | Tutorial series on linear algebra using numpy | linear-algebra, numpy, tutorial | https://towardsdatascience.com/linear-algebra-essentials-with-numpy-part-1-af4a867ac5ca
+Polynote ** | Notebook for python and scala with IDE like code editing and inspection | netflix, notebook | https://polynote.org/
