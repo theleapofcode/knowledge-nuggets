@@ -28,3 +28,4 @@ Creating ssl keys | Tutorial on creating SSL keys | ssl, keytool | http://ruchir
 Updating fork with same branches and tags as the original repo | git | https://stackoverflow.com/questions/15779740/how-to-update-my-fork-to-have-the-same-branches-and-tags-as-the-original-reposit
 Multiple java versions on same mac | Multiple java versions | java | https://javastreets.com/blog/2017/9/using_multiple_java_sdk_versions.html
 Pwd resets with JWT | Safe pwd reset | pwd-reset, jwt | https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/
+Istio ** | Connect, secure, control, and observe services | kubernetes, management | https://istio.io/
