@@ -90,3 +90,5 @@ CS curriculum | Self learning modern CS syllabus | cs, syllabus | https://functi
 Physics curriculum | Self learning Physics curriculum | physics, syllabus | https://github.com/llSourcell/Learn_Physics_in_2_Months
 Feynman lectures | Feynman lectures | feynman, lectures | http://www.feynmanlectures.caltech.edu/
 Self taught computer science curriculum | Path to a free self-taught education in Computer Science | curriculum, cs | https://github.com/ossu/computer-science
+VisuAlgo | Visualizing Data structures and algorithms | ds, algo | https://visualgo.net/
+protege | Ontology editor | ontology, editor | https://protege.stanford.edu/
