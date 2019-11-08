@@ -256,3 +256,8 @@ keras tuner ** | Hyper parameter tuning for keras | keras, hyperparameter-tuning
 tensortrade | An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents | trading, finance, tf | https://github.com/notadamking/tensortrade
 RNN intuition illustration | Tutorial on RNN using illustrations | rnn, tutorial | https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 Game theory to interpret ML models | Tutorial on game theory for ML model interpretability | game-theory, model-interpretability, tutorial | https://towardsdatascience.com/the-ultimate-guide-using-game-theory-to-interpret-machine-learning-c384cbb6929
+Time series analysis tutorial ** | Tutorial on time series analysis using spark | time-series, spark, tutorial | https://www.kdnuggets.com/2019/10/time-series-analysis-simple-example-knime-spark.html
+Feature slection tutorial ** | Tutorial on feature selection  | feature-selection, tutorial | https://www.kdnuggets.com/2019/10/feature-selection-beyond-feature-importance.html
+few-shot-vid-2-vid | Video to video transformation from Nvidia | nvidia, video | https://github.com/NVlabs/few-shot-vid2vid
+Gaussian YOLOV3 | Guassian YOLOV3 object detection | object-detection, yolov3 | https://github.com/jwchoi384/Gaussian_YOLOv3
+StupidCV | CV pipeline | cv, pipeline | https://github.com/shgidi/stupid_cv
