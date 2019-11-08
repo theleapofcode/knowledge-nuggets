@@ -127,3 +127,6 @@ Wavesurfer.js ** | Audio waveform visualization and filtering | webaudio, audio-
 Geometric | A JavaScript library for doing geometry | geometry, lib | https://github.com/HarryStevens/geometric
 dstore | Client-side data framework | client-side, data-model | http://dstorejs.io/
 Doclets | JSDoc generator | API-documentation | https://github.com/lipp/doclets
+Wetty ** | Terminal in browser | terminal | https://github.com/butlerx/wetty
+Xtermjs ** | Library to add terminal in browser | terminal | https://xtermjs.org/
+RoughViz | JavaScript library for creating sketchy/hand-drawn styled charts in the browser | charts, library | https://github.com/jwilber/roughViz
