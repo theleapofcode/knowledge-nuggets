@@ -14,6 +14,7 @@ Mediadrop | Media management platform | video | http://mediadrop.video/
 FaaS | Serverless functions with docker and kubernetes | funtions, docker | https://github.com/alexellis/faas
 PionsTURN | Go based TURN server | turn, go | https://github.com/pions/turn
 GLB | Github's load balancer | github, load-balancer | https://githubengineering.com/glb-director-open-source-load-balancer
+School management systems | Open source school management systems | school-management | https://www.ubuntupit.com/best-open-source-school-management-system/
 
 
 # Tools
