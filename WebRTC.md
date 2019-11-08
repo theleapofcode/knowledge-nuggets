@@ -29,3 +29,4 @@ WebRTC VR video call | VR video call | vr | https://webrtchacks.com/webrtc-meets
 Screen recording | Record screen and desktop audio at same time | screen-record, article | https://paul.kinlan.me/screen-recorderrecording-microphone-and-the-desktop-audio-at-the-same-time/
 Screencat | WebRTC screensharing with controls in Electron | screensharing, electron | https://github.com/maxogden/screencat
 Face proximity detection | getusermedia | https://www.sitepoint.com/face-proximity-detection-with-javascript/
+Kuernto WebRTC gateway for IP cameras | Tutorial on kurento as WebRTC gateway for IP cameras | kuernto, gateway, ip-camera, tutorial | https://www.kurento.org/blog/kurento-webrtc-gateway-ip-cameras
