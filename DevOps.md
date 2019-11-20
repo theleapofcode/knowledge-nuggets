@@ -8,7 +8,7 @@ SelfHosted | List of softwares that can be self hosted | list | https://github.c
 Docker logging best practices | Docker logging | tutorial, docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
 Caprover | App deployment framework | deployment | https://github.com/caprover/caprover
 Whistle | HHP, websocket debugging proxy | proxy | https://github.com/avwo/whistle
-Clair | Container vulnerability analysis | container, security, testing | https://github.com/coreos/clair
+Clair ** | Container vulnerability analysis | container, security, testing | https://github.com/coreos/clair
 Gilab CI/CD | CI/CD using gitlab | gitlab | https://medium.com/@jimmyadaro/build-a-ci-cd-pipeline-with-docker-and-gitlab-f351585a5c83
 Kubernetes tools | Tools around kubernetes | kubernetes | http://techgenix.com/open-source-kubernetes/
 Microservices orchestration with Kubernetes | Microservices orchestration with Kubernetes | kubernetes | https://medium.com/@asad_5112/microservices-orchestration-with-kubernetes-1cbb737cfa46
