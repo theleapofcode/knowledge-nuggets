@@ -93,3 +93,5 @@ Feynman lectures | Feynman lectures | feynman, lectures | http://www.feynmanlect
 Self taught computer science curriculum | Path to a free self-taught education in Computer Science | curriculum, cs | https://github.com/ossu/computer-science
 VisuAlgo | Visualizing Data structures and algorithms | ds, algo | https://visualgo.net/
 protege | Ontology editor | ontology, editor | https://protege.stanford.edu/
+ASCII banner generator | ASCII banner generator | ascii, banner | http://asciiset.com/figletserver.html
+Lebab editor | Online ES5 to ES6 converter | es6, code | https://lebab.unibtc.me/editor
