@@ -10,3 +10,4 @@ Algorithms and DS | Algos and DS in Java | Algos | https://github.com/phishman35
 Crash shell | Framework for creating shell apps in Java | shell | http://www.crashub.org/
 Spring boot admin | Admin ui for spring boot apps | boot, ui | https://github.com/codecentric/spring-boot-admin
 QBit | Java microservice framework | java, microservice | http://advantageous.github.io/qbit/
+Trilateration algorithm | Trilateration algorithm impl | algorithm, math | https://github.com/lemmingapex/Trilateration
