@@ -2,7 +2,7 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
-Tyk | API management | api-manager | https://tyk.io/
+Tyk | Tyk API management | api-manager | https://tyk.io/
 UserGrid | Backend for mobile apps with users, documents, files | baas | https://usergrid.apache.org/
 Odoo | ERP and CRM platform | erp, crm | https://www.odoo.com/
 Reaction | e-commerce platform on Node | node, ecommerce | https://github.com/reactioncommerce/reaction
@@ -15,6 +15,9 @@ FaaS | Serverless functions with docker and kubernetes | funtions, docker | http
 PionsTURN | Go based TURN server | turn, go | https://github.com/pions/turn
 GLB | Github's load balancer | github, load-balancer | https://githubengineering.com/glb-director-open-source-load-balancer
 School management systems | Open source school management systems | school-management | https://www.ubuntupit.com/best-open-source-school-management-system/
+Kong | Kong API manager | api-manager | https://konghq.com/kong/
+APIUmbrella | APIUmbrella api manager | api-manager | https://apiumbrella.io/
+Gravitee | Gravitee api manager | api-manager | https://gravitee.io/
 
 
 # Tools
