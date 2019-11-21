@@ -20,3 +20,10 @@ TurtleDB | Frond end offline sync for MongoDB | mongo, offline | https://turtle-
 AresDB | GPU powered realtime analytics and query engine by Uber | uber, analytics | https://github.com/uber/aresdb
 Mongoku ** | Web based UI for Mongo | mongo, ui | https://github.com/huggingface/Mongoku
 BertSearch ** | Elasticsearch + BERT | nlp, bert, elasticsearch | https://github.com/Hironsan/bertsearch
+MongoDB tree data structure | MongoDB tree data structure | mongo, tree, tutorial | https://docs.mongodb.com/manual/tutorial/model-tree-structures-with-ancestors-array/
+MongoDB transactions ** | MongoDB transactions | mongo, transaction, tutorial | https://docs.mongodb.com/manual/core/transactions/, https://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html, https://mongoosejs.com/docs/transactions.html
+MongoDB graph lookup | MongoDB graph lookup | mongo, graph, tutorial | http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-34-graphlookup
+GeoCouch | Geospatial on couchdb | couch, geo | https://github.com/couchbase/geocouch
+MongoDB change streams ** | MongoDB change streams | mongo, change | https://docs.mongodb.com/manual/changeStreams/
+CouchDB access manager | Access manager for CouchDB | couch, rbac | https://github.com/kullervo16/couchdbaccessmanager
+CouchDB transactions | Node.js lib for COuchDB transactions | couch, transactions, node | https://github.com/revington/couchdb-transactions
