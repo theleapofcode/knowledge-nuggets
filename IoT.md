@@ -42,3 +42,5 @@ Proximi | Location abstraction service | location, commercial | https://proximi.
 Traccar ** | GPS tracking platform | gps | https://www.traccar.org/
 Motion detection with JS | Motion detection with JS | tutorial, js, motion-detection | http://codersblock.com/blog/motion-detection-with-javascript/
 Science based games | Science based games | science | https://github.com/stared/science-based-games-list
+Redpin | Indoor location tracking framework | location | http://redpin.org/
+MapBox | Indoor mapping service | location, service | https://www.mapbox.com/
