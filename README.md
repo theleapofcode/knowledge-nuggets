@@ -3,13 +3,11 @@ Links to interesting stuff...
 
 [Big Data](https://github.com/theleapofcode/knowledge-nuggets/blob/master/BigData.md)
 
-[CDN and Media](https://github.com/theleapofcode/knowledge-nuggets/blob/master/CDN.md)
+[Blockchain](https://github.com/theleapofcode/knowledge-nuggets/blob/master/BlockChain.md)
 
 [Data Stores](https://github.com/theleapofcode/knowledge-nuggets/blob/master/DataStores.md)
 
-[Dev Ops](https://github.com/theleapofcode/knowledge-nuggets/blob/master/DevOps.md)
-
-[Frameworks and Platforms](https://github.com/theleapofcode/knowledge-nuggets/blob/master/Frameworks.md)
+[DevOps](https://github.com/theleapofcode/knowledge-nuggets/blob/master/DevOps.md)
 
 [Front End](https://github.com/theleapofcode/knowledge-nuggets/blob/master/FrontEnd.md)
 
@@ -21,8 +19,10 @@ Links to interesting stuff...
 
 [Node.js](https://github.com/theleapofcode/knowledge-nuggets/blob/master/NodeJS.md)
 
-[Online and dev tools](https://github.com/theleapofcode/knowledge-nuggets/blob/master/Tools.md)
+[Platforms & Tools](https://github.com/theleapofcode/knowledge-nuggets/blob/master/PlatformsAndTools.md)
 
-[Tutorials, tips and tricks](https://github.com/theleapofcode/knowledge-nuggets/blob/master/Tutorials.md)
+[Python](https://github.com/theleapofcode/knowledge-nuggets/blob/master/Python.md)
+
+[Quantum Computing](https://github.com/theleapofcode/knowledge-nuggets/blob/master/QuantumComputing.md)
 
 [WebRTC](https://github.com/theleapofcode/knowledge-nuggets/blob/master/WebRTC.md)
