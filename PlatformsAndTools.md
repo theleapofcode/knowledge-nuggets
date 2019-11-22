@@ -11,7 +11,7 @@ Serverless | Framework for building backend using AWS, Azure, Google etc. | clou
 Messagepack | JSON alternative data format | data-format | http://msgpack.org/
 Streama | Self hosted netflix | video | https://github.com/dularion/streama
 Mediadrop | Media management platform | video | http://mediadrop.video/
-FaaS | Serverless functions with docker and kubernetes | funtions, docker | https://github.com/alexellis/faas
+OpenFaaS | Serverless functions with docker and kubernetes | serverless, docker | https://github.com/alexellis/faas
 PionsTURN | Go based TURN server | turn, go | https://github.com/pions/turn
 GLB | Github's load balancer | github, load-balancer | https://githubengineering.com/glb-director-open-source-load-balancer
 School management systems | Open source school management systems | school-management | https://www.ubuntupit.com/best-open-source-school-management-system/
