@@ -32,3 +32,7 @@ Pwd resets with JWT | Safe pwd reset | pwd-reset, jwt | https://www.smashingmaga
 Istio ** | Connect, secure, control, and observe services | kubernetes, management | https://istio.io/
 Node.js deployment on kubernetes ** | Tutorial on node.js deployment on kubernetes | node.js, kubernetes, tutorial | https://learnk8s.io/nodejs-kubernetes-guide/
 ML models deployment on kubernetes ** | Tutorial on ML model deployment on kubernetes | ml, python, kubernetes, tutorial | https://cnvrg.io/deploy-models-with-kubernetes/
+KNative | Kubernetes-based platform to deploy and manage modern serverless workloads | k8s, serverless | https://knative.dev/
+Kustomize | Kubernetes native configuration management | k8s, configuration | https://kustomize.io/
+Longhorn | Cloud-Native distributed block storage built on and for Kubernetes | k8s, storage | https://github.com/longhorn/longhorn
+Thanos | Open source, highly available Prometheus setup with long term storage capabilities | k8s, prometheus, monitoring | https://thanos.io/
