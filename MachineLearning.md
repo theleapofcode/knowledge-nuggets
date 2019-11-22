@@ -261,3 +261,14 @@ Feature slection tutorial ** | Tutorial on feature selection  | feature-selectio
 few-shot-vid-2-vid | Video to video transformation from Nvidia | nvidia, video | https://github.com/NVlabs/few-shot-vid2vid
 Gaussian YOLOV3 | Guassian YOLOV3 object detection | object-detection, yolov3 | https://github.com/jwchoi384/Gaussian_YOLOv3
 StupidCV | CV pipeline | cv, pipeline | https://github.com/shgidi/stupid_cv
+Teachable machine ** | tfjs showcase app | tfjs, samples | https://teachablemachine.withgoogle.com/
+Music tracks separation ** | Separation of tracks like voice, drum, guitar etc. from music | audio, tutorial | https://towardsdatascience.com/separate-music-tracks-with-deep-learning-be4cf4a2c83
+CNN features visualisation | Tutorial on feature visualisation in CNN | cnn, features | https://towardsdatascience.com/how-deep-neural-network-look-for-features-in-images-with-keras-and-google-colab-28209d57f771
+Image caption generator | Tutorial on image caption generator using CNN and LSTM | cnn, lstm, image-caption-generator | https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/
+Game theory for AI | Illustrated guide to game theory in AI | game-theory, tutorial | https://www.analyticsvidhya.com/blog/2019/11/game-theory-ai/
+Data science interview questions | Data science interview questions and answers | interview, qna | https://dzone.com/articles/109-data-science-interview-questions-and-answers
+DeepZ | Model to convert 2D images to 3D | model, image | https://github.com/puppy101puppy/Deep-Z
+Academic torrents ** | Torrents for research papers, datasets, etc. | torrent, datasets, papers | http://academictorrents.com/
+Hacking neural networks ** | A small course on exploiting and defending neural networks | hacking | https://github.com/Kayzaks/HackingNeuralNetworks
+MLExtend ** | Python library of useful tools for the day-to-day data science tasks | tools, lib | http://rasbt.github.io/mlxtend/
+BodyPix ** | Tfjs model for body segmentation | tfjs, model, tutorial | blog.tensorflow.org/2019/11/updated-bodypix-2.html
