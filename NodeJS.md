@@ -121,4 +121,4 @@ ExpressGateway | Microservice API gateway built on express | gateway | http://ww
 ParcelJS | Webapp bundler | bundler | https://parceljs.org/
 Ghost | Blogging platform in node.js | blog, nodejs | https://ghost.org/
 NodeBB | Node bulliten board | bb | https://github.com/NodeBB/NodeBB
-
+roundround | Round robin array iterator | array, lib | https://github.com/watson/roundround
