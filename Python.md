@@ -29,3 +29,4 @@ Biosppy ** | Biomedical signal processing in python | dsp, medical | https://git
 Zipline | Pythonic Algorithmic Trading Library | trading | https://github.com/quantopian/zipline
 d3dfgraph | D3 based graph visualisation in jupyter notebook | graph, d3, jupyter | https://github.com/intuitivetextmining/d3fdgraph
 Pandera ** | A Statistical Data Validation Toolkit for Pandas | pandas, validation | https://www.pyopensci.org/blog/pandera-python-pandas-dataframe-validation
+50 matplotlib plots | Matplotlib sample plots | matplotlib, sample | https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
