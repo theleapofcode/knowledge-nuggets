@@ -100,3 +100,4 @@ protege | Ontology editor | ontology, editor | https://protege.stanford.edu/
 ASCII banner generator | ASCII banner generator | ascii, banner | http://asciiset.com/figletserver.html
 Lebab editor | Online ES5 to ES6 converter | es6, code | https://lebab.unibtc.me/editor
 Mac port forwarding | Tutorial on mac port forwarding | mac, networking | https://salferrarello.com/mac-pfctl-port-forwarding/
+BBox annotation | Online tool for bbox annotation | bbox, online | http://nicodjimenez.github.io/boxLabel/annotate.html
