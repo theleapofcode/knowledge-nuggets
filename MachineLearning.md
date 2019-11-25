@@ -276,3 +276,4 @@ Deep image search engine | Tutorial on image search engine | image-search, tutor
 Bert text calssification | Tutorial on multi-class text classification using BERT | bert, nlp, text-classification, tutorial | https://analyticsindiamag.com/step-by-step-guide-to-implementing-multi-class-classification-with-bert-tensorflow/
 ML datasets list | ML datasets list | datasets | https://data-flair.training/blogs/machine-learning-datasets/
 Fake news classifier | Tutorial on fake news classification with BERT | bert, nlp, text-classification | https://towardsdatascience.com/fake-news-classification-with-bert-afbeee601f41
+Bitfront ** | UI for building rasa | rasa, ui | https://botfront.io/
