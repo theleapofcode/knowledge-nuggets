@@ -30,3 +30,6 @@ Zipline | Pythonic Algorithmic Trading Library | trading | https://github.com/qu
 d3dfgraph | D3 based graph visualisation in jupyter notebook | graph, d3, jupyter | https://github.com/intuitivetextmining/d3fdgraph
 Pandera ** | A Statistical Data Validation Toolkit for Pandas | pandas, validation | https://www.pyopensci.org/blog/pandera-python-pandas-dataframe-validation
 50 matplotlib plots | Matplotlib sample plots | matplotlib, sample | https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
+Ray | A fast and simple framework for building and running distributed applications | distributed, framework | https://github.com/ray-project/ray
+Dask ** | Parallel computing with task scheduling | distributed, framework | https://github.com/dask/dask
+Modin | Parallel execution framework for pandas | pandas, distributed | https://github.com/modin-project/modin 
