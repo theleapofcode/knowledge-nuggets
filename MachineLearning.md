@@ -145,7 +145,7 @@ Ludwig ** | Ludwig is a toolbox that allows to train and test deep learning mode
 Stanford CNN course | CNN course by stanford | stanford, course, CNN | http://cs231n.stanford.edu/
 ML project walkthrough | A complete ML project walkthrough in python | walkthrough, best-practises | https://codequs.com/p/BkaLEq8r4/a-complete-machine-learning-project-walk-through-in-python
 Physionet | Datasets for medical usecases | medical, datasets | https://physionet.org/physiobank/database/
-ImmersiveMath ** | Interactive linear algebra tutorial | linear-algebra, visualize | http://immersivemath.com/ila/index.html
+ImmersiveMath ** | Interactive linear algebra tutorial | linear-algebra, visualize | http://immersivemath.com/ila/index.html, https://textbooks.math.gatech.edu/ila/index.html
 d2l.ai ** | Interactive book for learning DL | dl, book | http://d2l.ai/
 Awesome-public-datasets | Awesome list of public datasets | datasets, awesome-list | https://github.com/awesomedata/awesome-public-datasets
 HandTracking | Lib to track hand | hand-tracking | https://github.com/victordibia/handtracking
@@ -279,3 +279,9 @@ Fake news classifier | Tutorial on fake news classification with BERT | bert, nl
 Bitfront ** | UI for building rasa | rasa, ui | https://botfront.io/
 SketchCode ** | Hand drawn image to HTML code generation | html, cnn, gru | https://github.com/ashnkumar/sketch-code, https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82
 Sonnet | DL lib based on TF 2.0 | deepmind, framework | https://github.com/deepmind/sonnet
+AutoML_gs ** | AutoML lib | automl | https://github.com/minimaxir/automl-gs
+NNI ** | AutoML lib from microsoft | automl, microsoft | https://github.com/Microsoft/nni
+Tpot ** | AutoML lib | automl | https://github.com/EpistasisLab/tpot
+Keras resume training ** | Tutorial on resuming keras training | keras, tutorial | https://towardsdatascience.com/resuming-a-training-process-with-keras-3e93152ee11a
+Keras improve accuracy ** | Tutorial on improving keras accuracy | keras, tutorial | https://towardsdatascience.com/the-quest-of-higher-accuracy-for-cnn-models-42df5d731faf
+Petastorm | Lib for using apache parquet as ML data source | datasource, parquet, uber | https://github.com/uber/petastorm
