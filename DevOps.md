@@ -37,3 +37,4 @@ Kustomize | Kubernetes native configuration management | k8s, configuration | ht
 Longhorn | Cloud-Native distributed block storage built on and for Kubernetes | k8s, storage | https://github.com/longhorn/longhorn
 Thanos | Open source, highly available Prometheus setup with long term storage capabilities | k8s, prometheus, monitoring | https://thanos.io/
 Keiko | Kubernetes automation at scale | k8s, automation | https://medium.com/keikoproj/keiko-running-kubernetes-at-scale-1178491c1440
+Release it ** | Tool to automate release tasks like version bumping, git tag etc. | git, versioning | https://github.com/release-it/release-it
