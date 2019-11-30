@@ -19,6 +19,13 @@ Kong | Kong API manager | api-manager | https://konghq.com/kong/
 APIUmbrella | APIUmbrella api manager | api-manager | https://apiumbrella.io/
 Gravitee | Gravitee api manager | api-manager | https://gravitee.io/
 Chatwood | Open source customer support platform like inetrcom, zendesk | customer-support, messaging | https://www.chatwoot.com/
+VuePress | Vue-powered Static Site Generator | vue, statis-site | https://v0.vuepress.vuejs.org/
+Hugo | The world’s fastest framework for building websites | static-site, node | https://gohugo.io/
+Hexo | A fast, simple & powerful blog framework | node, blog | https://hexo.io/
+Publii | CMS for static sites | cms, node, static-site | https://getpublii.com/
+CMS.js | CMS JS framework | cms, js | https://github.com/chrisdiana/cms.js
+Gatsby | Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps | static-site, react | https://www.gatsbyjs.org/
+Ghost | headless Node.js CMS for professional publishing  | static-site | https://github.com/TryGhost/Ghost
 
 
 # Tools
