@@ -240,7 +240,7 @@ Expresso | Automatic speech recognition toolkit | asr, speech | https://github.c
 Keras-yolov3 | YOLO v3 in keras | keras, yolov3 | https://github.com/experiencor/keras-yolo3
 Keras-tiny-yolov3 | Tiny YOLOv3 in keras | keras, yolov3, tiny | https://github.com/HoracceFeng/keras-yolo3-tiny
 Deep learning OCR | Tutorial of deep learning based OCR | tutorial, ocr | https://nanonets.com/blog/attention-ocr-for-text-recogntion/
-Tensorflow custom object detection | Tutorial on custom object detection with tensorflow | tf, object-detection, tutorial | https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087, https://www.freecodecamp.org/news/tracking-the-millenium-falcon-with-tensorflow-c8c86419225e/
+Tensorflow custom object detection | Tutorial on custom object detection with tensorflow | tf, object-detection, tutorial | https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087, https://www.freecodecamp.org/news/tracking-the-millenium-falcon-with-tensorflow-c8c86419225e/, https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 Cloud annotations | IBM cloud annotation tool for object classification and detection | object-detection, ibm, tf | https://cloud-annotations.github.io/training/object-detection/cli/index.html
 3D bbox estimation | 3D bbox estimation using Keras | tutorial, object-detection, keras, yolov3 | https://github.com/experiencor/image-to-3d-bbox
 BERT explained | Tutorial on BERT NLP model | tutorial, bert, google, nlp | https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
