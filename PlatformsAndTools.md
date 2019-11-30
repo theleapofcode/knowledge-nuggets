@@ -99,7 +99,7 @@ Jsonnet | Json based data templating tool | templating, json | https://github.co
 1MB | Free static site hosting, domain and SSL | site-hosting | https://1mb.site
 Mathics | Alternative to Mathematica | mathematica, simulation | https://mathics.github.io/
 rga | ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | search, cli | https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/
-Cypress ** | Selenium killer | ui-automation, selenium | https://blog.logrocket.com/cypress-io-the-selenium-killer/
+Cypress ** | Selenium killer | ui-automation, selenium | https://www.cypress.io/, https://blog.logrocket.com/cypress-io-the-selenium-killer/
 StackShare | techonolgy stacks at companies | https://stackshare.io/
 CS curriculum | Self learning modern CS syllabus | cs, syllabus | https://functionalcs.github.io/curriculum/
 Physics curriculum | Self learning Physics curriculum | physics, syllabus | https://github.com/llSourcell/Learn_Physics_in_2_Months
@@ -117,3 +117,8 @@ Unsplash | Free images for websites | images, stock-photos | https://unsplash.co
 txqr | Data transfer using animated qr code | qrcode, data | https://github.com/divan/txqr
 quiet.js | Data transmission using sound | webaudio | https://github.com/quiet/quiet-js
 Mermaid.js ** | Generation of diagram and flowchart from text in a similar manner as markdown | flow-chart, markdown | https://github.com/mermaid-js/mermaid
+Headless chrome docker | Dockerized headless chrome with remote debugging | chrome, headless, docker | https://textbooks.math.gatech.edu/ila/index.html
+REST API design guidelines | REST API design guidelines by microsoft | guidelines, rest, microsoft | https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+Postwoman ** | Postman alternative | postman, rest | https://github.com/liyasthomas/postwoman
+Coscreen | Remote collaboration and screensharing | screen-sharing | https://www.coscreen.co
+WebGLStudio | 3D graphics editor in the browser, | webgl, graphics | https://github.com/jagenjo/webglstudio.js
