@@ -81,7 +81,7 @@ NLP-Progress | NLP examples and lists | NLP | https://github.com/sebastianruder/
 Reinforcement examples | Reinforcement examples | examples, reinforcements | https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
 Imageaug | Image augmentation for ML | image | https://github.com/aleju/imgaug
 Sketch-code ** | Keras model to generate HTML from hand drawn wireframes | keras, cnn | https://github.com/ashnkumar/sketch-code
-DTLK ** | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK
+DTLK ** | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK, https://medium.com/tensorflow/an-introduction-to-biomedical-image-analysis-with-tensorflow-and-dltk-2c25304e7c13
 Seedbank | Interactive ML algos by google | google, examples | http://tools.google.com/seedbank/
 SnarkLab | GPU powered cloud service | cloud, gpu | https://lab.snark.ai/
 BigDL | DL library on Spark | Intel, Spark, library | https://github.com/intel-analytics/BigDL
