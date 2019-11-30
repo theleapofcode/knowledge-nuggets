@@ -278,3 +278,4 @@ ML datasets list | ML datasets list | datasets | https://data-flair.training/blo
 Fake news classifier | Tutorial on fake news classification with BERT | bert, nlp, text-classification | https://towardsdatascience.com/fake-news-classification-with-bert-afbeee601f41
 Bitfront ** | UI for building rasa | rasa, ui | https://botfront.io/
 SketchCode ** | Hand drawn image to HTML code generation | html, cnn, gru | https://github.com/ashnkumar/sketch-code, https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82
+Sonnet | DL lib based on TF 2.0 | deepmind, framework | https://github.com/deepmind/sonnet
