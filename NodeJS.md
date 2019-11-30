@@ -122,3 +122,4 @@ ParcelJS | Webapp bundler | bundler | https://parceljs.org/
 Ghost | Blogging platform in node.js | blog, nodejs | https://ghost.org/
 NodeBB | Node bulliten board | bb | https://github.com/NodeBB/NodeBB
 roundround | Round robin array iterator | array, lib | https://github.com/watson/roundround
+Flexsearch.js ** | Full text search lib for node and browser | browser, node, full-text | https://github.com/nextapps-de/flexsearch
