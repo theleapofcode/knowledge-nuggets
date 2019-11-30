@@ -27,3 +27,7 @@ GeoCouch | Geospatial on couchdb | couch, geo | https://github.com/couchbase/geo
 MongoDB change streams ** | MongoDB change streams | mongo, change | https://docs.mongodb.com/manual/changeStreams/
 CouchDB access manager | Access manager for CouchDB | couch, rbac | https://github.com/kullervo16/couchdbaccessmanager
 CouchDB transactions | Node.js lib for COuchDB transactions | couch, transactions, node | https://github.com/revington/couchdb-transactions
+NeDB | JS database for Node, browser | js, document | https://github.com/louischatriot/nedb
+Dexie.js | Wrapper for IndexDB with sync | indexeddb, sync | https://dexie.org/docs/Syncable/Dexie.Syncable.js
+TurtleDB | Mongo offline sync lib | mongo, sync | https://github.com/turtle-DB/turtleDB
+MiniMongo | Mongo offline sync | mongo, sync | https://github.com/mWater/minimongo
