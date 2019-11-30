@@ -81,7 +81,7 @@ NLP-Progress | NLP examples and lists | NLP | https://github.com/sebastianruder/
 Reinforcement examples | Reinforcement examples | examples, reinforcements | https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks
 Imageaug | Image augmentation for ML | image | https://github.com/aleju/imgaug
 Sketch-code ** | Keras model to generate HTML from hand drawn wireframes | keras, cnn | https://github.com/ashnkumar/sketch-code
-DTLK | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK
+DTLK ** | Toolkit for medical image DL | medical, DL | https://github.com/DLTK/DLTK
 Seedbank | Interactive ML algos by google | google, examples | http://tools.google.com/seedbank/
 SnarkLab | GPU powered cloud service | cloud, gpu | https://lab.snark.ai/
 BigDL | DL library on Spark | Intel, Spark, library | https://github.com/intel-analytics/BigDL
@@ -277,3 +277,4 @@ Bert text calssification | Tutorial on multi-class text classification using BER
 ML datasets list | ML datasets list | datasets | https://data-flair.training/blogs/machine-learning-datasets/
 Fake news classifier | Tutorial on fake news classification with BERT | bert, nlp, text-classification | https://towardsdatascience.com/fake-news-classification-with-bert-afbeee601f41
 Bitfront ** | UI for building rasa | rasa, ui | https://botfront.io/
+SketchCode ** | Hand drawn image to HTML code generation | html, cnn, gru | https://github.com/ashnkumar/sketch-code, https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82
