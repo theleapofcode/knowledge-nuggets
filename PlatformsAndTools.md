@@ -111,3 +111,9 @@ ASCII banner generator | ASCII banner generator | ascii, banner | http://asciise
 Lebab editor | Online ES5 to ES6 converter | es6, code | https://lebab.unibtc.me/editor
 Mac port forwarding | Tutorial on mac port forwarding | mac, networking | https://salferrarello.com/mac-pfctl-port-forwarding/
 BBox annotation | Online tool for bbox annotation | bbox, online | http://nicodjimenez.github.io/boxLabel/annotate.html
+Webhint | Hints to imrpove websites | scan, security, website | https://webhint.io/
+Uncaptcha2 | defeating the latest version of ReCaptcha with 91% accuracy | recaptcha, hack | https://github.com/ecthros/uncaptcha2
+Unsplash | Free images for websites | images, stock-photos | https://unsplash.com/
+txqr | Data transfer using animated qr code | qrcode, data | https://github.com/divan/txqr
+quiet.js | Data transmission using sound | webaudio | https://github.com/quiet/quiet-js
+Mermaid.js ** | Generation of diagram and flowchart from text in a similar manner as markdown | flow-chart, markdown | https://github.com/mermaid-js/mermaid
