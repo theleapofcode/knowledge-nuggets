@@ -31,3 +31,4 @@ NeDB | JS database for Node, browser | js, document | https://github.com/louisch
 Dexie.js | Wrapper for IndexDB with sync | indexeddb, sync | https://dexie.org/docs/Syncable/Dexie.Syncable.js
 TurtleDB | Mongo offline sync lib | mongo, sync | https://github.com/turtle-DB/turtleDB
 MiniMongo | Mongo offline sync | mongo, sync | https://github.com/mWater/minimongo
+FoundationDB | Distributed multi-modal store with ACID support | apple, distributed, acid | https://www.foundationdb.org/
