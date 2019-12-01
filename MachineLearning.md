@@ -285,3 +285,4 @@ Tpot ** | AutoML lib | automl | https://github.com/EpistasisLab/tpot
 Keras resume training ** | Tutorial on resuming keras training | keras, tutorial | https://towardsdatascience.com/resuming-a-training-process-with-keras-3e93152ee11a
 Keras improve accuracy ** | Tutorial on improving keras accuracy | keras, tutorial | https://towardsdatascience.com/the-quest-of-higher-accuracy-for-cnn-models-42df5d731faf
 Petastorm | Lib for using apache parquet as ML data source | datasource, parquet, uber | https://github.com/uber/petastorm
+Lale ** | Library for Semi-Automated Data Science | ibm, automl | https://github.com/IBM/lale
