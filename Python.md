@@ -33,3 +33,9 @@ Pandera ** | A Statistical Data Validation Toolkit for Pandas | pandas, validati
 Ray | A fast and simple framework for building and running distributed applications | distributed, framework | https://github.com/ray-project/ray
 Dask ** | Parallel computing with task scheduling | distributed, framework | https://github.com/dask/dask
 Modin | Parallel execution framework for pandas | pandas, distributed | https://github.com/modin-project/modin 
+Jupyter interactive controls | Interactive controls in Jupyter | jupyter, interactive | https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html, https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6
+Rapids ** | Spark like ditributed GPU data science framework | gpu, distributed | https://rapids.ai/
+PracticalAI ** | ML lessons using notebooks | tutorial, notebook | https://practicalai.me/
+Milano ** | Hyper parameter tuning framework from NVIDIA | nvidia, hyperparameter-tuning | https://nvidia.github.io/Milano/
+Vaex ** | Dataframes to handle GBs of data in Pandas like API | pandas, big-data | https://github.com/vaexio/vaex, https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f
+Pdpipe | Pipelines for pandas DF | pandas, pipeline | https://github.com/shaypal5/pdpipe, https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31
