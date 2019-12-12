@@ -286,3 +286,8 @@ Keras resume training ** | Tutorial on resuming keras training | keras, tutorial
 Keras improve accuracy ** | Tutorial on improving keras accuracy | keras, tutorial | https://towardsdatascience.com/the-quest-of-higher-accuracy-for-cnn-models-42df5d731faf
 Petastorm | Lib for using apache parquet as ML data source | datasource, parquet, uber | https://github.com/uber/petastorm
 Lale ** | Library for Semi-Automated Data Science | ibm, automl | https://github.com/IBM/lale
+Hyperas ** | Hyper parameter optimization in keras using hyperopt | keras, hyperparameter-tuning | http://maxpumperla.com/hyperas/
+Prophet ** | Time series forecasting lib from facebook | facebook, time-series | https://facebook.github.io/prophet/
+Screenshot to code | Screenshot to HTML code | html, generator | https://github.com/emilwallner/Screenshot-to-code
+PerceptiLabs ** | Drag and drop ML tool | tool | https://perceptilabs.readme.io/docs
+Mask RCNN | Tutorial on image segmentation using mask rcnn | mask-rcnn, image-segmentation, tutorial | https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
