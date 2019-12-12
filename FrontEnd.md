@@ -131,3 +131,4 @@ Wetty ** | Terminal in browser | terminal | https://github.com/butlerx/wetty
 Xtermjs ** | Library to add terminal in browser | terminal | https://xtermjs.org/
 RoughViz | JavaScript library for creating sketchy/hand-drawn styled charts in the browser | charts, library | https://github.com/jwilber/roughViz
 FrondEnd checklist | Frontend checklist | checklist | https://frontendchecklist.io/
+CreepyFace | Lib to make face following mouse pointer | timepass | https://creepyface.io/
