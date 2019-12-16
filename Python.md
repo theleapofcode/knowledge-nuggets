@@ -39,3 +39,4 @@ PracticalAI ** | ML lessons using notebooks | tutorial, notebook | https://pract
 Milano ** | Hyper parameter tuning framework from NVIDIA | nvidia, hyperparameter-tuning | https://nvidia.github.io/Milano/
 Vaex ** | Dataframes to handle GBs of data in Pandas like API | pandas, big-data | https://github.com/vaexio/vaex, https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f
 Pdpipe | Pipelines for pandas DF | pandas, pipeline | https://github.com/shaypal5/pdpipe, https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31
+PyFlow | Visual programming with Python | visual, tools | https://github.com/wonderworks-software/PyFlow
