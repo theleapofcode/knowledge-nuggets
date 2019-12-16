@@ -290,4 +290,5 @@ Hyperas ** | Hyper parameter optimization in keras using hyperopt | keras, hyper
 Prophet ** | Time series forecasting lib from facebook | facebook, time-series | https://facebook.github.io/prophet/
 Screenshot to code | Screenshot to HTML code | html, generator | https://github.com/emilwallner/Screenshot-to-code
 PerceptiLabs ** | Drag and drop ML tool | tool | https://perceptilabs.readme.io/docs
-Mask RCNN | Tutorial on image segmentation using mask rcnn | mask-rcnn, image-segmentation, tutorial | https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
+Mask RCNN ** | Tutorial and implementation on image segmentation using mask rcnn | mask-rcnn, image-segmentation, tutorial, code | https://github.com/matterport/Mask_RCNN, https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
+NVIDIA Clara SDK | Medical imaging sdk from nvidia | nvidia, medical, sdk | https://developer.nvidia.com/clara-medical-imaging
