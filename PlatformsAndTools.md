@@ -29,7 +29,7 @@ Ghost | headless Node.js CMS for professional publishing  | static-site | https:
 Keycloak | IDP and access management framework | idp | https://www.keycloak.org/
 Node OIDC | OpenID node server and client | openid, idp, node | https://github.com/panva/node-oidc-provider, https://github.com/panva/node-openid-client
 Huggin ** | Agents to monitor and notify | ifttt, automation | https://github.com/huginn/huginn
-
+Self hosted list | List of all self hosted tools | self-hosted, list | https://selfhostedsource.tech/self-hosted/all
 
 # Tools
 
@@ -122,3 +122,4 @@ REST API design guidelines | REST API design guidelines by microsoft | guideline
 Postwoman ** | Postman alternative | postman, rest | https://github.com/liyasthomas/postwoman
 Coscreen | Remote collaboration and screensharing | screen-sharing | https://www.coscreen.co
 WebGLStudio | 3D graphics editor in the browser, | webgl, graphics | https://github.com/jagenjo/webglstudio.js
+NpKill ** | List and delete all node_modules dir to free space | node, tool | https://github.com/voidcosmos/npkill
