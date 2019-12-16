@@ -28,7 +28,7 @@ Gatsby | Gatsby is a free and open source framework based on React that helps de
 Ghost | headless Node.js CMS for professional publishing  | static-site | https://github.com/TryGhost/Ghost
 Keycloak | IDP and access management framework | idp | https://www.keycloak.org/
 Node OIDC | OpenID node server and client | openid, idp, node | https://github.com/panva/node-oidc-provider, https://github.com/panva/node-openid-client
-
+Huggin ** | Agents to monitor and notify | ifttt, automation | https://github.com/huginn/huginn
 
 
 # Tools
