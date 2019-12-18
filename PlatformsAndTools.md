@@ -125,3 +125,4 @@ WebGLStudio | 3D graphics editor in the browser, | webgl, graphics | https://git
 NpKill ** | List and delete all node_modules dir to free space | node, tool | https://github.com/voidcosmos/npkill
 Kanban boards ** | Kanban boards | kanban | https://github.com/kanboard/kanboard, https://github.com/wekan/wekan
 MITK ** | Medical Imaging Toolkit from nvidia | nvidia, ai, dicom, medical | http://www.mitk.org/wiki/MITK
+Desmos ** | Math visualizations | math, visualization | https://www.desmos.com/
