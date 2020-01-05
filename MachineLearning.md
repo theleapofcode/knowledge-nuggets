@@ -290,5 +290,9 @@ Hyperas ** | Hyper parameter optimization in keras using hyperopt | keras, hyper
 Prophet ** | Time series forecasting lib from facebook | facebook, time-series | https://facebook.github.io/prophet/
 Screenshot to code | Screenshot to HTML code | html, generator | https://github.com/emilwallner/Screenshot-to-code
 PerceptiLabs ** | Drag and drop ML tool | tool | https://perceptilabs.readme.io/docs
-Mask RCNN ** | Tutorial and implementation on image segmentation using mask rcnn | mask-rcnn, image-segmentation, tutorial, code | https://github.com/matterport/Mask_RCNN, https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/
-NVIDIA Clara SDK | Medical imaging sdk from nvidia | nvidia, medical, sdk | https://developer.nvidia.com/clara-medical-imaging
+Mask RCNN ** | Tutorial and implementation on image segmentation using mask rcnn | mask-rcnn, image-segmentation, tutorial, code | https://github.com/matterport/Mask_RCNN, https://www.analyticsvidhya.com/blog/2019/07/computer-vision-implementing-mask-r-cnn-image-segmentation/, https://github.com/fizyr/keras-maskrcnn
+NVIDIA Clara SDK ** | Medical imaging sdk from nvidia | nvidia, medical, sdk | https://developer.nvidia.com/clara-medical-imaging
+RetinaNet keras | Keras implementation of RetinaNet | object-detection, retinanet, keras | https://github.com/fizyr/keras-retinanet
+ADTK ** | Anomoly detection in time series data | anomoly-detection, time-series, pydata | https://github.com/arundo/adtk
+Drawdata ** | Data generator for linear plots, scatter plots and histos | data-gen, tool | https://drawdata.xyz/
+PBT-keras | Population based training hyperparam tuning implementation in keras | hyperparameter-tuning, keras | https://github.com/fediazgon/pbt-keras
