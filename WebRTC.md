@@ -32,3 +32,4 @@ Face proximity detection | getusermedia | https://www.sitepoint.com/face-proximi
 Kuernto WebRTC gateway for IP cameras | Tutorial on kurento as WebRTC gateway for IP cameras | kuernto, gateway, ip-camera, tutorial | https://www.kurento.org/blog/kurento-webrtc-gateway-ip-cameras
 Electron-WebRTC | WebRTC in node using a hidden electron process | node, electron | https://github.com/mappum/electron-webrtc
 Video conference recorder using WebRTC | WebRTC recording client side | tutorial, recording | https://forio.com/about/blog/create-video-conference-recorder-using-webrtc/
+Screen recording with audio | Screen recording with audio in chrome | chrome, screen | https://blog.addpipe.com/screen-recording-with-system-sounds-in-chrome/
