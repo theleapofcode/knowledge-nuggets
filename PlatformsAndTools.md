@@ -126,3 +126,4 @@ NpKill ** | List and delete all node_modules dir to free space | node, tool | ht
 Kanban boards ** | Kanban boards | kanban | https://github.com/kanboard/kanboard, https://github.com/wekan/wekan
 MITK ** | Medical Imaging Toolkit from nvidia | nvidia, ai, dicom, medical | http://www.mitk.org/wiki/MITK
 Desmos ** | Math visualizations | math, visualization | https://www.desmos.com/
+Bandwhich | Terminal tool to describe bandwidth usage by processes | terminal, bandwidth | https://github.com/imsnif/bandwhich
