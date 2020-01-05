@@ -40,3 +40,10 @@ Milano ** | Hyper parameter tuning framework from NVIDIA | nvidia, hyperparamete
 Vaex ** | Dataframes to handle GBs of data in Pandas like API | pandas, big-data | https://github.com/vaexio/vaex, https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f
 Pdpipe | Pipelines for pandas DF | pandas, pipeline | https://github.com/shaypal5/pdpipe, https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31
 PyFlow | Visual programming with Python | visual, tools | https://github.com/wonderworks-software/PyFlow
+Algorithms and DS | Algo and DS coding samples | algo, ds, demos | https://github.com/MTrajK/coding-problems
+PythonRobotics | Robotic algorithms | robotics, algo | https://github.com/AtsushiSakai/PythonRobotics
+AutoViz ** | Automatic visualization of Pandas DF | visualization | https://github.com/AutoViML/AutoViz
+FFMPEG-python | Python wrapper for FFMPEG | ffmpeg | https://github.com/kkroening/ffmpeg-python
+Panel | Dashboarding for python | visualization, dashboard | https://panel.pyviz.org/index.html
+Data science handbook | Notebooks for datascience | notebook | https://github.com/jakevdp/PythonDataScienceHandbook
+Decorators | Tutorial on python decorators | decorator, tutorial | https://www.datacamp.com/community/tutorials/decorators-python
