@@ -296,3 +296,5 @@ RetinaNet keras | Keras implementation of RetinaNet | object-detection, retinane
 ADTK ** | Anomoly detection in time series data | anomoly-detection, time-series, pydata | https://github.com/arundo/adtk
 Drawdata ** | Data generator for linear plots, scatter plots and histos | data-gen, tool | https://drawdata.xyz/
 PBT-keras | Population based training hyperparam tuning implementation in keras | hyperparameter-tuning, keras | https://github.com/fediazgon/pbt-keras
+MindsDB ** | AutoML lib | automl | https://www.mindsdb.com/
+AI hub | GCP AI hub | google, models, automl | https://aihub.cloud.google.com/
