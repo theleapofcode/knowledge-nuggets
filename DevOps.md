@@ -39,3 +39,4 @@ Thanos | Open source, highly available Prometheus setup with long term storage c
 Keiko | Kubernetes automation at scale | k8s, automation | https://medium.com/keikoproj/keiko-running-kubernetes-at-scale-1178491c1440
 Release it ** | Tool to automate release tasks like version bumping, git tag etc. | git, versioning | https://github.com/release-it/release-it
 Argo ** | Workflow manager on kubernetes with UI | k8s, workflow, ui | https://github.com/argoproj/argo
+Kind ** | tool for running local Kubernetes clusters using Docker container nodes | k8s, local, docker | https://kind.sigs.k8s.io/
