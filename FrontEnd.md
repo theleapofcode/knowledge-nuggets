@@ -132,3 +132,5 @@ Xtermjs ** | Library to add terminal in browser | terminal | https://xtermjs.org
 RoughViz | JavaScript library for creating sketchy/hand-drawn styled charts in the browser | charts, library | https://github.com/jwilber/roughViz
 FrondEnd checklist | Frontend checklist | checklist | https://frontendchecklist.io/
 CreepyFace | Lib to make face following mouse pointer | timepass | https://creepyface.io/
+FrontEnd checklist | Frontend checklist | checklist | https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/
+Craft.js | A React Framework for building extensible drag and drop page website editors | website-editor, react | https://github.com/prevwong/craft.js
