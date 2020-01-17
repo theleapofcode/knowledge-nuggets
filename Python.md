@@ -47,3 +47,4 @@ FFMPEG-python | Python wrapper for FFMPEG | ffmpeg | https://github.com/kkroenin
 Panel | Dashboarding for python | visualization, dashboard | https://panel.pyviz.org/index.html
 Data science handbook | Notebooks for datascience | notebook | https://github.com/jakevdp/PythonDataScienceHandbook
 Decorators | Tutorial on python decorators | decorator, tutorial | https://www.datacamp.com/community/tutorials/decorators-python
+PyMC | Probablistic programming in Python | probability | https://docs.pymc.io/
