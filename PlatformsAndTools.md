@@ -127,3 +127,5 @@ Kanban boards ** | Kanban boards | kanban | https://github.com/kanboard/kanboard
 MITK ** | Medical Imaging Toolkit from nvidia | nvidia, ai, dicom, medical | http://www.mitk.org/wiki/MITK
 Desmos ** | Math visualizations | math, visualization | https://www.desmos.com/
 Bandwhich | Terminal tool to describe bandwidth usage by processes | terminal, bandwidth | https://github.com/imsnif/bandwhich
+Terrastruct | Terrastruct is a tool to create diagrams that excel at visually explaining complex systems | diagram | https://terrastruct.com/
+Ryeboard | Tool to collaborate docs, files etc. | paid, collaboration | https://www.ryeboard.com/
