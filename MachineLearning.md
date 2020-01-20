@@ -301,3 +301,4 @@ AI hub | GCP AI hub | google, models, automl | https://aihub.cloud.google.com/
 Keras-FewShotLearning | Few shot learning implementation in keras | keras | https://github.com/ClementWalter/Keras-FewShotLearning
 Keras-ocr | Keras OCR | keras, ocr | https://github.com/faustomorales/keras-ocr
 Rhasspy ** | Rhasspy (pronounced RAH-SPEE) is an open source, fully offline voice assistant toolkit | voice-assistant, nlp | https://rhasspy.readthedocs.io/en/latest/
+Plato | Conversational AI framework like rasa from Uber | uber, chatbot | https://eng.uber.com/plato-research-dialogue-system/
