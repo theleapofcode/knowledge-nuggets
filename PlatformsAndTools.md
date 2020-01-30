@@ -129,3 +129,5 @@ Desmos ** | Math visualizations | math, visualization | https://www.desmos.com/
 Bandwhich | Terminal tool to describe bandwidth usage by processes | terminal, bandwidth | https://github.com/imsnif/bandwhich
 Terrastruct | Terrastruct is a tool to create diagrams that excel at visually explaining complex systems | diagram | https://terrastruct.com/
 Ryeboard | Tool to collaborate docs, files etc. | paid, collaboration | https://www.ryeboard.com/
+Playcode | Online IDE for frontend | ide, online | https://playcode.io/
+Playwright ** | Node library to automate Chromium, Firefox and WebKit with a single API | automation, browser | https://github.com/microsoft/playwright
