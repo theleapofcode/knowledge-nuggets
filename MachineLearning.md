@@ -302,3 +302,7 @@ Keras-FewShotLearning | Few shot learning implementation in keras | keras | http
 Keras-ocr | Keras OCR | keras, ocr | https://github.com/faustomorales/keras-ocr
 Rhasspy ** | Rhasspy (pronounced RAH-SPEE) is an open source, fully offline voice assistant toolkit | voice-assistant, nlp | https://rhasspy.readthedocs.io/en/latest/
 Plato | Conversational AI framework like rasa from Uber | uber, chatbot | https://eng.uber.com/plato-research-dialogue-system/
+MIT deep learning lectures ** | MIT deep learning series | mit, lectures | https://deeplearning.mit.edu/
+ActionAI | Human pose estimation AI | pose-estimation | https://github.com/smellslikeml/ActionAI
+Music library ** | Tutorial for AI powered music library using TF2.0 | tf2.0, tutorial | https://blog.tensorflow.org/2020/01/building-ai-empowered-music-library-tensorflow.html
+Dataset search | Google dataset search | google, datasets | https://datasetsearch.research.google.com/
