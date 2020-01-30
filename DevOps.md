@@ -40,3 +40,7 @@ Keiko | Kubernetes automation at scale | k8s, automation | https://medium.com/ke
 Release it ** | Tool to automate release tasks like version bumping, git tag etc. | git, versioning | https://github.com/release-it/release-it
 Argo ** | Workflow manager on kubernetes with UI | k8s, workflow, ui | https://github.com/argoproj/argo
 Kind ** | tool for running local Kubernetes clusters using Docker container nodes | k8s, local, docker | https://kind.sigs.k8s.io/
+Let's Encrypt ** | Free SSL certs and CA | ssl, website | https://letsencrypt.org/
+Node.js kubernetes tutorial | Tutorial for kubernetes deployment of node.js app | k8s, tutorial | https://www.digitalocean.com/community/tutorial_series/from-containers-to-kubernetes-with-node-js
+OneDev ** | Complete DevOps platform like GitLab | devops, platform | https://github.com/theonedev/onedev 
+KubeLabs | Handson k8s online labs | k8s, online | https://collabnix.github.io/kubelabs/
