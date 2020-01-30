@@ -134,3 +134,4 @@ FrondEnd checklist | Frontend checklist | checklist | https://frontendchecklist.
 CreepyFace | Lib to make face following mouse pointer | timepass | https://creepyface.io/
 FrontEnd checklist | Frontend checklist | checklist | https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/
 Craft.js | A React Framework for building extensible drag and drop page website editors | website-editor, react | https://github.com/prevwong/craft.js
+calcolor | Calculator for clolours | colour, css | https://calcolor.co/
