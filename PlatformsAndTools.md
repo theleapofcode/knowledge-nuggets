@@ -73,7 +73,8 @@ Zotero | Tool to find and share research | research | https://www.zotero.org
 Terminalizer | Tool to record terminal | recorder, terminal | https://github.com/faressoft/terminalizer
 WebHint | Website performace and security profiler | performance, profiling | https://webhint.io/
 git-bug | Git based bug tracker | git, bug | https://github.com/MichaelMure/git-bug
-KeyCloak | Open source identity management | idp | https://www.keycloak.org/
+KeyCloak ** | Open source identity management | idp | https://www.keycloak.org/
+Gluu ** | Open source identity management | idp | https://www.gluu.org/
 NodeBook | Multi language REPL with Web UI | REPL, UI | https://github.com/netgusto/nodebook
 Mole | SSH tunnels for firewall traversal | ssh, firewall-traversal | https://davrodpin.github.io/mole
 HiProxy | Lightweight proxy based on nodejs with nginx like config | proxy, nodejs | https://github.com/hiproxy/hiproxy
