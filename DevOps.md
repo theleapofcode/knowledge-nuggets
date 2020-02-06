@@ -44,3 +44,4 @@ Let's Encrypt ** | Free SSL certs and CA | ssl, website | https://letsencrypt.or
 Node.js kubernetes tutorial | Tutorial for kubernetes deployment of node.js app | k8s, tutorial | https://www.digitalocean.com/community/tutorial_series/from-containers-to-kubernetes-with-node-js
 OneDev ** | Complete DevOps platform like GitLab | devops, platform | https://github.com/theonedev/onedev 
 KubeLabs | Handson k8s online labs | k8s, online | https://collabnix.github.io/kubelabs/
+Spinnaker | Cloud Native Continuous Delivery | ci, cd | https://www.spinnaker.io/
