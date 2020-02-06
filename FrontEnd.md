@@ -135,3 +135,5 @@ CreepyFace | Lib to make face following mouse pointer | timepass | https://creep
 FrontEnd checklist | Frontend checklist | checklist | https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/
 Craft.js | A React Framework for building extensible drag and drop page website editors | website-editor, react | https://github.com/prevwong/craft.js
 calcolor | Calculator for clolours | colour, css | https://calcolor.co/
+Mirage | Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services. | mock, api | https://miragejs.com/
+Rough.js | Create graphics with a hand-drawn, sketchy, appearance | css, graphics | https://roughjs.com/
