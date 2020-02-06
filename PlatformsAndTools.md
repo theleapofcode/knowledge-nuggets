@@ -132,3 +132,5 @@ Terrastruct | Terrastruct is a tool to create diagrams that excel at visually ex
 Ryeboard | Tool to collaborate docs, files etc. | paid, collaboration | https://www.ryeboard.com/
 Playcode | Online IDE for frontend | ide, online | https://playcode.io/
 Playwright ** | Node library to automate Chromium, Firefox and WebKit with a single API | automation, browser | https://github.com/microsoft/playwright
+Phoenix | A lightweight macOS/OS X window and app manager scriptable with JavaScript | automation, macosx | https://github.com/kasper/phoenix
+BinarySearch | Create a room, invite your friends, and race to finish the problems. | co-coding, algo | https://binarysearch.io/
