@@ -306,3 +306,4 @@ MIT deep learning lectures ** | MIT deep learning series | mit, lectures | https
 ActionAI | Human pose estimation AI | pose-estimation | https://github.com/smellslikeml/ActionAI
 Music library ** | Tutorial for AI powered music library using TF2.0 | tf2.0, tutorial | https://blog.tensorflow.org/2020/01/building-ai-empowered-music-library-tensorflow.html
 Dataset search | Google dataset search | google, datasets | https://datasetsearch.research.google.com/
+Thinc | Functional take on deep learning, compatible with your favorite libraries | wrapper | https://thinc.ai/
