@@ -124,3 +124,4 @@ NodeBB | Node bulliten board | bb | https://github.com/NodeBB/NodeBB
 roundround | Round robin array iterator | array, lib | https://github.com/watson/roundround
 Flexsearch.js ** | Full text search lib for node and browser | browser, node, full-text | https://github.com/nextapps-de/flexsearch
 Agenda | Lightweight job scheduling for Node.js | scheduler | https://github.com/agenda/agenda
+Gateman | RBAC framework for Node apps using mongoose | rbac, mongoose, mongo | https://github.com/NwangwuOsitadinma/gateman
