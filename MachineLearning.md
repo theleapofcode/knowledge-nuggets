@@ -308,3 +308,6 @@ Music library ** | Tutorial for AI powered music library using TF2.0 | tf2.0, tu
 Dataset search | Google dataset search | google, datasets | https://datasetsearch.research.google.com/
 Thinc | Functional take on deep learning, compatible with your favorite libraries | wrapper | https://thinc.ai/
 Colab Pro ** | Google Colab pro | colab, paid | https://colab.research.google.com/signup
+DeepNote ** | Notebooks with collaboration | notebooks, tool | https://www.deepnote.com/
+Cancer tumour research | Cancer tumour reserach tools | tool, cancer | https://www.cbronline.com/industry/healthcare/open-source-cancer-cells/
+PlaidML ** | Deep learning compiler for Intel and AMD GPUs supporting Keras APIs | gpu, intel, keras | https://github.com/plaidml/plaidml, https://towardsdatascience.com/deep-learning-using-gpu-on-your-macbook-c9becba7c43
