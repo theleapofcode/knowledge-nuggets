@@ -134,3 +134,5 @@ Playcode | Online IDE for frontend | ide, online | https://playcode.io/
 Playwright ** | Node library to automate Chromium, Firefox and WebKit with a single API | automation, browser | https://github.com/microsoft/playwright
 Phoenix | A lightweight macOS/OS X window and app manager scriptable with JavaScript | automation, macosx | https://github.com/kasper/phoenix
 BinarySearch | Create a room, invite your friends, and race to finish the problems. | co-coding, algo | https://binarysearch.io/
+Jrnl | Command line tool for writing journals | cli, notes | https://jrnl.sh/
+OpenSK ** | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | security, hsm, google | https://github.com/google/OpenSK
