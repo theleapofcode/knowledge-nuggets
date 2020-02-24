@@ -48,3 +48,4 @@ Panel | Dashboarding for python | visualization, dashboard | https://panel.pyviz
 Data science handbook | Notebooks for datascience | notebook | https://github.com/jakevdp/PythonDataScienceHandbook
 Decorators | Tutorial on python decorators | decorator, tutorial | https://www.datacamp.com/community/tutorials/decorators-python
 PyMC | Probablistic programming in Python | probability | https://docs.pymc.io/
+TextStat | python package to calculate readability statistics of a text object - paragraphs, sentences, articles. | text | https://github.com/shivam5992/textstat
