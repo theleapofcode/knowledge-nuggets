@@ -30,6 +30,8 @@ Keycloak | IDP and access management framework | idp | https://www.keycloak.org/
 Node OIDC | OpenID node server and client | openid, idp, node | https://github.com/panva/node-oidc-provider, https://github.com/panva/node-openid-client
 Huggin ** | Agents to monitor and notify | ifttt, automation | https://github.com/huginn/huginn
 Self hosted list | List of all self hosted tools | self-hosted, list | https://selfhostedsource.tech/self-hosted/all
+Matrix | An open network for secure, decentralized communication | network | https://matrix.org/
+Librem | Privacy focused communication platform | communication, chat, social | https://librem.one/
 
 # Tools
 
@@ -136,3 +138,4 @@ Phoenix | A lightweight macOS/OS X window and app manager scriptable with JavaSc
 BinarySearch | Create a room, invite your friends, and race to finish the problems. | co-coding, algo | https://binarysearch.io/
 Jrnl | Command line tool for writing journals | cli, notes | https://jrnl.sh/
 OpenSK ** | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | security, hsm, google | https://github.com/google/OpenSK
+ProxyMan ** | Web proxy for debugging HTTP | proxy, debugging, http | https://proxyman.io/
