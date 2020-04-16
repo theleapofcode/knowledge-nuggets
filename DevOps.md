@@ -2,7 +2,6 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
-Free SSL cert | One domain free SSL certificate valid 90 days | ssl | https://www.instantssl.com/free-ssl-certificate.html
 OwnCloud | Opensource self-hosting alternative to dropbox/Gdrive | cloud, self-hosting | https://owncloud.org/
 SelfHosted | List of softwares that can be self hosted | list | https://github.com/Kickball/awesome-selfhosted
 Docker logging best practices | Docker logging | tutorial, docker, logging | https://dzone.com/articles/5-docker-logging-best-practices
@@ -45,3 +44,4 @@ Node.js kubernetes tutorial | Tutorial for kubernetes deployment of node.js app 
 OneDev ** | Complete DevOps platform like GitLab | devops, platform | https://github.com/theonedev/onedev 
 KubeLabs | Handson k8s online labs | k8s, online | https://collabnix.github.io/kubelabs/
 Spinnaker | Cloud Native Continuous Delivery | ci, cd | https://www.spinnaker.io/
+Dispatch ** | All of the ad-hoc things you're doing to manage incidents today, done for you, and much more! | automation, incidents, netflix | https://github.com/Netflix/dispatch
