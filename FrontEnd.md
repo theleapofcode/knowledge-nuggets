@@ -137,3 +137,7 @@ Craft.js | A React Framework for building extensible drag and drop page website 
 calcolor | Calculator for clolours | colour, css | https://calcolor.co/
 Mirage | Mirage JS is an API mocking library that lets you build, test and share a complete working JavaScript application without having to rely on any backend services. | mock, api | https://miragejs.com/
 Rough.js | Create graphics with a hand-drawn, sketchy, appearance | css, graphics | https://roughjs.com/
+Paged.js | HTML to PDF lib | lib, pdf | https://www.pagedjs.org/
+ImmerJS | Immutable JS | lib, immutable | https://immerjs.github.io/immer/docs/introduction
+Undraw ** | Open source illustrations | images, svg | https://undraw.co/
+VimeJS | HMTL5 video player | video, player | https://vime-js.com/
