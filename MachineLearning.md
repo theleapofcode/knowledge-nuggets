@@ -146,6 +146,7 @@ Stanford CNN course | CNN course by stanford | stanford, course, CNN | http://cs
 ML project walkthrough | A complete ML project walkthrough in python | walkthrough, best-practises | https://codequs.com/p/BkaLEq8r4/a-complete-machine-learning-project-walk-through-in-python
 Physionet | Datasets for medical usecases | medical, datasets | https://physionet.org/physiobank/database/
 ImmersiveMath ** | Interactive linear algebra tutorial | linear-algebra, visualize | http://immersivemath.com/ila/index.html, https://textbooks.math.gatech.edu/ila/index.html
+Better Explained ** | Intuitive guide to linear algebra | linear-algebra | https://betterexplained.com/articles/linear-algebra-guide/
 d2l.ai ** | Interactive book for learning DL | dl, book | http://d2l.ai/
 Awesome-public-datasets | Awesome list of public datasets | datasets, awesome-list | https://github.com/awesomedata/awesome-public-datasets
 HandTracking | Lib to track hand | hand-tracking | https://github.com/victordibia/handtracking
@@ -311,3 +312,4 @@ Colab Pro ** | Google Colab pro | colab, paid | https://colab.research.google.co
 DeepNote ** | Notebooks with collaboration | notebooks, tool | https://www.deepnote.com/
 Cancer tumour research | Cancer tumour reserach tools | tool, cancer | https://www.cbronline.com/industry/healthcare/open-source-cancer-cells/
 PlaidML ** | Deep learning compiler for Intel and AMD GPUs supporting Keras APIs | gpu, intel, keras | https://github.com/plaidml/plaidml, https://towardsdatascience.com/deep-learning-using-gpu-on-your-macbook-c9becba7c43
+Made with ML ** | ML intuitive tutorials | tutorial, notebooks | https://madewithml.com/, https://github.com/madewithml/lessons
