@@ -45,3 +45,4 @@ OneDev ** | Complete DevOps platform like GitLab | devops, platform | https://gi
 KubeLabs | Handson k8s online labs | k8s, online | https://collabnix.github.io/kubelabs/
 Spinnaker | Cloud Native Continuous Delivery | ci, cd | https://www.spinnaker.io/
 Dispatch ** | All of the ad-hoc things you're doing to manage incidents today, done for you, and much more! | automation, incidents, netflix | https://github.com/Netflix/dispatch
+Earthly | Automation for devops | automation | https://github.com/earthly/earthly
