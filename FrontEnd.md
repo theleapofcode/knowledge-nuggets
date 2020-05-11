@@ -141,3 +141,4 @@ Paged.js | HTML to PDF lib | lib, pdf | https://www.pagedjs.org/
 ImmerJS | Immutable JS | lib, immutable | https://immerjs.github.io/immer/docs/introduction
 Undraw ** | Open source illustrations | images, svg | https://undraw.co/
 VimeJS | HMTL5 video player | video, player | https://vime-js.com/
+i18n ally | Vue i18n framework | i18n, vue | https://github.com/antfu/i18n-ally
