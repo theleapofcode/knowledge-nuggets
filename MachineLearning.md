@@ -313,3 +313,5 @@ DeepNote ** | Notebooks with collaboration | notebooks, tool | https://www.deepn
 Cancer tumour research | Cancer tumour reserach tools | tool, cancer | https://www.cbronline.com/industry/healthcare/open-source-cancer-cells/
 PlaidML ** | Deep learning compiler for Intel and AMD GPUs supporting Keras APIs | gpu, intel, keras | https://github.com/plaidml/plaidml, https://towardsdatascience.com/deep-learning-using-gpu-on-your-macbook-c9becba7c43
 Made with ML ** | ML intuitive tutorials | tutorial, notebooks | https://madewithml.com/, https://github.com/madewithml/lessons
+Microscope | Lib to visualize neurons | visualization, openai | https://www.kdnuggets.com/2020/04/openai-open-sources-microscope-lucid-library-neural-networks.html
+
