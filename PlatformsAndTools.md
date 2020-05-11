@@ -139,3 +139,5 @@ BinarySearch | Create a room, invite your friends, and race to finish the proble
 Jrnl | Command line tool for writing journals | cli, notes | https://jrnl.sh/
 OpenSK ** | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | security, hsm, google | https://github.com/google/OpenSK
 ProxyMan ** | Web proxy for debugging HTTP | proxy, debugging, http | https://proxyman.io/
+PDF compressor | Compress PDF online | pdf | https://www.ilovepdf.com/compress_pdf
+
