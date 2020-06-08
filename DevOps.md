@@ -46,3 +46,5 @@ KubeLabs | Handson k8s online labs | k8s, online | https://collabnix.github.io/k
 Spinnaker | Cloud Native Continuous Delivery | ci, cd | https://www.spinnaker.io/
 Dispatch ** | All of the ad-hoc things you're doing to manage incidents today, done for you, and much more! | automation, incidents, netflix | https://github.com/Netflix/dispatch
 Earthly | Automation for devops | automation | https://github.com/earthly/earthly
+cdk8s ** | Define Kubernetes native apps and abstractions using object-oriented programming | k8s, oops | https://github.com/awslabs/cdk8s
+k8s tutorials | k8s tutorials | k8s, tutorials | https://github.com/justmeandopensource/kubernetes
