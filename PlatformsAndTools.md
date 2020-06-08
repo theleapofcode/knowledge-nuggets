@@ -32,6 +32,8 @@ Huggin ** | Agents to monitor and notify | ifttt, automation | https://github.co
 Self hosted list | List of all self hosted tools | self-hosted, list | https://selfhostedsource.tech/self-hosted/all
 Matrix | An open network for secure, decentralized communication | network | https://matrix.org/
 Librem | Privacy focused communication platform | communication, chat, social | https://librem.one/
+Github classroom | Course and assignment management platform | github, classes | https://classroom.github.com/
+
 
 # Tools
 
@@ -140,4 +142,9 @@ Jrnl | Command line tool for writing journals | cli, notes | https://jrnl.sh/
 OpenSK ** | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. | security, hsm, google | https://github.com/google/OpenSK
 ProxyMan ** | Web proxy for debugging HTTP | proxy, debugging, http | https://proxyman.io/
 PDF compressor | Compress PDF online | pdf | https://www.ilovepdf.com/compress_pdf
-
+ArogyaSetu | Arogya setu android source code | arogyasetu, android | https://github.com/nic-delhi/AarogyaSetu_Android
+Code server ** | VSCode in browser | vscode, ide | https://github.com/cdr/code-server
+knboard | Kanban board | kanban | https://github.com/rrebase/knboard
+Nginx config generator ** | UI based nginx config generator | nginx, do | https://www.digitalocean.com/community/tools/nginx
+codefence ** | Embeddable code editor and sandbox runner | code-editor, ide | https://codefence.io/
+code interview ** | Virtual interview platform with code editing and video conference | code-editor, webrtc | https://github.com/areebbeigh/codeinterview-backend
