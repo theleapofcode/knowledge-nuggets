@@ -148,3 +148,4 @@ knboard | Kanban board | kanban | https://github.com/rrebase/knboard
 Nginx config generator ** | UI based nginx config generator | nginx, do | https://www.digitalocean.com/community/tools/nginx
 codefence ** | Embeddable code editor and sandbox runner | code-editor, ide | https://codefence.io/
 code interview ** | Virtual interview platform with code editing and video conference | code-editor, webrtc | https://github.com/areebbeigh/codeinterview-backend
+audino ** | Audio annotation tool with features such as transcription and labeling which enables annotation for Voice Activity Detection (VAD), Diarization, Speaker Identification, Automated Speech Recognition, Emotion Recognition tasks and more | audio, speech | https://github.com/midas-research/audino
