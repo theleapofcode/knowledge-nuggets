@@ -44,3 +44,4 @@ Motion detection with JS | Motion detection with JS | tutorial, js, motion-detec
 Science based games | Science based games | science | https://github.com/stared/science-based-games-list
 Redpin | Indoor location tracking framework | location | http://redpin.org/
 MapBox | Indoor mapping service | location, service | https://www.mapbox.com/
+Parallax effect ** | Parallax effect in javascript using face tracking, can be a good improvement for 3d scenes | js, 3d, face-tracking | https://github.com/munrocket/parallax-effect
