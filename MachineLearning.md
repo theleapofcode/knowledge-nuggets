@@ -315,3 +315,8 @@ PlaidML ** | Deep learning compiler for Intel and AMD GPUs supporting Keras APIs
 Made with ML ** | ML intuitive tutorials | tutorial, notebooks | https://madewithml.com/, https://github.com/madewithml/lessons
 Microscope | Lib to visualize neurons | visualization, openai | https://www.kdnuggets.com/2020/04/openai-open-sources-microscope-lucid-library-neural-networks.html
 ceres-solver | A large scale non-linear optimization library | algo, c++ | https://github.com/ceres-solver/ceres-solver
+Interpretable AI ** | Book on interpretable AI | interpretable, book | https://christophm.github.io/interpretable-ml-book/
+R-CNN custom dataset ** | Training R-CNN on custom dataset | tutorial, rcnn, object-detection | https://towardsdatascience.com/training-a-tensorflow-faster-r-cnn-object-detection-model-on-your-own-dataset-b3b175708d6d
+Neuropod | DL interface compiling to TF, PyTorch etc | uber, dl | https://eng.uber.com/introducing-neuropod/
+AI Doctor ** | Chest Xray pneumonia model | pnemonia, xray, model | https://github.com/himanshu2406/Ai-Doctor
+SciSpacy ** | Medical NLP library | nlp, medical | https://github.com/allenai/scispacy
