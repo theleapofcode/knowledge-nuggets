@@ -126,3 +126,6 @@ Flexsearch.js ** | Full text search lib for node and browser | browser, node, fu
 Agenda | Lightweight job scheduling for Node.js | scheduler | https://github.com/agenda/agenda
 Gateman | RBAC framework for Node apps using mongoose | rbac, mongoose, mongo | https://github.com/NwangwuOsitadinma/gateman
 Best practises ** | Node.js best practises | best-practices, tutorial | https://github.com/goldbergyoni/nodebestpractices#readme
+Haredo ** | Node lib for RabbitMQ | rabbitmq | https://github.com/KristjanTammekivi/Haredo
+Super Expressive ** | Regex library written in natural language | regex | https://github.com/francisrstokes/super-expressive
+Bree ** | Node scheduling lib with support for cron, time etc | scheduler | https://jobscheduler.net
