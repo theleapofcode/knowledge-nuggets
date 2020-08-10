@@ -320,3 +320,6 @@ R-CNN custom dataset ** | Training R-CNN on custom dataset | tutorial, rcnn, obj
 Neuropod | DL interface compiling to TF, PyTorch etc | uber, dl | https://eng.uber.com/introducing-neuropod/
 AI Doctor ** | Chest Xray pneumonia model | pnemonia, xray, model | https://github.com/himanshu2406/Ai-Doctor
 SciSpacy ** | Medical NLP library | nlp, medical | https://github.com/allenai/scispacy
+Libra ** | Libra automates the end-to-end machine learning process in just one line of code. It is built for both non-technical users and software professionals of all kinds. | automl | https://github.com/Palashio/libra
+Elyra ** | AI centric extensions on JupyterLab | jupyter, ai | https://github.com/elyra-ai/elyra
+TF2 Object detection API | TF2 complaint object detection API | tf2, object-detection | https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html
