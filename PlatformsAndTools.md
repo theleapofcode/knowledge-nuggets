@@ -33,6 +33,7 @@ Self hosted list | List of all self hosted tools | self-hosted, list | https://s
 Matrix | An open network for secure, decentralized communication | network | https://matrix.org/
 Librem | Privacy focused communication platform | communication, chat, social | https://librem.one/
 Github classroom | Course and assignment management platform | github, classes | https://classroom.github.com/
+Microsoft Teams architecture | Architecture and design overview of Microsoft Teams | teams, architecture, tutorial | https://dev.to/inspire99/microsoft-teams-architecture-behind-scenes-of-75-million-daily-active-users-n39
 
 
 # Tools
@@ -149,3 +150,4 @@ Nginx config generator ** | UI based nginx config generator | nginx, do | https:
 codefence ** | Embeddable code editor and sandbox runner | code-editor, ide | https://codefence.io/
 code interview ** | Virtual interview platform with code editing and video conference | code-editor, webrtc | https://github.com/areebbeigh/codeinterview-backend
 audino ** | Audio annotation tool with features such as transcription and labeling which enables annotation for Voice Activity Detection (VAD), Diarization, Speaker Identification, Automated Speech Recognition, Emotion Recognition tasks and more | audio, speech | https://github.com/midas-research/audino
+Reactive Resumes ** | Resume builder | resume | https://rxresu.me/
