@@ -49,3 +49,4 @@ Earthly | Automation for devops | automation | https://github.com/earthly/earthl
 cdk8s ** | Define Kubernetes native apps and abstractions using object-oriented programming | k8s, oops | https://github.com/awslabs/cdk8s
 k8s tutorials | k8s tutorials | k8s, tutorials | https://github.com/justmeandopensource/kubernetes
 Lens ** | K8s IDE | k8s, ide | https://github.com/lensapp/lens
+Clutch ** | DevOps automation frmaework by Lyft | automation, lyft | https://clutch.sh/
