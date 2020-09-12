@@ -145,3 +145,7 @@ i18n ally | Vue i18n framework | i18n, vue | https://github.com/antfu/i18n-ally
 GridJS | Grid lib for Vue | grid, vue | https://gridjs.io/
 NoDesign ** | Tools for design for developers | ux, tools | https://nodesign.dev/
 GPU.js ** | GPU accelerated JS lib like numpy | gpu, numpy | https://gpu.rocks/#/
+Survey.js ** | Survey library | survey | https://github.com/surveyjs/survey-library
+Rome ** | Frontend tooling framework | tooling, build | https://romefrontend.dev/
+CindyJS | Mathematical modelling and animation framework | math, animation | https://cindyjs.org/
+
