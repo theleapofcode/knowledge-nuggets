@@ -225,7 +225,6 @@ Audio classification CNN | Audio clasification using CNN | audio, spectrogram, c
 DeepConnection | Deep learning model to classify relationship state in romantic couples from images and video | video, image, dnn | https://github.com/Bribak/DeepConnection
 Radam keras | Rectified Adam implementation in Keras | keras, radam, optimizer | https://github.com/titu1994/keras_rectified_adam
 Google Handtracking | Handtracking model from google | google, hand-tracking, model | https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html
-MediaPipe ** | cross-platform framework for building multimodel applied machine learning pipelines | framework, ml | https://github.com/google/mediapipe/
 Kannada MNIST | Kannada MNIST dataset | kannada, dataset | https://www.analyticsindiamag.com/kannada-makes-it-to-the-machine-learning-world-with-a-full-fledged-mnist-dataset/
 AI cheat sheet | Cheat sheet for all ML libraries | cheat-sheet, tf, pytorch, scikit-learn, numpy, pandas | https://aicheatsheets.com/
 FaceSwap | Deepfake faceswap | faceswap, deepfake | https://github.com/deepfakes/faceswap
@@ -323,3 +322,11 @@ SciSpacy ** | Medical NLP library | nlp, medical | https://github.com/allenai/sc
 Libra ** | Libra automates the end-to-end machine learning process in just one line of code. It is built for both non-technical users and software professionals of all kinds. | automl | https://github.com/Palashio/libra
 Elyra ** | AI centric extensions on JupyterLab | jupyter, ai | https://github.com/elyra-ai/elyra
 TF2 Object detection API | TF2 complaint object detection API | tf2, object-detection | https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html
+Music genre classification ** | Tutorial on music genre classification | music, tutorial | https://towardsdatascience.com/music-genre-classification-with-tensorflow-3de38f0d4dbb
+JupyterBook ** | Jupyter Book is an open source project for building beautiful, publication-quality books and documents from computational material | jupyter | https://jupyterbook.org/intro.html
+Snapcode ** | Take a picture of code and run it | code | https://github.com/sergeichestakov/snapcode
+CV recipes | CV recipes | microsoft, cv, recipes | https://github.com/microsoft/computervision-recipes
+FastMRI | MRI dataset | mri, dataset | https://github.com/facebookresearch/fastMRI/
+Chess AI | Chess AI | chess, reinforcement-learning | https://towardsdatascience.com/creating-a-chess-ai-using-deep-learning-d5278ea7dcf
+Invoicenet | Deep neural network to extract intelligent information from invoice documents | invoice | https://github.com/naiveHobo/InvoiceNet
+MediaPipe ** | cross-platform framework for building multimodel applied machine learning pipelines | framework, ml, face-detection, depth-detection | https://github.com/google/mediapipe/, https://google.github.io/mediapipe/, https://analyticsindiamag.com/the-tech-behind-googles-ml-solution-for-accurate-depth-estimation/
