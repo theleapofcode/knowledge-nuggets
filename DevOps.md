@@ -50,3 +50,7 @@ cdk8s ** | Define Kubernetes native apps and abstractions using object-oriented 
 k8s tutorials | k8s tutorials | k8s, tutorials | https://github.com/justmeandopensource/kubernetes
 Lens ** | K8s IDE | k8s, ide | https://github.com/lensapp/lens
 Clutch ** | DevOps automation frmaework by Lyft | automation, lyft | https://clutch.sh/
+Argo CD ** | declarative, GitOps continuous delivery tool for Kubernetes | gitops, k8s, tool | https://argoproj.github.io/argo-cd/
+Gitpod ** | Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code | ide, vscode | https://github.com/gitpod-io/gitpod
+k8s-examples | Minimal self-contained examples of standard Kubernetes features and patterns in YAML | tutorial | https://github.com/ContainerSolutions/kubernetes-examples
+Git best practices | Git commit and changelog best practices | git, best-practices | https://herewecode.io/blog/a-beginners-guide-to-git-how-to-write-a-good-commit-message/, https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/
