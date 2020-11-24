@@ -35,3 +35,4 @@ Video conference recorder using WebRTC | WebRTC recording client side | tutorial
 Screen recording with audio | Screen recording with audio in chrome | chrome, screen | https://blog.addpipe.com/screen-recording-with-system-sounds-in-chrome/
 Big Blue Button ** | Web conferencing system foucsed on education | platform, education | https://github.com/bigbluebutton/bigbluebutton
 WebRTC book ** | Detailed book on webrtc | book | https://webrtcforthecurious.com/
+WaveShare ** | Serverless, peer-to-peer, local file sharing through sound | file-share, p2p | https://github.com/ggerganov/wave-share
