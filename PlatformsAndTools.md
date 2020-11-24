@@ -153,3 +153,9 @@ code interview ** | Virtual interview platform with code editing and video confe
 audino ** | Audio annotation tool with features such as transcription and labeling which enables annotation for Voice Activity Detection (VAD), Diarization, Speaker Identification, Automated Speech Recognition, Emotion Recognition tasks and more | audio, speech | https://github.com/midas-research/audino
 Reactive Resumes ** | Resume builder | resume | https://rxresu.me/
 Archivy ** | self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank | bookmarks, knowledge | https://github.com/Uzay-G/archivy
+Wireflow | user flow chart real-time collaborative tool | flowchart | https://github.com/vanila-io/wireflow
+HandsFreeCoding ** | Tutorial on hands free coding with speech and eye tracking | speech, coding | https://www.joshwcomeau.com/blog/hands-free-coding/
+Dendron | Note taking tool | notes | https://www.dendron.so/
+Polar ** | Knowledge repository | notes, knowledge | https://getpolarized.io/
+Vorlon ** | An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io | debugger. socket | http://vorlonjs.com/
+Sceenity ** | The most powerful screen recorder & annotation tool for Chrome | screen-record, chrome | https://github.com/alyssaxuu/screenity
