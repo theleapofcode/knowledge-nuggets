@@ -50,3 +50,4 @@ Decorators | Tutorial on python decorators | decorator, tutorial | https://www.d
 PyMC | Probablistic programming in Python | probability | https://docs.pymc.io/
 TextStat | python package to calculate readability statistics of a text object - paragraphs, sentences, articles. | text | https://github.com/shivam5992/textstat
 Face2Data | Extract features like gender, race, age from face image | face | https://github.com/rodrigobressan/face2data
+PySDR | Software defined radio and DSP in python | dsp, sdr | https://pysdr.org/index.html
