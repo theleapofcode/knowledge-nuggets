@@ -330,3 +330,9 @@ FastMRI | MRI dataset | mri, dataset | https://github.com/facebookresearch/fastM
 Chess AI | Chess AI | chess, reinforcement-learning | https://towardsdatascience.com/creating-a-chess-ai-using-deep-learning-d5278ea7dcf
 Invoicenet | Deep neural network to extract intelligent information from invoice documents | invoice | https://github.com/naiveHobo/InvoiceNet
 MediaPipe ** | cross-platform framework for building multimodel applied machine learning pipelines | framework, ml, face-detection, depth-detection | https://github.com/google/mediapipe/, https://google.github.io/mediapipe/, https://analyticsindiamag.com/the-tech-behind-googles-ml-solution-for-accurate-depth-estimation/
+GPU buying guide | GPU buying guide | gpu, benchmark | https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/
+ColabConnect ** | Links your local machine to Google Colab for hassle-free GPU enabled development | colab | https://github.com/aayush1205/Colab-Connect
+igel | a delightful machine learning tool that allows you to train, test and use models without writing code | codeless, training | https://github.com/nidhaloff/igel
+AI study roadmap ** | AI study roadmap | study, roadmap | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+Lobe ** | ML training app with images | cv, ml | https://lobe.ai/
+Memorai | AI memory assistant – remember everything you read | nlp, question | https://github.com/humanloop/memorai
