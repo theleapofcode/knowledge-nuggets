@@ -36,3 +36,7 @@ Screen recording with audio | Screen recording with audio in chrome | chrome, sc
 Big Blue Button ** | Web conferencing system foucsed on education | platform, education | https://github.com/bigbluebutton/bigbluebutton
 WebRTC book ** | Detailed book on webrtc | book | https://webrtcforthecurious.com/
 WaveShare ** | Serverless, peer-to-peer, local file sharing through sound | file-share, p2p | https://github.com/ggerganov/wave-share
+iOS webrtc PWA ** | Tutorial of iOS PWA app using webrtc | ios, pwa | https://blog.bitsrc.io/how-to-build-a-simple-ios-home-screen-pwa-camera-using-vue-tailwind-and-webrtc-on-codepen-2d61a9754d47
+Coturn security fix ** | Coturn default access security risk | coturn, security | https://www.rtcsec.com/post/2021/01/details-about-cve-2020-26262-bypass-of-coturns-default-access-control-protection/
+Deskreen ** | Deskreen turns any device with a web browser into a secondary screen for your computer | screen-share | https://github.com/pavlobu/deskreen
+
