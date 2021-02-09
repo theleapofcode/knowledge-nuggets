@@ -148,4 +148,5 @@ GPU.js ** | GPU accelerated JS lib like numpy | gpu, numpy | https://gpu.rocks/#
 Survey.js ** | Survey library | survey | https://github.com/surveyjs/survey-library
 Rome ** | Frontend tooling framework | tooling, build | https://romefrontend.dev/
 CindyJS | Mathematical modelling and animation framework | math, animation | https://cindyjs.org/
-
+Shuffle ** | WYSIWUG editor for generating UI code | wysiwg, ui-generator | https://shuffle.dev/
+Pace ** | Automatically add progress bars to websites | progress-bar | https://github.com/CodeByZach/pace
