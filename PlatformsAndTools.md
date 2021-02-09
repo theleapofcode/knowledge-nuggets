@@ -36,6 +36,9 @@ Github classroom | Course and assignment management platform | github, classes |
 Microsoft Teams architecture | Architecture and design overview of Microsoft Teams | teams, architecture, tutorial | https://dev.to/inspire99/microsoft-teams-architecture-behind-scenes-of-75-million-daily-active-users-n39
 Chaskiq | Open Source conversational Marketing alternative to Intercom, Drift, Zendesk | crm, chatbot | https://github.com/chaskiq/chaskiq
 CryptPad | Open source alternative to Google docs | collaboration, docs | https://github.com/xwiki-labs/cryptpad
+Boltstream ** | Streaming platform like restreamer | streaming | https://github.com/benwilber/boltstream
+Owncast | Streaming platform | streaming | https://github.com/owncast/owncast
+MKDocs ** | Documentation generator using markdown | documentation, markdown | https://www.mkdocs.org/
 
 # Tools
 
@@ -159,3 +162,5 @@ Dendron | Note taking tool | notes | https://www.dendron.so/
 Polar ** | Knowledge repository | notes, knowledge | https://getpolarized.io/
 Vorlon ** | An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io | debugger. socket | http://vorlonjs.com/
 Sceenity ** | The most powerful screen recorder & annotation tool for Chrome | screen-record, chrome | https://github.com/alyssaxuu/screenity
+Serenade ** | Code with voice | ide, speech-to-text | https://serenade.ai/
+Please | Build management system | build, jenkins | https://please.build/
