@@ -56,3 +56,4 @@ k8s-examples | Minimal self-contained examples of standard Kubernetes features a
 Git best practices | Git commit and changelog best practices | git, best-practices | https://herewecode.io/blog/a-beginners-guide-to-git-how-to-write-a-good-commit-message/, https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/
 WayPoint | Waypoint provides a modern workflow to build, deploy, and release across platforms | ci, cd, hasicorp | https://www.waypointproject.io/
 FreePN | open-source peer-to-peer VPN service | vpn, p2p | https://www.freepn.org/
+Packer | Packer is a tool for creating identical machine images for multiple platforms from a single source configuration | build | https://github.com/hashicorp/packer
