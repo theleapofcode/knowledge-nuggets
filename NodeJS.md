@@ -129,3 +129,4 @@ Best practises ** | Node.js best practises | best-practices, tutorial | https://
 Haredo ** | Node lib for RabbitMQ | rabbitmq | https://github.com/KristjanTammekivi/Haredo
 Super Expressive ** | Regex library written in natural language | regex | https://github.com/francisrstokes/super-expressive
 Bree ** | Node scheduling lib with support for cron, time etc | scheduler | https://jobscheduler.net
+Amplification ** | Generate node.js applications without code | code-generator, react, admin | https://github.com/amplication/amplication
