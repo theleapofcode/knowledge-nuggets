@@ -336,3 +336,7 @@ igel | a delightful machine learning tool that allows you to train, test and use
 AI study roadmap ** | AI study roadmap | study, roadmap | https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 Lobe ** | ML training app with images | cv, ml | https://lobe.ai/
 Memorai | AI memory assistant – remember everything you read | nlp, question | https://github.com/humanloop/memorai
+ArtLine | Turning photos into line art | image, art | https://github.com/vijishmadhavan/ArtLine
+Depix ** | Recover text from pixelated photos | image | https://github.com/beurtschipper/Depix
+deep daze | Text to image generation | cli, text-to-image, openai | https://github.com/lucidrains/deep-daze
+EasyNMT ** | Easy to use, state-of-the-art Neural Machine Translation for 100+ languages | translation | https://github.com/UKPLab/EasyNMT
