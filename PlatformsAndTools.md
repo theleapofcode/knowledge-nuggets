@@ -164,3 +164,4 @@ Vorlon ** | An open source, extensible, platform-agnostic tool for remotely debu
 Sceenity ** | The most powerful screen recorder & annotation tool for Chrome | screen-record, chrome | https://github.com/alyssaxuu/screenity
 Serenade ** | Code with voice | ide, speech-to-text | https://serenade.ai/
 Please | Build management system | build, jenkins | https://please.build/
+FreeForDev ** | List of free services for developers | saas, free | https://free-for.dev/
