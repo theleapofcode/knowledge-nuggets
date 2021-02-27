@@ -130,3 +130,6 @@ Haredo ** | Node lib for RabbitMQ | rabbitmq | https://github.com/KristjanTammek
 Super Expressive ** | Regex library written in natural language | regex | https://github.com/francisrstokes/super-expressive
 Bree ** | Node scheduling lib with support for cron, time etc | scheduler | https://jobscheduler.net
 Amplification ** | Generate node.js applications without code | code-generator, react, admin | https://github.com/amplication/amplication
+Oso | Authz rules based library | authz, lib | https://www.osohq.com/
+PKCS11.js | A Node.js implementation of the PKCS#11 2.3 interface. (Keywords: Javascript, PKCS#11, Crypto, Smart Card, HSM) | security, crypto, hsm | https://github.com/PeculiarVentures/pkcs11js
+Allserver ** | Multi-transport and multi-protocol simple RPC server and (optional) client. Boilerplate-less. Opinionated. Minimalistic. DX-first. | http, grpc, websocket | https://github.com/flash-oss/allserver
