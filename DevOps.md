@@ -57,3 +57,4 @@ Git best practices | Git commit and changelog best practices | git, best-practic
 WayPoint | Waypoint provides a modern workflow to build, deploy, and release across platforms | ci, cd, hasicorp | https://www.waypointproject.io/
 FreePN | open-source peer-to-peer VPN service | vpn, p2p | https://www.freepn.org/
 Packer | Packer is a tool for creating identical machine images for multiple platforms from a single source configuration | build | https://github.com/hashicorp/packer
+Cockpit ** | Web UI for server management | server, ui | https://cockpit-project.org/
