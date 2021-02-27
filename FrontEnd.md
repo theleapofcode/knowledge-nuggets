@@ -150,3 +150,5 @@ Rome ** | Frontend tooling framework | tooling, build | https://romefrontend.dev
 CindyJS | Mathematical modelling and animation framework | math, animation | https://cindyjs.org/
 Shuffle ** | WYSIWUG editor for generating UI code | wysiwg, ui-generator | https://shuffle.dev/
 Pace ** | Automatically add progress bars to websites | progress-bar | https://github.com/CodeByZach/pace
+Simple keyboard | On screen virtual keyboard | keyboard | https://virtual-keyboard.js.org/
+Penpot ** | Web design tool | wysiwyg, design | https://penpot.app/
