@@ -340,3 +340,7 @@ ArtLine | Turning photos into line art | image, art | https://github.com/vijishm
 Depix ** | Recover text from pixelated photos | image | https://github.com/beurtschipper/Depix
 deep daze | Text to image generation | cli, text-to-image, openai | https://github.com/lucidrains/deep-daze
 EasyNMT ** | Easy to use, state-of-the-art Neural Machine Translation for 100+ languages | translation | https://github.com/UKPLab/EasyNMT
+Openchat ** | RASA like chatbot framework | chatbot | https://github.com/hyunwoongko/openchat
+Flower | Federated learning framework | federated-learning | https://flower.dev/
+OpenAI powered linux shell | OpenAI powered linux shell | linux, nlp | https://riveducha.onfabrica.com/openai-powered-linux-shell
+OpenVisionAPI | CV framework | cv | https://openvisionapi.com/
