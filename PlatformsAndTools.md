@@ -39,6 +39,9 @@ CryptPad | Open source alternative to Google docs | collaboration, docs | https:
 Boltstream ** | Streaming platform like restreamer | streaming | https://github.com/benwilber/boltstream
 Owncast | Streaming platform | streaming | https://github.com/owncast/owncast
 MKDocs ** | Documentation generator using markdown | documentation, markdown | https://www.mkdocs.org/
+Open source alternatives | List of open source alternatives | list | https://github.com/GorvGoyl/Clone-Wars
+FocalBoard ** | Open source alternative to Trello, notion | project-management | https://www.focalboard.com/
+Zulip | Chat platform | chat | https://github.com/zulip/zulip
 
 # Tools
 
@@ -165,3 +168,5 @@ Sceenity ** | The most powerful screen recorder & annotation tool for Chrome | s
 Serenade ** | Code with voice | ide, speech-to-text | https://serenade.ai/
 Please | Build management system | build, jenkins | https://please.build/
 FreeForDev ** | List of free services for developers | saas, free | https://free-for.dev/
+Nodes | Programmable visualization tool | visualization | https://nodes.io/
+Flameshot | Screenshot and annotation tool | screenshot | https://github.com/flameshot-org/flameshot
