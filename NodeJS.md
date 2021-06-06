@@ -133,3 +133,6 @@ Amplification ** | Generate node.js applications without code | code-generator, 
 Oso | Authz rules based library | authz, lib | https://www.osohq.com/
 PKCS11.js | A Node.js implementation of the PKCS#11 2.3 interface. (Keywords: Javascript, PKCS#11, Crypto, Smart Card, HSM) | security, crypto, hsm | https://github.com/PeculiarVentures/pkcs11js
 Allserver ** | Multi-transport and multi-protocol simple RPC server and (optional) client. Boilerplate-less. Opinionated. Minimalistic. DX-first. | http, grpc, websocket | https://github.com/flash-oss/allserver
+Agenda ** | Lightweight job scheduling for Node.js | scheduling, mongo | https://github.com/agenda/agenda
+node-tessarect-ocr | Nodejs wrapper for tessarect ocr | ocr | https://github.com/zapolnoch/node-tesseract-ocr
+zx ** | Tool for writing bash scripts using JS | scripting | https://github.com/google/zx
