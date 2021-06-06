@@ -152,3 +152,4 @@ Shuffle ** | WYSIWUG editor for generating UI code | wysiwg, ui-generator | http
 Pace ** | Automatically add progress bars to websites | progress-bar | https://github.com/CodeByZach/pace
 Simple keyboard | On screen virtual keyboard | keyboard | https://virtual-keyboard.js.org/
 Penpot ** | Web design tool | wysiwyg, design | https://penpot.app/
+Packaging Vue for npm | Tutorial for packaging Vue components for npm | vue, packaging, npm | https://vuejs.org/v2/cookbook/packaging-sfc-for-npm.html
