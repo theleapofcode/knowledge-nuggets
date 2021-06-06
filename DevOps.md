@@ -58,3 +58,6 @@ WayPoint | Waypoint provides a modern workflow to build, deploy, and release acr
 FreePN | open-source peer-to-peer VPN service | vpn, p2p | https://www.freepn.org/
 Packer | Packer is a tool for creating identical machine images for multiple platforms from a single source configuration | build | https://github.com/hashicorp/packer
 Cockpit ** | Web UI for server management | server, ui | https://cockpit-project.org/
+Porter ** | Kubernetes powered PaaS | k8s, paas | https://github.com/porter-dev/porter
+Netdata ** | Performance monitoring platform | monitoring | https://github.com/netdata/netdata
+Ahoy | GUI for helm | k8s, helm | https://github.com/oslabs-beta/Ahoy
