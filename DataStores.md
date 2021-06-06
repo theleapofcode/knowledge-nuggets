@@ -34,3 +34,4 @@ MiniMongo | Mongo offline sync | mongo, sync | https://github.com/mWater/minimon
 FoundationDB | Distributed multi-modal store with ACID support | apple, distributed, acid | https://www.foundationdb.org/
 SaffireDB | OpenSource Firebase equivalent | firebase, realtime | https://sapphire-db.com/start/main
 TypeSense | Typesense is a fast, typo-tolerant search engine for building delightful search experiences. | search | https://github.com/typesense/typesense
+OpenSearch ** | Open source version of elasticsearch | elastic | https://github.com/opensearch-project/OpenSearch
