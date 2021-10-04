@@ -2,7 +2,7 @@
 
 Title | Description | Tags | Link
 ------------ | ------------- | ---------- | --------------
-Bokeh | Python charting lib | python, charts | https://github.com/bokeh/bokeh
+Bokeh | Python charting lib | charts | https://github.com/bokeh/bokeh
 VirtualEnv python upgrade | Fix venv symlinks upon python upgrade | venv, python | https://gist.github.com/porterjamesj/36051aea629be28bbd6f9f071007b35c
 Python cheatsheet | Cheatsheet for python | cheatsheet | https://gto76.github.io/python-cheatsheet/
 Prefect | Workflow management tool | automation, data-science | https://github.com/prefecthq/prefect
@@ -51,3 +51,4 @@ PyMC | Probablistic programming in Python | probability | https://docs.pymc.io/
 TextStat | python package to calculate readability statistics of a text object - paragraphs, sentences, articles. | text | https://github.com/shivam5992/textstat
 Face2Data | Extract features like gender, race, age from face image | face | https://github.com/rodrigobressan/face2data
 PySDR | Software defined radio and DSP in python | dsp, sdr | https://pysdr.org/index.html
+Kats | Time series analysis lib | time-series | https://facebookresearch.github.io/Kats/
