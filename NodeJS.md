@@ -136,3 +136,7 @@ Allserver ** | Multi-transport and multi-protocol simple RPC server and (optiona
 Agenda ** | Lightweight job scheduling for Node.js | scheduling, mongo | https://github.com/agenda/agenda
 node-tessarect-ocr | Nodejs wrapper for tessarect ocr | ocr | https://github.com/zapolnoch/node-tesseract-ocr
 zx ** | Tool for writing bash scripts using JS | scripting | https://github.com/google/zx
+FlexSearch ** | Full text search for browser and node | full-text | https://github.com/nextapps-de/flexsearch
+Hyperform ** | Serverless framework | serverless | https://github.com/hyperform-dev/hyperform
+wait-on ** | CLI and node lib for waiting on files, sockets etc | wait | https://github.com/jeffbski/wait-on
+Natifier ** | Turn any webpage into electorn app | electron | https://github.com/nativefier/nativefier
