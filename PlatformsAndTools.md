@@ -170,3 +170,8 @@ Please | Build management system | build, jenkins | https://please.build/
 FreeForDev ** | List of free services for developers | saas, free | https://free-for.dev/
 Nodes | Programmable visualization tool | visualization | https://nodes.io/
 Flameshot | Screenshot and annotation tool | screenshot | https://github.com/flameshot-org/flameshot
+Pathfinding visualizer | Visualize path finding algos | algo, path | https://josephprichard.github.io/Pathfinder/
+Notegarden | Note taking app | notes | https://notegarden.web.app/
+Pipewire | Audio video processing in linux | linux, media | https://pipewire.org/
+nginx playground ** | nginx config testing in browser | nginx | https://nginx-playground.wizardzines.com/
+
