@@ -153,3 +153,5 @@ Pace ** | Automatically add progress bars to websites | progress-bar | https://g
 Simple keyboard | On screen virtual keyboard | keyboard | https://virtual-keyboard.js.org/
 Penpot ** | Web design tool | wysiwyg, design | https://penpot.app/
 Packaging Vue for npm | Tutorial for packaging Vue components for npm | vue, packaging, npm | https://vuejs.org/v2/cookbook/packaging-sfc-for-npm.html
+MathJax | Math display engine for browsers | math | https://www.mathjax.org/
+MotionOne | Web animations lib | animation | https://motion.dev/
