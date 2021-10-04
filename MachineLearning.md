@@ -344,3 +344,8 @@ Openchat ** | RASA like chatbot framework | chatbot | https://github.com/hyunwoo
 Flower | Federated learning framework | federated-learning | https://flower.dev/
 OpenAI powered linux shell | OpenAI powered linux shell | linux, nlp | https://riveducha.onfabrica.com/openai-powered-linux-shell
 OpenVisionAPI | CV framework | cv | https://openvisionapi.com/
+OpenSpeech ** | Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra | speech, pytorch | https://github.com/openspeech-team/openspeech
+Handsfree.js ** | Build handsfree User Experiences and add face, hand, and pose tracking to your projects in a snap | pose, hands, face | https://handsfree.js.org
+Augly ** | ata augmentation for audio, video, image, text | data-augmentation, facebook | https://github.com/facebookresearch/AugLy
+Image to Latex | Image to equation converter | math | https://github.com/kingyiusuen/image-to-latex
+Self parking car | Tutorial on self parking car with genetic algo | genetic | https://trekhleb.dev/blog/2021/self-parking-car-evolution/
