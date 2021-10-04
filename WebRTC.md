@@ -40,3 +40,4 @@ iOS webrtc PWA ** | Tutorial of iOS PWA app using webrtc | ios, pwa | https://bl
 Coturn security fix ** | Coturn default access security risk | coturn, security | https://www.rtcsec.com/post/2021/01/details-about-cve-2020-26262-bypass-of-coturns-default-access-control-protection/
 Deskreen ** | Deskreen turns any device with a web browser into a secondary screen for your computer | screen-share | https://github.com/pavlobu/deskreen
 Insertable streams | Insertable streams for MediaStreamTrack | stream | https://web.dev/mediastreamtrack-insertable-media-processing/
+Video background ** | Edit live video background with tfjs | tfjs, tutorial | https://blog.francium.tech/edit-live-video-background-with-webrtc-and-tensorflow-js-c67f92307ac5
