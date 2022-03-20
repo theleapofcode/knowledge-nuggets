@@ -155,3 +155,4 @@ Penpot ** | Web design tool | wysiwyg, design | https://penpot.app/
 Packaging Vue for npm | Tutorial for packaging Vue components for npm | vue, packaging, npm | https://vuejs.org/v2/cookbook/packaging-sfc-for-npm.html
 MathJax | Math display engine for browsers | math | https://www.mathjax.org/
 MotionOne | Web animations lib | animation | https://motion.dev/
+Ninja keys | Keyboard shortcuts for website | keyboard shortcut | https://github.com/ssleptsov/ninja-keys
