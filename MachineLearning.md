@@ -349,3 +349,4 @@ Handsfree.js ** | Build handsfree User Experiences and add face, hand, and pose 
 Augly ** | ata augmentation for audio, video, image, text | data-augmentation, facebook | https://github.com/facebookresearch/AugLy
 Image to Latex | Image to equation converter | math | https://github.com/kingyiusuen/image-to-latex
 Self parking car | Tutorial on self parking car with genetic algo | genetic | https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+DeepSpeech Tutorial ** | Tutorial on deepspeech | deepspeech | https://www.assemblyai.com/blog/deepspeech-for-dummies-a-tutorial-and-overview-part-1/
