@@ -11,3 +11,4 @@ HashGraph intro | Hanshgraph intro | hashgraph | http://www.thehindu.com/sci-tec
 BAT | Basic attention token | advertizing | https://basicattentiontoken.org/
 MedicalChain ** | BlockChain for storing medical data | medical, EMR | https://medicalchain.com/en/
 datdata | P2P data sharing framework | data-sharing | https://datproject.org/
+NFT marketplace ** | Tutorial on how to build an NFT marketplace | nft, etherium | https://blog.tatum.io/how-to-build-nft-marketplaces-part-1-frontend-and-user-journey-9b5c92af838a
