@@ -156,3 +156,4 @@ Packaging Vue for npm | Tutorial for packaging Vue components for npm | vue, pac
 MathJax | Math display engine for browsers | math | https://www.mathjax.org/
 MotionOne | Web animations lib | animation | https://motion.dev/
 Ninja keys | Keyboard shortcuts for website | keyboard shortcut | https://github.com/ssleptsov/ninja-keys
+Sharer | lightweight js lib to create custom social share components on DOM elements for your website. No dependencies | social | https://ellisonleao.github.io/sharer.js/
