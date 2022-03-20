@@ -37,3 +37,4 @@ TypeSense | Typesense is a fast, typo-tolerant search engine for building deligh
 OpenSearch ** | Open source version of elasticsearch | elastic | https://github.com/opensearch-project/OpenSearch
 SpiceDB | SpiceDB is an open source database system for managing security-critical application permissions | permissions | https://github.com/authzed/spicedb
 Cogram | Cogram translates plain English into database queries | sql, ml | https://www.cogram.com/
+ImmuDB ** | immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history | immutable | https://github.com/codenotary/immudb
