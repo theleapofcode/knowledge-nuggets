@@ -44,6 +44,7 @@ FocalBoard ** | Open source alternative to Trello, notion | project-management |
 Zulip | Chat platform | chat | https://github.com/zulip/zulip
 Veniqa ** | Opensource e-commerce platform | e-commerce | https://www.veniqa.com/
 AppFlowy ** | Open source Notion alternative | notes | https://github.com/AppFlowy-IO/appflowy
+DopplerTask ** | A revolutionary open-source automation tool | automation, ifttt | https://github.com/dopplertask/dopplertask
 
 # Tools
 
