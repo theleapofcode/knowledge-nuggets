@@ -42,6 +42,7 @@ MKDocs ** | Documentation generator using markdown | documentation, markdown | h
 Open source alternatives | List of open source alternatives | list | https://github.com/GorvGoyl/Clone-Wars
 FocalBoard ** | Open source alternative to Trello, notion | project-management | https://www.focalboard.com/
 Zulip | Chat platform | chat | https://github.com/zulip/zulip
+Veniqa ** | Opensource e-commerce platform | e-commerce | https://www.veniqa.com/
 
 # Tools
 
@@ -174,4 +175,4 @@ Pathfinding visualizer | Visualize path finding algos | algo, path | https://jos
 Notegarden | Note taking app | notes | https://notegarden.web.app/
 Pipewire | Audio video processing in linux | linux, media | https://pipewire.org/
 nginx playground ** | nginx config testing in browser | nginx | https://nginx-playground.wizardzines.com/
-
+Kafka UI | UI for kafka management | kafka | https://github.com/provectus/kafka-ui
