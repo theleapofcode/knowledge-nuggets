@@ -36,3 +36,4 @@ SaffireDB | OpenSource Firebase equivalent | firebase, realtime | https://sapphi
 TypeSense | Typesense is a fast, typo-tolerant search engine for building delightful search experiences. | search | https://github.com/typesense/typesense
 OpenSearch ** | Open source version of elasticsearch | elastic | https://github.com/opensearch-project/OpenSearch
 SpiceDB | SpiceDB is an open source database system for managing security-critical application permissions | permissions | https://github.com/authzed/spicedb
+Cogram | Cogram translates plain English into database queries | sql, ml | https://www.cogram.com/
