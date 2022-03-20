@@ -178,3 +178,4 @@ Pipewire | Audio video processing in linux | linux, media | https://pipewire.org
 nginx playground ** | nginx config testing in browser | nginx | https://nginx-playground.wizardzines.com/
 Kafka UI | UI for kafka management | kafka | https://github.com/provectus/kafka-ui
 IconKitchen ** | App icon generator | app, icons | https://icon.kitchen/
+Tabby | A terminal for a more modern age | terminal | https://github.com/Eugeny/tabby
