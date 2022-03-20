@@ -63,3 +63,4 @@ Netdata ** | Performance monitoring platform | monitoring | https://github.com/n
 Ahoy | GUI for helm | k8s, helm | https://github.com/oslabs-beta/Ahoy
 Kube-fledged | A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly | k8s, images | https://github.com/senthilrch/kube-fledged
 Karpenter | Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity | k8s, scaling | https://github.com/aws/karpenter
+Kr8s ** | K8s visualization tool | k8s, visualization | https://github.com/oslabs-beta/kr8s
