@@ -142,3 +142,4 @@ wait-on ** | CLI and node lib for waiting on files, sockets etc | wait | https:/
 Natifier ** | Turn any webpage into electorn app | electron | https://github.com/nativefier/nativefier
 Algorithms ** | Algos and data structures in JS | algo | https://github.com/trekhleb/javascript-algorithms
 RobotJS ** | Desktop automation | automation | http://robotjs.io/
+Bree ** | Job scheduler | jobs | https://jobscheduler.net/
