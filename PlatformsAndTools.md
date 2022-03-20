@@ -45,6 +45,7 @@ Zulip | Chat platform | chat | https://github.com/zulip/zulip
 Veniqa ** | Opensource e-commerce platform | e-commerce | https://www.veniqa.com/
 AppFlowy ** | Open source Notion alternative | notes | https://github.com/AppFlowy-IO/appflowy
 DopplerTask ** | A revolutionary open-source automation tool | automation, ifttt | https://github.com/dopplertask/dopplertask
+HomeLab ** | Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services | infra, home | https://github.com/khuedoan/homelab
 
 # Tools
 
