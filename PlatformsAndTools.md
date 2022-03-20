@@ -181,3 +181,4 @@ nginx playground ** | nginx config testing in browser | nginx | https://nginx-pl
 Kafka UI | UI for kafka management | kafka | https://github.com/provectus/kafka-ui
 IconKitchen ** | App icon generator | app, icons | https://icon.kitchen/
 Tabby | A terminal for a more modern age | terminal | https://github.com/Eugeny/tabby
+NRich ** | A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline. | security, cli | https://gitlab.com/shodan-public/nrich
