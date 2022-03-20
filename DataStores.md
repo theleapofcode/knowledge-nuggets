@@ -39,3 +39,4 @@ SpiceDB | SpiceDB is an open source database system for managing security-critic
 Cogram | Cogram translates plain English into database queries | sql, ml | https://www.cogram.com/
 ImmuDB ** | immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history | immutable | https://github.com/codenotary/immudb
 TDEngine | An open-source time-series database | timeseries | https://github.com/taosdata/TDengine
+Redis-smq ** | Redis based message queue | redis, mq | https://github.com/weyoss/redis-smq
