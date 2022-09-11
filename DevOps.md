@@ -65,3 +65,7 @@ Kube-fledged | A kubernetes operator for creating and managing a cache of contai
 Karpenter | Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity | k8s, scaling | https://github.com/aws/karpenter
 Kr8s ** | K8s visualization tool | k8s, visualization | https://github.com/oslabs-beta/kr8s
 KubeSphere ** | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management | k8s, management | https://github.com/kubesphere/kubesphere
+Geyfra | K8s local dev environment | k8s, local | https://github.com/gefyrahq/gefyra
+PacketStreamer | Distributed tcpdump for cloud native environments | tcpdump, debug | https://github.com/deepfence/PacketStreamer
+
+
