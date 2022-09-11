@@ -351,3 +351,6 @@ Image to Latex | Image to equation converter | math | https://github.com/kingyiu
 Self parking car | Tutorial on self parking car with genetic algo | genetic | https://trekhleb.dev/blog/2021/self-parking-car-evolution/
 DeepSpeech Tutorial ** | Tutorial on deepspeech | deepspeech | https://www.assemblyai.com/blog/deepspeech-for-dummies-a-tutorial-and-overview-part-1/
 Gradio ** | Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it | ui | https://gradio.app/
+MetaRank | A low code Machine Learning service that personalizes articles, listings, search results, recommendations to boost user engagement. A friendly Learn-to-Rank engine | personalization, ranking | https://github.com/metarank/metarank
+BlockyML | Blocky based visual tool for ML | ui, blocky | https://github.com/chekoduadarsh/BlocklyML
+CodeGen | CodeGen is an open-source model for program synthesis | codex | https://github.com/salesforce/CodeGen
