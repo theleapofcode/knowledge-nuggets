@@ -144,3 +144,5 @@ Algorithms ** | Algos and data structures in JS | algo | https://github.com/trek
 RobotJS ** | Desktop automation | automation | http://robotjs.io/
 Bree ** | Job scheduler | jobs | https://jobscheduler.net/
 zx ** | A tool for writing better scripts | bash, google | https://github.com/google/zx
+AdminJS | Admin panel for node apps with CRUD, RBAC etc. | admin | https://adminjs.co/
+StromJS | Stream utils for Node | stream | https://github.com/lewisdiamond/stromjs
