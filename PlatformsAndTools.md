@@ -46,6 +46,9 @@ Veniqa ** | Opensource e-commerce platform | e-commerce | https://www.veniqa.com
 AppFlowy ** | Open source Notion alternative | notes | https://github.com/AppFlowy-IO/appflowy
 DopplerTask ** | A revolutionary open-source automation tool | automation, ifttt | https://github.com/dopplertask/dopplertask
 HomeLab ** | Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services | infra, home | https://github.com/khuedoan/homelab
+Appwrite *** | Self hosted backend as a service platform (Self hosted Firebase) | BaaS, firebase | https://appwrite.io/
+Apache Apisix ** | API gateway | api-gateway | https://apisix.apache.org/
+Conductor ** | Workflow automation platform by netflix | netflix, workflow | https://conductor.netflix.com/
 
 # Tools
 
@@ -182,3 +185,5 @@ Kafka UI | UI for kafka management | kafka | https://github.com/provectus/kafka-
 IconKitchen ** | App icon generator | app, icons | https://icon.kitchen/
 Tabby | A terminal for a more modern age | terminal | https://github.com/Eugeny/tabby
 NRich ** | A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities. Can also be fed data from stdin to be used in a data pipeline. | security, cli | https://gitlab.com/shodan-public/nrich
+EnvKey | Secure app config utility | env, security | https://github.com/envkey/envkey
+NightwatchJS ** | End to end test automation tool | testing, automation, nodejs | https://nightwatchjs.org/
