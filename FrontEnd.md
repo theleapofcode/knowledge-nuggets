@@ -158,3 +158,9 @@ MotionOne | Web animations lib | animation | https://motion.dev/
 Ninja keys | Keyboard shortcuts for website | keyboard shortcut | https://github.com/ssleptsov/ninja-keys
 Sharer | lightweight js lib to create custom social share components on DOM elements for your website. No dependencies | social | https://ellisonleao.github.io/sharer.js/
 Apache ECharts ** | JS charting | charts | https://echarts.apache.org/en/index.html
+StorybookJS ** | UI component builder | ui, builder | https://storybook.js.org/
+Macaron | Tool to design UI elements | design | https://macaron-elements.com/
+Tabler | HTML dashboard UI kit | dashboard | https://github.com/tabler/tabler
+Patterns | Web design and impl patterns book | book | https://www.patterns.dev/
+Lusift ** | Web page tour library for Vue | vue, tour | https://lusift.vercel.app/
+Luisa | Figma to Vue app converter | figma, vue | https://luisa.cloud/
