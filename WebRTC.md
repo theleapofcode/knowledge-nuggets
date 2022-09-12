@@ -41,3 +41,5 @@ Coturn security fix ** | Coturn default access security risk | coturn, security 
 Deskreen ** | Deskreen turns any device with a web browser into a secondary screen for your computer | screen-share | https://github.com/pavlobu/deskreen
 Insertable streams | Insertable streams for MediaStreamTrack | stream | https://web.dev/mediastreamtrack-insertable-media-processing/
 Video background ** | Edit live video background with tfjs | tfjs, tutorial | https://blog.francium.tech/edit-live-video-background-with-webrtc-and-tensorflow-js-c67f92307ac5
+MockRTC | WebRTC testing utility | testing | https://github.com/httptoolkit/mockrtc/
+Werift | Nodejs webrtc implementation | nodejs | https://github.com/shinyoshiaki/werift-webrtc
