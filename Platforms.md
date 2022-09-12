@@ -49,4 +49,8 @@ HomeLab ** | Small and energy efficient self-hosting infrastructure, fully autom
 Appwrite *** | Self hosted backend as a service platform (Self hosted Firebase) | BaaS, firebase | https://appwrite.io/
 Apache Apisix ** | API gateway | api-gateway | https://apisix.apache.org/
 Conductor ** | Workflow automation platform by netflix | netflix, workflow | https://conductor.netflix.com/
-
+Chatwoot ** | Zendesk alternative | support | https://www.chatwoot.com/
+oncall ** | Oncall support platform | support | https://github.com/grafana/oncall
+Nocobase | No code platform | nocode | https://www.nocobase.com/
+Affine | Notion alternative | notes | https://affine.pro/
+Openship | Multi-channel fulfillment at scale | e-commerce | https://openship.org/
