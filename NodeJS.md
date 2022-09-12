@@ -146,3 +146,5 @@ Bree ** | Job scheduler | jobs | https://jobscheduler.net/
 zx ** | A tool for writing better scripts | bash, google | https://github.com/google/zx
 AdminJS | Admin panel for node apps with CRUD, RBAC etc. | admin | https://adminjs.co/
 StromJS | Stream utils for Node | stream | https://github.com/lewisdiamond/stromjs
+Wild WIld path ** | Object property paths and regex | regex | https://github.com/ehmicky/wild-wild-path
+Piscina ** | Nodejs worker pool impl | workers | https://github.com/piscinajs/piscina
