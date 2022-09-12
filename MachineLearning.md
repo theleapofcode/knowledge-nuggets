@@ -358,4 +358,6 @@ Cog ** | Containers for ML prediction | docker | https://github.com/replicate/co
 Colossal-AI | A Unified Deep Learning System for Big Model Era | deep-learning | https://github.com/hpcaitech/ColossalAI
 Dot | Deepfake toolkit | deepfake | https://github.com/sensity-ai/dot
 Diffgram | Data preprocessing tool | preprocessing, data | https://github.com/diffgram/diffgram
+Yoha | Hand tracking engine | hand-tracking | https://github.com/handtracking-io/yoha
+Hugging Face ** | Build, train and deploy state of the art models powered by the reference open source in machine learning | models | https://huggingface.co/
 
