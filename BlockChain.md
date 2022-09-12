@@ -12,3 +12,5 @@ BAT | Basic attention token | advertizing | https://basicattentiontoken.org/
 MedicalChain ** | BlockChain for storing medical data | medical, EMR | https://medicalchain.com/en/
 datdata | P2P data sharing framework | data-sharing | https://datproject.org/
 NFT marketplace ** | Tutorial on how to build an NFT marketplace | nft, etherium | https://blog.tatum.io/how-to-build-nft-marketplaces-part-1-frontend-and-user-journey-9b5c92af838a
+Eth2 book ** | Etherium book | etherium, book | https://github.com/smartcontracts/eth2-book
+Medical Blockchain | Block chanin based EHR from IBM | ehr | https://github.com/IBM/Medical-Blockchain
