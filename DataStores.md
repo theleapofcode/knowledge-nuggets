@@ -40,3 +40,6 @@ Cogram | Cogram translates plain English into database queries | sql, ml | https
 ImmuDB ** | immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history | immutable | https://github.com/codenotary/immudb
 TDEngine | An open-source time-series database | timeseries | https://github.com/taosdata/TDengine
 Redis-smq ** | Redis based message queue | redis, mq | https://github.com/weyoss/redis-smq
+S3 proxy ** | S3 proxy for various backends | s3 | https://github.com/gaul/s3proxy
+CeresDB ** | Cloud native time series DB | timeseries | https://github.com/CeresDB/ceresdb
+SurrealDB | Cloud native multi model db | multi-model | https://surrealdb.com/
