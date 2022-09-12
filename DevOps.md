@@ -67,5 +67,6 @@ Kr8s ** | K8s visualization tool | k8s, visualization | https://github.com/oslab
 KubeSphere ** | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management | k8s, management | https://github.com/kubesphere/kubesphere
 Geyfra | K8s local dev environment | k8s, local | https://github.com/gefyrahq/gefyra
 PacketStreamer | Distributed tcpdump for cloud native environments | tcpdump, debug | https://github.com/deepfence/PacketStreamer
-
-
+LFCA Courses ** | Free Linux & DevOps courses | course, linux | https://training.linuxfoundation.org/resources/lfca-free-resources/
+Opencost ** | K8s cost estimation tool | k8s, cost | https://github.com/opencost/opencost
+Parseable | Cloud native log aggregation and analysis | log | https://www.parseable.io/
