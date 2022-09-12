@@ -52,3 +52,5 @@ TextStat | python package to calculate readability statistics of a text object -
 Face2Data | Extract features like gender, race, age from face image | face | https://github.com/rodrigobressan/face2data
 PySDR | Software defined radio and DSP in python | dsp, sdr | https://pysdr.org/index.html
 Kats | Time series analysis lib | time-series | https://facebookresearch.github.io/Kats/
+ads | Store data in soundwaves | sound, crypto | https://github.com/stackbuffer/ads
+
