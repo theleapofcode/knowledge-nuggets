@@ -354,3 +354,8 @@ Gradio ** | Gradio is the fastest way to demo your machine learning model with a
 MetaRank | A low code Machine Learning service that personalizes articles, listings, search results, recommendations to boost user engagement. A friendly Learn-to-Rank engine | personalization, ranking | https://github.com/metarank/metarank
 BlockyML | Blocky based visual tool for ML | ui, blocky | https://github.com/chekoduadarsh/BlocklyML
 CodeGen | CodeGen is an open-source model for program synthesis | codex | https://github.com/salesforce/CodeGen
+Cog ** | Containers for ML prediction | docker | https://github.com/replicate/cog
+Colossal-AI | A Unified Deep Learning System for Big Model Era | deep-learning | https://github.com/hpcaitech/ColossalAI
+Dot | Deepfake toolkit | deepfake | https://github.com/sensity-ai/dot
+Diffgram | Data preprocessing tool | preprocessing, data | https://github.com/diffgram/diffgram
+
