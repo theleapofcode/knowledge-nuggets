@@ -54,3 +54,9 @@ oncall ** | Oncall support platform | support | https://github.com/grafana/oncal
 Nocobase | No code platform | nocode | https://www.nocobase.com/
 Affine | Notion alternative | notes | https://affine.pro/
 Openship | Multi-channel fulfillment at scale | e-commerce | https://openship.org/
+Self hosting guide | Guide for self hosting | hosting | https://github.com/mikeroyal/Self-Hosting-Guide
+KillBill ** | Open source billing system | billing | https://killbill.io/
+Melto ** | API security platform | security | https://github.com/metlo-labs/metlo
+InboxSDK ** | Platform to build apps inside GMail | gmail | https://www.inboxsdk.com/
+Signoz ** | APM tool alternatove to datadog | apm, observability | https://github.com/SigNoz/signoz
+ContainerSSH ** | Launch containers on demand | lab-environments | https://github.com/ContainerSSH/ContainerSSH
