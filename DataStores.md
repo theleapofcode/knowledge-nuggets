@@ -43,3 +43,6 @@ Redis-smq ** | Redis based message queue | redis, mq | https://github.com/weyoss
 S3 proxy ** | S3 proxy for various backends | s3 | https://github.com/gaul/s3proxy
 CeresDB ** | Cloud native time series DB | timeseries | https://github.com/CeresDB/ceresdb
 SurrealDB | Cloud native multi model db | multi-model | https://surrealdb.com/
+Sonic ** | Fuzzy search alternative to ES | search, ES | https://github.com/valeriansaliou/sonic
+ZincSearch ** | ES alternative | search, ES | https://zincsearch.com/
+RxDB ** | Offline first reactive DB for JS | reactive, offline | https://github.com/pubkey/rxdb
