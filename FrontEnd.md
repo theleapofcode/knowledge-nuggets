@@ -164,3 +164,6 @@ Tabler | HTML dashboard UI kit | dashboard | https://github.com/tabler/tabler
 Patterns | Web design and impl patterns book | book | https://www.patterns.dev/
 Lusift ** | Web page tour library for Vue | vue, tour | https://lusift.vercel.app/
 Luisa | Figma to Vue app converter | figma, vue | https://luisa.cloud/
+UIVerse | Front end components | components | https://uiverse.io/
+Theatre.js | JS animation library | animation | https://www.theatrejs.com/
+Penpot | Open source figma alternative | design, ux | https://penpot.app/
