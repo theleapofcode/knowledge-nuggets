@@ -70,3 +70,5 @@ PacketStreamer | Distributed tcpdump for cloud native environments | tcpdump, de
 LFCA Courses ** | Free Linux & DevOps courses | course, linux | https://training.linuxfoundation.org/resources/lfca-free-resources/
 Opencost ** | K8s cost estimation tool | k8s, cost | https://github.com/opencost/opencost
 Parseable | Cloud native log aggregation and analysis | log | https://www.parseable.io/
+Ktunnel ** | Tunnel from k8s cluster to localhost for exposing local service to cluster | k8s, tunnel | https://github.com/omrikiei/ktunnel
+k9s ** | CLI to manage k8s | k8s, cli | https://k9scli.io/
