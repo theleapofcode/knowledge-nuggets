@@ -142,4 +142,5 @@ Natifier | Make any webpage an app | electron | https://github.com/nativefier/na
 ImHex | Hex editor for reverse engineering | revers-engineering | https://github.com/WerWolv/ImHex
 Stemroller | Isolate vocals and instruments from sound | sound | https://github.com/stemrollerapp/stemroller
 Libraries.io | Library search tool | search | https://libraries.io/
-
+Roadmap.sh | Roadmaps for developers | learning | https://roadmap.sh/
+the-algorithms ** | Algorithms library | algorithm | https://the-algorithms.com/
