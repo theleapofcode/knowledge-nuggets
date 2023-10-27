@@ -72,3 +72,4 @@ Opencost ** | K8s cost estimation tool | k8s, cost | https://github.com/opencost
 Parseable | Cloud native log aggregation and analysis | log | https://www.parseable.io/
 Ktunnel ** | Tunnel from k8s cluster to localhost for exposing local service to cluster | k8s, tunnel | https://github.com/omrikiei/ktunnel
 k9s ** | CLI to manage k8s | k8s, cli | https://k9scli.io/
+K8s networking tutorial | Tutorial on k8s networking | tutorial, k8s | https://learnk8s.io/kubernetes-network-packets
