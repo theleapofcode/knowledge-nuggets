@@ -46,3 +46,4 @@ SurrealDB | Cloud native multi model db | multi-model | https://surrealdb.com/
 Sonic ** | Fuzzy search alternative to ES | search, ES | https://github.com/valeriansaliou/sonic
 ZincSearch ** | ES alternative | search, ES | https://zincsearch.com/
 RxDB ** | Offline first reactive DB for JS | reactive, offline | https://github.com/pubkey/rxdb
+Mongo perf tuning | MongoDB and mongoose performance tuning | mongo, perf | https://itnext.io/performance-tips-for-mongodb-mongoose-190732a5d382
