@@ -47,3 +47,4 @@ Sonic ** | Fuzzy search alternative to ES | search, ES | https://github.com/vale
 ZincSearch ** | ES alternative | search, ES | https://zincsearch.com/
 RxDB ** | Offline first reactive DB for JS | reactive, offline | https://github.com/pubkey/rxdb
 Mongo perf tuning | MongoDB and mongoose performance tuning | mongo, perf | https://itnext.io/performance-tips-for-mongodb-mongoose-190732a5d382
+Tigris | Tigris is an Open Source Serverless NoSQL Database and Search Platform. | nosql | https://github.com/tigrisdata/tigris
