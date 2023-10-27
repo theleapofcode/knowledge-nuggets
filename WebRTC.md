@@ -43,3 +43,4 @@ Insertable streams | Insertable streams for MediaStreamTrack | stream | https://
 Video background ** | Edit live video background with tfjs | tfjs, tutorial | https://blog.francium.tech/edit-live-video-background-with-webrtc-and-tensorflow-js-c67f92307ac5
 MockRTC | WebRTC testing utility | testing | https://github.com/httptoolkit/mockrtc/
 Werift | Nodejs webrtc implementation | nodejs | https://github.com/shinyoshiaki/werift-webrtc
+WebRTC sizing tutorial | Performance estimation of WebRTC | tutorial | https://bloggeek.me/how-many-users-webrtc-call/
