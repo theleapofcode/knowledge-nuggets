@@ -60,3 +60,5 @@ Melto ** | API security platform | security | https://github.com/metlo-labs/metl
 InboxSDK ** | Platform to build apps inside GMail | gmail | https://www.inboxsdk.com/
 Signoz ** | APM tool alternatove to datadog | apm, observability | https://github.com/SigNoz/signoz
 ContainerSSH ** | Launch containers on demand | lab-environments | https://github.com/ContainerSSH/ContainerSSH
+AppWrite ** | Self hosted backend as a service | baas | https://appwrite.io/
+OpenReplay ** | OpenReplay is developer-friendly, self-hosted session replay | debugging, observability | https://github.com/openreplay/openreplay
