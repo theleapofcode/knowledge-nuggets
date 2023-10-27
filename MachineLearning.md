@@ -362,3 +362,4 @@ Yoha | Hand tracking engine | hand-tracking | https://github.com/handtracking-io
 Hugging Face ** | Build, train and deploy state of the art models powered by the reference open source in machine learning | models | https://huggingface.co/
 betafish | AI based chess engine and move predictor | chess | https://github.com/Strryke/betafish
 Brainflow ** | BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors. | medical | https://brainflow.org/
+Truthsayer | ML based lie detector and heart rate monitor | face | https://github.com/everythingishacked/Truthsayer
