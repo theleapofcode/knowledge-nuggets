@@ -167,3 +167,4 @@ Luisa | Figma to Vue app converter | figma, vue | https://luisa.cloud/
 UIVerse | Front end components | components | https://uiverse.io/
 Theatre.js | JS animation library | animation | https://www.theatrejs.com/
 Penpot | Open source figma alternative | design, ux | https://penpot.app/
+TourguideJS | TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps | tour | https://github.com/sjmc11/tourguide-js
