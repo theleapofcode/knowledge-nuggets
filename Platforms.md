@@ -62,3 +62,8 @@ Signoz ** | APM tool alternatove to datadog | apm, observability | https://githu
 ContainerSSH ** | Launch containers on demand | lab-environments | https://github.com/ContainerSSH/ContainerSSH
 AppWrite ** | Self hosted backend as a service | baas | https://appwrite.io/
 OpenReplay ** | OpenReplay is developer-friendly, self-hosted session replay | debugging, observability | https://github.com/openreplay/openreplay
+SuperTokens ** | Full stack auth framework | auth | https://supertokens.com/
+Illa | Low code internal tools platform | low-code | https://www.illacloud.com/
+OpenBlocks | Low code platform | low-code | https://github.com/openblocks-dev/openblocks
+Eleven CLI | A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account | dev, cloud | https://github.com/eleven-sh/cli
+Mathics | A free, open-source alternative to Mathematica | math | https://mathics.org/
