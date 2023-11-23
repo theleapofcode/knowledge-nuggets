@@ -144,3 +144,4 @@ Stemroller | Isolate vocals and instruments from sound | sound | https://github.
 Libraries.io | Library search tool | search | https://libraries.io/
 Roadmap.sh | Roadmaps for developers | learning | https://roadmap.sh/
 the-algorithms ** | Algorithms library | algorithm | https://the-algorithms.com/
+Sharing ** | CLI to share directories from PC to mobile | file-sharing | https://github.com/parvardegr/sharing
