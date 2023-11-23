@@ -73,3 +73,6 @@ Parseable | Cloud native log aggregation and analysis | log | https://www.parsea
 Ktunnel ** | Tunnel from k8s cluster to localhost for exposing local service to cluster | k8s, tunnel | https://github.com/omrikiei/ktunnel
 k9s ** | CLI to manage k8s | k8s, cli | https://k9scli.io/
 K8s networking tutorial | Tutorial on k8s networking | tutorial, k8s | https://learnk8s.io/kubernetes-network-packets
+keda ** | K8s event driven autoscaling | k8s, autoscaling | https://keda.sh/, https://www.linode.com/blog/kubernetes/scaling-kubernetes-to-zero-and-back/
+Helm dashboard ** | UI for Helm | helm, k8s | https://github.com/komodorio/helm-dashboard
+Kubeshark ** | K8s API traffic analyzer | k8s, traffic | https://www.kubeshark.co/
