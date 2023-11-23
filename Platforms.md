@@ -67,3 +67,5 @@ Illa | Low code internal tools platform | low-code | https://www.illacloud.com/
 OpenBlocks | Low code platform | low-code | https://github.com/openblocks-dev/openblocks
 Eleven CLI | A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account | dev, cloud | https://github.com/eleven-sh/cli
 Mathics | A free, open-source alternative to Mathematica | math | https://mathics.org/
+Nfty ** | Push Notification service for Mobile and Desktop | notification | https://ntfy.sh/
+Mycroft AI ** | Self hosted open source voice assistant | voice-assitant | https://mycroft.ai/
